@@ -28,20 +28,9 @@ collections:
         name: "body" 
         widget: "markdown" 
         required: false
-  - label: "Locations Page"
-        name: "locations"
-        file: "site/content/locations.yml"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
-          - label: Locations
-            name: locations
-            widget: list
-            fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Address, name: address, widget: string}
-  - label: "Items"
-    name: "items"
+  
+  - name: "items"
+    label: "Items"
     editor:
       preview: false
     create: true
