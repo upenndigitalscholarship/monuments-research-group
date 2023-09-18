@@ -28,32 +28,33 @@ collections:
         name: "body" 
         widget: "markdown" 
         required: false
-  
-  - name: "items"
-    label: "Items"
-    editor:
-      preview: false
-    create: true
-    file: "_data/items.yml"
-    widget: list
-    allow_add: true
-    collapsed: true
-    fields:  
-      - label: Title
-        name: title
-        widget: string
-      - label: Description
-        name: description
-        widget: markdown
-        required: false
-      - label: "File"
-        name: "file"
-        widget: "file"
-        required: false
-      - label: "Latitude / Longitude"
-        name: "lat"
-        widget: "number"
-      - label: "Longitude"
-        name: "long"
-        widget: "number"
-      
+  - label: "Map"
+    name: "mapping"
+    files:
+      - name: "monuments"
+        label: "Monuments"
+        editor:
+          preview: false
+        create: true
+        file: "_data/monuments.yml"
+        widget: list
+        allow_add: true
+        collapsed: true
+        fields:  
+          - label: Title
+            name: title
+            widget: string
+          - label: Description
+            name: description
+            widget: markdown
+            required: false
+          - label: "File"
+            name: "file"
+            widget: "file"
+            required: false
+          - label: "Latitude / Longitude"
+            name: "lat"
+            widget: "number"
+          - label: "Longitude"
+            name: "long"
+            widget: "number"
