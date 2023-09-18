@@ -21,7 +21,7 @@ This is where the maps goes
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
-    {% for item in items %}
+    {% for item in items.items %}
     {{ item }}
     L.marker([{{ item.lat }}, {{ item.long }}]).addTo(map)
         .bindPopup("{{ item.name }}");

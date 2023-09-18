@@ -28,6 +28,7 @@ collections:
         name: "body" 
         widget: "markdown" 
         required: false
+  
   - label: "Items"
     name: "items"
     editor:
@@ -36,7 +37,7 @@ collections:
     files:
       - label: "Items"
         name: "items"
-        file: "_data/items.yaml"
+        file: "_data/items.yml"
         fields:
           - label: Items
             name: items
