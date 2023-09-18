@@ -1,0 +1,60 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+
+  
+media_folder: "/assets/media"
+public_folder: "/assets/media"
+
+# Please run "npx netlify-cms-proxy-server" for local backend
+local_backend: true
+# publish_mode: editorial_workflow
+collections:
+  - name: "page" # Used in routes, e.g., /admin/collections/blog
+    editor:
+      preview: true
+    label: "Page" # Used in the UI
+    identifier_field: page
+    folder: "/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      # Lesson
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      # Text
+      - label: "Text" 
+        name: "body" 
+        widget: "markdown" 
+        required: false
+  # - label: "Items"
+  #   name: "items"
+  #   editor:
+  #     preview: false
+  #   files:
+  #     - label: "Items"
+  #       name: "items"
+  #       file: "_data/items.yaml"
+  #       fields:
+  #         - label: Items
+  #           name: items
+  #           widget: list
+  #           allow_add: true
+  #           collapsed: false
+  #           fields:
+  #             - label: Title
+  #               name: title
+  #               widget: string
+  #             - label: Description
+  #               name: description
+  #               widget: markdown
+  #               required: false
+  #             - label: "File"
+  #               name: "file"
+  #               widget: "file"
+  #               required: false
+  #             - label: "Latitude / Longitude"
+  #               name: "latlng"
+  #               widget: "string"
+              
