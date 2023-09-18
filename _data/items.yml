@@ -1,1 +1,6 @@
 items:
+  - title: Hi there
+    description: This is a description
+    file: /assets/media/IMG_20190818_123456.jpg
+    lat: 51.5074
+    long: 0.1278
