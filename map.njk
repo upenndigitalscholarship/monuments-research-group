@@ -24,6 +24,6 @@ This is where the maps goes
 	    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>'
     }).addTo(map);
     {% for monument in collections.monuments %}
-    L.marker([{{ monument.data.lat }}, {{ monument.data.long }}]).addTo(map).bindPopup("{{ monument.data.title }}");
+    L.marker([{{ monument.data.lat }}, {{ monument.data.long }}]).addTo(map).bindPopup("{{ monument.data.title }}<br>{{ monument.data.description }}");
     {% endfor %}
 </script>
