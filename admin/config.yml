@@ -30,37 +30,29 @@ collections:
         widget: "markdown" 
         required: false
         
-  - label: "Map Data"
-    name: "map-data"
-    editor:
-      preview: false
-    files:
-      - label: "Monuments"
-        name: "monuments"
-        file: "_data/monuments.yaml"
-        fields:
-          - label: Monument
-            name: monuments
-            widget: list
-            allow_add: true
-            collapsed: false
-            fields:
-              - label: Title
-                name: title
-                widget: string
-              - label: Description
-                name: description
-                widget: markdown
-                required: false
-              - label: "File"
-                name: "file"
-                widget: "file"
-                required: false
-              - label: "Latitude"
-                name: "lat"
-                widget: "number"
-              - label: "Longitude"
-                name: "long"
-                widget: "number"
-    
-          
+  
+    - label: "Monuments"
+      name: "monuments"
+      folder: "monuments"
+      fields:
+        - label: Title
+          name: title
+          widget: string
+        - label: Description
+          name: description
+          widget: markdown
+          required: false
+        - label: "File"
+          name: "file"
+          widget: "file"
+          required: false
+        - label: "Latitude"
+          name: "lat"
+          widget: "number"
+        - label: "Longitude"
+          name: "long"
+          widget: "number"
+        - label: "Text" 
+          name: "body" 
+          widget: "markdown" 
+          required: false
