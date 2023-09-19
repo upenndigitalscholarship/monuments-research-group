@@ -1,0 +1,13 @@
+---
+title: Essays
+layout: base.njk
+---
+
+    {% for essay in collections.essays %}
+     <div class="card">
+        
+        <div class="container">
+            <h4><a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a></h4>
+        </div>
+    </div> 
+    {% endfor %}

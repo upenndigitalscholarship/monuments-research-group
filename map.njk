@@ -1,7 +1,7 @@
 ---
 title: Map
+layout: base.njk
 ---
-<a href="/">Home</a><br>
 This is where the maps goes
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -17,11 +17,10 @@ This is where the maps goes
  <div id="map"></div>
 
 <script>
-    let map = L.map('map').setView([39.951341960732286, -75.19363396859703], 14);
+    let map = L.map('map').setView([39.951341960732286, -75.19363396859703], 16);
     
     L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
 	    maxZoom: 19,
-	    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>'
     }).addTo(map);
     {% for monument in collections.monuments %}
     L.marker([{{ monument.data.lat }}, {{ monument.data.long }}]).addTo(map).bindPopup("{{ monument.data.title }}<br>{{ monument.data.description }}");
