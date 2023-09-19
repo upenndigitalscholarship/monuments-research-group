@@ -29,30 +29,33 @@ collections:
         name: "body" 
         widget: "markdown" 
         required: false
-        
-  
-    - label: "Monuments"
-      name: "monuments"
-      folder: "monuments"
-      fields:
-        - label: Title
-          name: title
-          widget: string
-        - label: Description
-          name: description
-          widget: markdown
-          required: false
-        - label: "File"
-          name: "file"
-          widget: "file"
-          required: false
-        - label: "Latitude"
-          name: "lat"
-          widget: "number"
-        - label: "Longitude"
-          name: "long"
-          widget: "number"
-        - label: "Text" 
-          name: "body" 
-          widget: "markdown" 
-          required: false
+    
+  - label: "Monument"
+    name: "monument"
+    folder: "monuments"
+    editor:
+      preview: true
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Description
+        name: description
+        widget: markdown
+        required: false
+      - label: "File"
+        name: "file"
+        widget: "file"
+        required: false
+      - label: "Latitude"
+        name: "lat"
+        widget: "number"
+      - label: "Longitude"
+        name: "long"
+        widget: "number"
+      - label: "Text" 
+        name: "body" 
+        widget: "markdown" 
+        required: false
