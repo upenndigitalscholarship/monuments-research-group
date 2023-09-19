@@ -17,6 +17,7 @@ collections:
     identifier_field: page
     folder: "/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    filter: {field: "visible", value: true}
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       # Lesson
@@ -28,19 +29,22 @@ collections:
         name: "body" 
         widget: "markdown" 
         required: false
-  - label: "Map"
-    name: "mapping"
-    files:
-      - name: "monuments"
-        label: "Monuments"
-        editor:
-          preview: false
-        create: true
-        file: "_data/monuments.yml"
+  - label: "Monuments"
+    name: "monuments"
+    editor:
+      preview: false
+    create: true
+    file: "_data/monuments.yml"
+    widget: list
+    allow_add: true
+    collapsed: true
+    fields:
+      - label: Monuments
+        name: monuments
         widget: list
         allow_add: true
-        collapsed: true
-        fields:  
+        collapsed: false
+        fields:
           - label: Title
             name: title
             widget: string
@@ -52,9 +56,10 @@ collections:
             name: "file"
             widget: "file"
             required: false
-          - label: "Latitude / Longitude"
+          - label: "Latitude"
             name: "lat"
             widget: "number"
           - label: "Longitude"
             name: "long"
             widget: "number"
+          
