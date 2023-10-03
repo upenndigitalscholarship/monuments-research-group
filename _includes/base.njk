@@ -11,9 +11,11 @@
   <li><a href="/map">Map</a></li>
 </ul>
     <div class="container">
-        {{ content | safe }}
+        {{ content | markdownify| safe }}
     </div>
 </body>
 </html>
+
+
 
 
