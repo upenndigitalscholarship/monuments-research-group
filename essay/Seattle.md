@@ -2,6 +2,8 @@
 title: Seattle
 ---
 
+Seattle
+
 Far away from the towering monuments and waving flags of the former
 Confederacy, the city of Seattle became a forum where Black reporters
 reflected on the implications of commemorating rebellion. Two Seattle
