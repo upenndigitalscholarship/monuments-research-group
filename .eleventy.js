@@ -1,4 +1,4 @@
-const markdownIt = require("markdown-it");
+const markdownIt = require('markdown-it');
 
 module.exports = function(eleventyConfig) {  
     eleventyConfig.addPassthroughCopy("assets");
@@ -6,8 +6,10 @@ module.exports = function(eleventyConfig) {
     let options = {
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
+    typographer: true
     };
 
     eleventyConfig.setLibrary("md", markdownIt(options));
+    eleventyConfig.amendLibrary("md", markdownIt => markdownIt.use(require('markdown-it-footnote')))
 };
