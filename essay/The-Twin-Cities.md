@@ -1,9 +1,10 @@
---- 
-title: The Twin Cities
----
+Title: "To Perpetuate a False Image of History": Criticisms of
+Confederate Commemoration from the Twin Cities
 
-"To Perpetuate a False Image of History" -- Black Journalism in the Twin
-Cities on Confederate Commemoration
+Author: Justin Seward
+
+Location:
+<https://www.google.com/maps/place/Minneapolis+Spokesman-Recorder/@44.9777667,-93.2834648,15z/data=!3m1!4b1!4m6!3m5!1s0x52b3339202e007c3:0xe24b8b23b84d0fe6!8m2!3d44.977753!4d-93.2650108!16s%2Fg%2F11q8slx7bg?entry=ttu>
 
 Minnesota's Twin Cities---Minneapolis and St. Paul---share a strong
 tradition of Black commentary on Confederate commemoration stemming back
@@ -12,13 +13,13 @@ five, depending on how you count) Black-led newspapers: the *Appeal*,
 the *Twin City Star*, the *Western Appeal*, the *Minneapolis Spokesman*,
 and the *St. Paul Recorder*. (The latter two were the same newspaper,
 but titled differently depending on which side of the metro area they
-were distributed.[^1]) Black journalists at these publications jointly
-offered some of the most powerful voices naming the injustices
-perpetuated by Confederate commemoration in the country.
+were distributed.[^1]) Black journalists at these publications lent
+their powerful voices to the work of naming the injustices perpetuated
+by Confederate commemoration in the country.
 
 The *Appeal* published a number of articles between 1887 and 1923 on
-Confederate commemoration. The two earliest articles were from 1887,
-both covering the emerging anchor of the future Monument Avenue---the
+Confederate commemoration. The two earliest were from 1887, both
+covering the emerging anchor of the future Monument Avenue---the
 sculpture of Robert E. Lee in Richmond, Virginia. These pieces discussed
 the Parisian sculptor Antonin Mercié, the plans for the monument, and
 the laying of the cornerstone.[^2] In 1889, the *Appeal* published a
@@ -33,18 +34,16 @@ the Confederacy, at which "an immense confederate flag occupied the most
 conspicuous place over the stage, high above the stars and stripes,"
 noting that "The Southern people are still rebels."[^4]
 
-The *Appeal* also responded to other publications around the country. In
+The *Appeal* also responded to other news outlets around the country. In
 1905, the *Appeal* quoted an article from the historically white
 Charleston *News and Courier*, which stated that a "new North" will soon
 emerge that will feature "statues of Lee and Stonewall Jackson... in the
 squares of Northern cities as types of ideal Americans."[^5] The
-*Appeal* responded with intense criticism to the notion of the
-veneration of Confederates in Northern cities, arguing that the "new
-North" was, in fact, actually the old North that discriminated against
-Black people, citing an instance where Northerners burned orphan
-asylums.[^6] The *Appeal* also commented on Confederate flags, the Ku
-Klux Klan, Confederates honored in Statuary Hall, and monuments to
-"Mammies."[^7]
+*Appeal* fiercely criticized the notion of Confederate veneration in
+Northern cities, arguing that the "new North" was, in fact, actually the
+old North that discriminated against Black people.[^6] The *Appeal* also
+commented on Confederate flags, the Ku Klux Klan, Confederates honored
+in Statuary Hall, and monuments to "Mammies."[^7]
 
 Between 1915 and 1917, the *Twin City Star* published a cluster of three
 articles covering the return of captured Confederate flags to the
@@ -57,8 +56,8 @@ The *Western Appeal* published three articles between 1887 and 1888 on
 issues related to the national political environment, various small
 monuments, and the return of captured Confederate flags.[^10] But on the
 issue of President Grover Cleveland's return of flags to
-ex-Confederates, the *Western Appeal* struck a much more bitter tone
-than the *Twin City Star*. An 1887 piece stated:
+ex-Confederates, the *Western Appeal* struck a bitter tone. An 1887
+piece stated:
 
 > The trouble in this country today has been brought about by the
 > wishey-washey gush and slush sentimental policy which has been
@@ -77,7 +76,7 @@ Democrats seeking control of the country, payment of Confederate debt,
 reimbursement of slaveholders, and pensioning of Confederate soldiers.
 
 This interest in the dynamic between Confederate commemoration and
-policy continued into the 20^th^ century. The *Minneapolis Spokesman*
+policy continued into the twentieth century. The *Minneapolis Spokesman*
 and *St. Paul Recorder* published a number of articles between 1937 and
 1961 on a wide range of relevant topics, including the display of
 Confederate flags, organizations like the United Daughters of the
@@ -101,7 +100,7 @@ mixed up with 'Dixie' and the sudden rebirth of the Confederate flag.
 But the modern world moves away from 'lost causes,' however romantic,
 and there is nothing quite so dead as an idea tried and found
 wanting."[^15] The resurgence in visibility of Confederate flags, as
-these journalists saw it, was in support of the myth of state
+these journalists saw it, reflected rising support for the myth of state
 sovereignty.
 
 In a 1961 article, the *Minneapolis Spokesman*/*St. Paul Recorder*
@@ -119,74 +118,75 @@ Confederate commemoration:
 
 *Justin Seward*
 
-References
+**References**
 
-Minnesota Historical Society. "About St. Paul Recorder 1934-2000."
-*Library of Congress: Chronicling America*,
-<https://www.loc.gov/item/sn83016804/>.
+*Afro-American*. "By Weekly for Mammy Statue." March 17, 1923, 1.
 
-*Appeal*. "The Paris Sculptor." 07/16/1887, 2.
+*Appeal*. "If Anybody Believes the Ex-Confederates are Conquered." June
+15, 1889, 2.
 
-*Appeal*. "The Laying of the Cornerstone." 11/05/1887, 2.
+*Appeal*. "In Good Old Georgia." February 12, 1910, 2.
 
-*Appeal*. "If Anybody Believes the Ex-Confederates are Conquered."
-06/15/1889, 2.
-
-*Appeal*. "Two Flags Displayed." 08/11/1906, 6.
+*Appeal*. "Jeff Davis in the Capitol." April 11, 1914, 2.
 
 *Appeal*. "Minnesota Will Give Back All Captured Confederate Battle
-Flags." 04/22/1922, 2.
+Flags." April 22, 1922, 2.
 
-*Appeal*. "Rebs to Honor K.K.K." 11/15/1919, 2.
+*Appeal*. "Rebs to Honor K.K.K." November 15, 1919, 2.
 
-*Appeal*. "Jeff Davis in the Capitol." 04/11/1914, 2.
+*Appeal*. "The Laying of the Cornerstone." November 5, 1887, 2.
 
-*Appeal*. "In Good Old Georgia." 02/12/1910, 2.
+*Appeal*. "The Paris Sculptor." July 16, 1887, 2.
 
-*Afro-American*. "By Weekly for Mammy Statue." 03/17/1923, 1.
+*Appeal*. "Two Flags Displayed." August 11, 1906, 6.
 
-*Twin City Star*. "Returning the Battleflags."05/26/1917, 4.
-
-Fallows. "The Return of the Colors." 05/29/1915, 4.
-
-*Twin City Star*. "Stars and Stripes and Stars and Bars." 05/29/1915, 1.
-
-*Western Appeal*. "The Rebels Wince." 03/10/1888.
-
-*Western Appeal*. "Notes of the Times." 04/23/1887.
-
-*Western Appeal*. "Take Notice." 06/18/1887.
-
-*Minneapolis Spokesman*. "Confused Texas Asks: 'Which Flag?'"
-01/23/1959, 3.
-
-*Minneapolis Spokesman*. "Rebel Myths on Confederacy Blocks Dixie
-Integration." 03/10/1961.
-
-Newman, Cecil. "Background of Student Sit-Downs at Dixie Store Lunch
-Counters." *Minneapolis Spokesman*, 08/31/1952.
+Fallows. "The Return of the Colors." May 29, 1915, 4.
 
 Hancock, Dean Gordon B. "The Presidential Candidates and the Southern
 Tradition." *Minneapolis Spokesman*, 10/31/1952, 10.
 
-Bibb, Joseph D. "Flying of Rebel Flag Condemned by Courier Writer."
-*Minneapolis Spokesman*, 11/23/1951.
+*Minneapolis Spokesman*. "Confused Texas Asks: 'Which Flag?'" January
+23, 1959, 3.
 
-*Minneapolis Spokesman*. "Adlai Waves Rebel Flag." 10/31/1952, 12.
+*Minneapolis Spokesman*. "Rebel Myths on Confederacy Blocks Dixie
+Integration." March 10, 1961.
+
+Minnesota Historical Society. "About St. Paul Recorder 1934--2000."
+*Library of Congress: Chronicling America*. Available at
+<https://www.loc.gov/item/sn83016804/>
+
+Newman, Cecil. "Background of Student Sit-Downs at Dixie Store Lunch
+Counters." *Minneapolis Spokesman*, August 331, 1952.
+
+*Twin City Star*. "Returning the Battleflags." May 26, 1917, 4.
+
+*Twin City Star*. "Stars and Stripes and Stars and Bars." May 29, 1915,
+1.
+
+*Western Appeal*. "Notes of the Times." April 23, 1887.
+
+*Western Appeal*. "Take Notice." June 18, 1887.
+
+*Western Appeal*. "The Rebels Wince." March 10, 1888.
+
+Bibb, Joseph D. "Flying of Rebel Flag Condemned by Courier Writer."
+*Minneapolis Spokesman*, November 23, 1951.
+
+*Minneapolis Spokesman*. "Adlai Waves Rebel Flag." October 31, 1952, 12.
 
 *Minneapolis Spokesman*. "NAACP Official Gives National Picture; Urges
-End to Segregation." 02/15/1953, 2.
+End to Segregation." February 15, 1953, 2.
 
 *Omaha Guide*. "Says Southern Women Keep Rift Open." *Minneapolis
-Spokesman*, 10/16/1937, 3.
+Spokesman*, October 16, 1937, 3.
 
-*Minneapolis Star*. "Power of a Myth." *Minneapolis Spokesman*,
-02/03/1956, 2.
+*Minneapolis Star*. "Power of a Myth." *Minneapolis Spokesman*, February
+3, 1956, 2.
 
-*Minneapolis Spokesman*, "Out West." 11/09/1951, 1.
+*Minneapolis Spokesman*, "Out West." November 9, 1951, 1.
 
-*Equal Justice Initiative*. "Massive Resistance."
-<https://segregationinamerica.eji.org/report/massive-resistance.html>
+*Equal Justice Initiative*. "Massive Resistance." Available at
+https://segregationinamerica.eji.org/report/massive-resistance.html
 
 [^1]: Minnesota Historical Society, "About St. Paul Recorder 1934-2000."
 

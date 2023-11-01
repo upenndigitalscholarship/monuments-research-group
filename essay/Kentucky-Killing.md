@@ -1,7 +1,3 @@
----
-title: Kentucy Killing
----
-
 # Killing of a Kentucky Teen Flying the Confederate Flag (1995)
 
 On January 14th 1995, nineteen-year-old Michael Westerman from Kentucky

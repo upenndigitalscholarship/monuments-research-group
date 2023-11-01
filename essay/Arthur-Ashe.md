@@ -1,7 +1,3 @@
----
-title: Arthur Ashe
----
-
 "The spirit that Arthur gave to Richmond has been overlooked": Ashe on
 Monument Ave
 

@@ -1,8 +1,10 @@
----
-title: Lee Stamp
----
+Title: "The Foremost Apostle of Slavery" -- J.A. Rogers on the 1937 Lee
+Stamps
 
-"The Foremost Apostle of Slavery" -- J.A. Rogers on the 1937 Lee Stamps
+Author: Justin Seward
+
+Location:
+https://www.google.com/maps/place/New+Pittsburgh+Courier+Pub+Co/@40.4295644,-80.2855788,11z/data=!4m10!1m2!2m1!1s%22pittsburgh+courier%22!3m6!1s0x8834f145fa0e7c51:0x3c94c7d563b1b5ea!8m2!3d40.4295644!4d-79.9971877!15sChQicGl0dHNidXJnaCBjb3VyaWVyIpIBE25ld3NwYXBlcl9wdWJsaXNoZXLgAQA!16s%2Fg%2F1tj225yj?entry=ttu
 
 In 1937, the *Pittsburgh Courier* published an editorial written by
 staff correspondent J.A. Rogers concerning stamps honoring Confederate
@@ -67,14 +69,14 @@ printed honoring a Black woman.[^9] With this thought, Rogers reflected:
 "Why then a stamp for those who would have destroyed the Union, and none
 for those who saved it?"[^10]
 
-References
-
-Rogers, J.A. "Rogers Denounces 'The Robert E. Lee' Postage Stamp."
-*Pittsburgh Courier*, 04/17/1937, 14.
+**References**
 
 *Mystic Stamp Company*. "1937 4c Army and Navy: Lee and Jackson,
 Stratford Hall."
 https://www.mysticstamp.com/Products/United-States/788/USA/.
+
+Rogers, J.A. "Rogers Denounces 'The Robert E. Lee' Postage Stamp."
+*Pittsburgh Courier*, April 17, 1937, 14.
 
 [^1]: Rogers, J.A., "Rogers Denounces 'The Robert E. Lee' Postage
     Stamp," 14.

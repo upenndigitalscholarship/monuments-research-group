@@ -1,16 +1,19 @@
----
-title: Lee and West Point
----
+Title: Grasping at Will-o'-Wisps at West Point
 
-Grasping at Will-o'-Wisps at West Point
+Author: Justin Seward
+
+Location:
+https://www.google.com/maps/place/United+States+Military+Academy/@41.3889095,-73.9596822,17z/data=!3m1!4b1!4m6!3m5!1s0x89dd2d5c1a96bbbd:0x5cdc9eb64ac330cf!8m2!3d41.3889095!4d-73.9571073!16zL20vMGJ6MzV3?entry=ttu
 
 Robert E. Lee's military career began at West Point Military Academy,
 where he graduated second in his class in 1829. From there, Lee rose
 through the ranks of the United States Army, gaining particular notice
-for suppressing John Brown's uprising in Harper's Ferry, WV in 1859.[^1]
-Lee also served as superintendent of West Point from 1852--1855.[^2] But
-after Virginia's secession from the Union, Lee defected from the United
-States to the Confederacy, where he eventually rose to become the
+for his role in suppressing John Brown's 1859 uprising in Harper's
+Ferry.[^1] Lee also served as superintendent of West Point from
+1852--1855.[^2]
+
+But after Virginia's secession from the Union, Lee defected from the
+United States to the Confederacy, where he eventually rose to become the
 supreme Southern military chief. This left a complicated legacy at West
 Point: Lee was an illustrious leader known for skilled generalship, but
 also a traitor who fought against the United States. Black journalists
@@ -54,27 +57,29 @@ Republic---the Union veterans' fraternal league---which condemned the
 UDC's involvement. "The Civil War veterans, as their 67^th^ encampment
 ended, urged the government to abolish the practice," and it was noted
 that this was the first time in their history that they advocated for
-such an action. The Grand Army of the Republic, it was reported, also
-denounced the sale of 50-cent coins "to aid in defraying the cost of the
-Stone Mountain Memorial to Confederate soldiers." The *Afro-American*
-published a shortened version of the article on the same day.[^5]
+such an action.[^5] The Grand Army of the Republic, it was reported,
+also denounced the sale of 50-cent coins "to aid in defraying the cost
+of the Stone Mountain Memorial to Confederate soldiers."[^6] The
+*Afro-American* published a shortened version of the article on the same
+day.[^7]
 
 *Justin Seward*
 
-References
+**References**
+
+*Afro-American*. "G.A.R. Raps D. of C. for R. E. Lee Sword." September
+30, 1933.
+
+*Afro-American*. "Lee Sneaks into West Point." January 31, 1931, 6.
+
+*Pittsburgh Courier*. "Awarding Lee Sword to West Point Cadet Attacked
+by G.A.R." September 30, 1933.
 
 *Public Broadcasting Service*. "Biography: General Robert E. Lee."
 <https://www.pbs.org/wgbh/americanexperience/features/grant-lee/>.
 
 *Public Broadcasting Service*. "The Life of Robert E. Lee."
 <https://www.pbs.org/wgbh/americanexperience/features/lee-timeline/>.
-
-*Afro-American*. "Lee Sneaks into West Point." 01/31/1931, 6.
-
-*Pittsburgh Courier*. "Awarding Lee Sword to West Point Cadet Attacked
-by G.A.R." 09/30/1933.
-
-*Afro-American*. "G.A.R. Raps D. of C. for R. E. Lee Sword." 09/30/1933.
 
 [^1]: *Public Broadcasting Service*, "Biography: General Robert E. Lee."
 
@@ -85,7 +90,12 @@ by G.A.R." 09/30/1933.
 [^4]: *Pittsburgh Courier*, "Awarding Lee Sword to West Point cadet
     Attacked by G.A.R," 2.
 
-[^5]: *Afro-American*, "G.A.R. Raps D. of C. for R. E. Lee Sword." Both
-    articles seem to have been drawn from a news agency with the
-    initials CNS (possibly the Catholic News Service) originating in St.
-    Paul, Minnesota.
+[^5]: *Pittsburgh Courier*, "Awarding Lee Sword to West Point cadet
+    Attacked by G.A.R," 2.
+
+[^6]: *Pittsburgh Courier*, "Awarding Lee Sword to West Point cadet
+    Attacked by G.A.R," 2.
+
+[^7]: *Afro-American*, "G.A.R. Raps D. of C. for R. E. Lee Sword." Both
+    articles have been drawn from the CNS news agency in St. Paul,
+    Minnesota.

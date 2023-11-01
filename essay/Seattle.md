@@ -1,23 +1,24 @@
----
-title: Seattle
----
+Title: Black Journalists in Seattle Attack Confederate Commemoration
+from the Pacific Northwest
 
-Seattle
+Author: Justin Seward
+
+Location:
+<https://www.google.com/maps/place/Seattle+Republican+Newspaper/@47.6042189,-122.3357933,17z/data=!3m1!4b1!4m6!3m5!1s0x54906b3d2c6421d3:0xa0bdfc92e6a3a08c!8m2!3d47.6042153!4d-122.3332184!16s%2Fg%2F11vb4cxyl0?entry=ttu>
 
 Far away from the towering monuments and waving flags of the former
-Confederacy, the city of Seattle became a forum where Black reporters
-reflected on the implications of commemorating rebellion. Two Seattle
-newspapers published a handful or articles on this theme: the *Seattle
-Republican* and the *Enterprise*. Both condemned the veneration and
-memorialization of the Confederacy and considered the deeper cultural
-implications of commemoration itself.
+Confederacy, the city of Seattle became a vital backdrop for Black
+reporters to reflect on the implications of commemorating rebellion. Two
+Seattle newspapers published a handful or articles on this theme: the
+*Seattle Republican* and the *Enterprise*. Both condemned the veneration
+and memorialization of the Confederacy and considered the deeper
+cultural implications of commemoration itself.
 
 Between 1903 and 1920, the *Seattle Republican* published a total of
 four articles on Confederate commemoration. One such article discussed a
-proposed monument dedicated to Black "mammies," while the other three
-focused on Confederate statues in Statuary Hall at the Capitol (and the
-associated events). On the "mammy" monument proposal, the *Seattle
-Republican* wrote:
+proposed monument dedicated to Black "mammies"; the other three focused
+on Confederate likenesses in Statuary Hall at the Capitol. On the
+"mammy" monument proposal, the *Seattle Republican* wrote:
 
 > Erecting a million dollar monument to the black mammies of the South
 > on the part of the Caucasian is not intended to be either edifying or
@@ -32,19 +33,18 @@ Republican* wrote:
 > blacks of this country and serve neither no good purpose.[^1]
 
 The "mammy" figure may not have been an explicit Confederate reference
-like a Lee or a Davis, but the authors of this piece had no question as
-to what it was really there to celebrate.
+like Lee or Davis in bronze, but the authors of this piece had no
+question as to what was really being celebrated.
 
-The *Seattle Republican* was equally acerbic toward the proposed statue
-of CSA General Robert E. Lee in Statuary Hall in the Capitol Building.
-In 1903, as this notion picked up steam in Virginia, the *Seattle
-Republican* argued on the other side of the continent that if the statue
-was erected, then "no objection should be made by it to the friends of
-Benedict Arnold placing a statue of him likewise in the National
-Capitol."[^2] Their conviction was that to commemorate a traitor to the
-country would be to dishonor the nation: "no more shameful nor
-disgraceful scene could be enacted than the placing of Lee's monument in
-the National capital."[^3]
+The *Seattle Republican* was equally acerbic toward the statue of CSA
+General Robert E. Lee proposed for Statuary Hall in the Capitol
+Building. In 1903, as the idea picked up steam in Virginia, the *Seattle
+Republican* argued that if the statue was erected, then "no objection
+should be made by it to the friends of Benedict Arnold placing a statue
+of him likewise in the National Capitol."[^2] Their conviction was that
+to commemorate a traitor to the country would be to dishonor the nation:
+"no more shameful nor disgraceful scene could be enacted than the
+placing of Lee's monument in the National capital."[^3]
 
 Virginia's campaign succeeded, however, and in 1909, the year the statue
 was placed in Statuary Hall, the *Seattle Republican* wrote:
@@ -62,15 +62,15 @@ was placed in Statuary Hall, the *Seattle Republican* wrote:
 > saved the Union from being destroyed by the red-handed murderers with
 > Lee at their helm.[^5]
 
-Once again, the comparison between Lee and Benedict Arnold was invoked
-to appeal to ideals of patriotism and loyalty. And a sharp, intensely
-frustrated accusation was lobbied at northern politicians whom these
-journalists saw as trying to curry favor with Southern states---a common
-criticism levied by northern Black newspapers. In a short article, the
-*Seattle Republican* also covered a dispute between two veterans---one
-Confederate, one Union---over the placing of the statue of Lee in
-Statuary Hall. According to the article, the Confederate callously
-assaulted the Union veteran.[^6]
+The comparison between Lee and Benedict Arnold sought to activate
+American ideals of patriotism and loyalty---and contempt for treason.
+And a sharp, intensely frustrated accusation was lobbied at northern
+politicians whom these journalists saw as trying to curry favor with
+Southern states---a common criticism levied by northern Black
+newspapers. In a short article, the *Seattle Republican* also covered a
+dispute between two veterans---one Confederate, one Union---over the
+placing of the statue of Lee in Statuary Hall. According to the article,
+the Confederate had callously assaulted the Union veteran.[^6]
 
 Somewhat later, the *Enterprise* published two articles on confederate
 commemoration in a three-month span. The first was a scathing commentary
@@ -105,22 +105,22 @@ Georgia's Capitol as well.
 
 *Justin Seward*
 
-References
+**References**
 
 *Seattle Republican*. "Erecting a Million Dollar Monument to the Black
-Mammies of the South." 05/13/1910, 2.
+Mammies of the South." May 13, 1910, 2.
 
 *Seattle Republican*. "If Congress Permits the Southern Rebels."
-02/27/1903.
+February 27, 1903.
 
 *Seattle Republican*. "In a Dispute Over the Placing of the Statue of
-Robt. E. Lee." 03/04/1910, 2.
+Robt. E. Lee." March 4, 1910, 2.
 
-*Seattle Republican*. "Robert E. Lee's Memory." 10/15/1909, 1.
+*Seattle Republican*. "Robert E. Lee's Memory." October 15, 1909, 1.
 
-*Enterprise*. "Smith and the Democratic Party." 11/01/1928, 4.
+*Enterprise*. "Smith and the Democratic Party." November 1, 1928, 4.
 
-*Enterprise*. "Carpentier's Famous Picture." 01/13/1928,1.
+*Enterprise*. "Carpentier's Famous Picture." January 13, 1928,1.
 
 [^1]: *Seattle Republican*, "Erecting a Million Dollar Monument to the
     Black Mammies of the South," 2.

@@ -1,14 +1,15 @@
----
-title: DJ Feud of 1956
----
+Title: "An Insult to the South": DJ Feud of 1956
 
-# DJ Feud of 1956
+Author: Olivia Haynie
+
+Location:
+<https://www.google.com/maps/place/Downtown+Chicago,+IL/@41.8792558,-87.6625968,13z/data=!3m1!4b1!4m6!3m5!1s0x880e2caf74846717:0xbc3dc7eb0e09bbfd!8m2!3d41.8756719!4d-87.6243469!16s%2Fg%2F1213h_z_?entry=ttu>
 
 When a Black disc jockey in Chicago named Al Benson wanted to protest
-"racial conflicts" in his home state of Mississippi in early 1956, he
-came up with an unorthodox way of getting his message across. He
-arranged to have 3,000 copies of the U.S. Constitution airdropped from
-planes flying over the state.[^1]
+racism in his home state of Mississippi in early 1956, he came up with
+an unorthodox way of getting his message out. He arranged to have 3,000
+copies of the U.S. Constitution airdropped from planes flying over the
+state.[^1]
 
 Deeply alarmed at recent racist incidents in the state---especially the
 murder of Emmett Till---Benson wanted the tracts to remind the state's
@@ -21,10 +22,10 @@ hired two white pilots to carry out his plan.[^3]
 Less than two weeks later, a white disc jockey from Mississippi, Allen
 English, made his own leaflet drop over Chicago. Flying his own plane,
 he dispersed over 20,000 leaflets, each sporting an image of the
-Confederate battle flag.
+Confederate Battle Flag.
 
 English insisted he meant no harm in dropping the symbol on Chicago. He
-told the International News Service (INS): "I don't intend this gesture
+told the International News Service (INS) "I don't intend this gesture
 as an insult to anybody and I don't want a quarrel. I am simply not
 qualified to discuss the deep implications of this racial controversy.
 Nobody down home got mad at Benson for his visit. I hope nobody up here
@@ -37,7 +38,7 @@ Press that primarily served Black newspapers, reported from Mississippi
 that "many angry citizens ripped up the \[Constitution\] booklets as
 they hit the ground."[^5]
 
-English\'s own statement to the INS undermines his claim that the
+English's own statement to the INS undermines his claim that the
 Confederate flag drop was carried out in a spirit of neutrality:
 
 > It's as ridiculous for me to drop Confederate flags over Chicago as it
@@ -46,46 +47,48 @@ Confederate flag drop was carried out in a spirit of neutrality:
 > there as the people of Illinois are familiar with it.[^6]
 
 This contradicted English's earlier claim that "nobody...got mad at
-Benson." English's labeling of Benson's protest as "ridiculous" reveals
-how Americans were grappling with -- and sometimes unwilling to confront
--- the severity of racism at this time. Black journalists like the ANP
-were keenly interested in unearthing the deeper story of how some white
-Southerners were reacting to challenges to segregation with violence and
-hostility. The ANP provided its member papers with twice-weekly news
-packets featuring reportage on people, institutions, and events related
-to the lives of Black Americans---even as non-Black news outlets were
-letting these stories slip through the cracks.[^7]
+Benson."
+
+English's labeling of Benson's protest as "ridiculous" reveals that
+Americans were often unwilling to confront the severe racism of the
+Civil Rights era time. Black journalists were keenly interested in
+unearthing the deeper story of how some white Southerners were reacting
+to challenges to segregation with violence and hostility. The ANP
+provided its member papers with twice-weekly news packets featuring
+reportage on people, institutions, and events related to the lives of
+Black Americans---even as non-Black news outlets were letting these
+stories slip through the cracks.[^7]
 
 *Olivia Haynie*
 
-References
+**References**
 
-Associated Negro Press, "Miss. \'Bombed\' With Copies Of U.S.
-Constitution," *Los Angeles Sentinel*. Mar. 01 1956.
+Associated Negro Press, "Miss. 'Bombed' With Copies Of U.S.
+Constitution," *Los Angeles Sentinel*. March 1, 1956.
 
-Associated Negro Press, "Rebel \"Bomber\" Misses Chicago Loop With
-Flags," *Atlanta Daily World*. Mar. 07 1956.
+Associated Negro Press, "Rebel 'Bomber' Misses Chicago Loop With Flags,"
+*Atlanta Daily World*. March 7, 1956.
 
 Hogan, Lawrence Daniel. "Associated Negro Press," *Encyclopedia of
 Chicago*, Chicago Historical Society, accessed on June 13, 2023.
-http://www.encyclopedia.chicagohistory.org/pages/1734.html
+Available at http://www.encyclopedia.chicagohistory.org/pages/1734.html
 
-[^1]: Associated Negro Press, "Rebel \"Bomber\" Misses Chicago Loop With
+[^1]: Associated Negro Press, "Rebel "Bomber" Misses Chicago Loop With
     Flags," *Atlanta Daily World*.
 
-[^2]: Associated Negro Press, "Miss. \'Bombed\' With Copies Of U.S.
+[^2]: Associated Negro Press, "Miss. 'Bombed' With Copies Of U.S.
     Constitution," *Los Angeles Sentinel*.
 
-[^3]: Associated Negro Press, "Miss. \'Bombed\' With Copies Of U.S.
+[^3]: Associated Negro Press, "Miss. 'Bombed' With Copies Of U.S.
     Constitution," *Los Angeles Sentinel*.
 
-[^4]: International News Service, "Chicago \"Bombed\" By Rebel Garbed
+[^4]: International News Service, "Chicago "Bombed" By Rebel Garbed
     Dixie Pilot," *Atlanta Daily World.*
 
-[^5]: Associated Negro Press, "Miss. \'Bombed\' With Copies Of U.S.
+[^5]: Associated Negro Press, "Miss. 'Bombed' With Copies Of U.S.
     Constitution," *Los Angeles Sentinel*.
 
-[^6]: American Negro Project, "Rebel \"Bomber\" Misses Chicago Loop With
+[^6]: American Negro Project, "Rebel "Bomber" Misses Chicago Loop With
     Flags," *Atlanta Daily World*.
 
 [^7]: Hogan, Lawrence Daniel. "Associated Negro Press," *Encyclopedia of

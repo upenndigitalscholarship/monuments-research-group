@@ -1,8 +1,9 @@
----
-title: Roscoe Simmons
----
+Title: Roscoe Simmons, Evocative Critic of Confederate Commemoration
 
-The Influence of Roscoe Simmons
+Author: Justin Seward
+
+Location:
+<https://www.google.com/maps/place/Chicago+Defender+Building/@41.8317803,-87.6937208,13z/data=!4m10!1m2!2m1!1schicago+defender!3m6!1s0x880e2c0bc7f3e541:0xc325c5aa074578a!8m2!3d41.8317803!4d-87.621623!15sChBjaGljYWdvIGRlZmVuZGVykgETaGlzdG9yaWNhbF9sYW5kbWFya-ABAA!16s%2Fm%2F02r13f5?entry=ttu>
 
 Roscoe Simmons was born in Mississippi in 1881.[^1] Through the
 influence of his uncle---the prominent Black intellectual Booker T.
@@ -19,30 +20,23 @@ history packed column which was avidly read by the Defender's thousands
 of readers."[^4]
 
 As a journalist and cultural commentator, Simmons was deeply interested
-in the impact of monuments. Some of his earliest work on this subject
-appeared in 1922 with the publication of a series of articles on public
-commemoration of Booker T. Washington, Abraham Lincoln, and Theodore
-Roosevelt.[^5] These articles saw him responding to critics---all of
-whom were white Southerners with presumed Confederate sympathies---whose
-hostility to the Lincoln Memorial in Washington D.C. (for instance) was
-characterized as willful refusal to encounter the truth about the CSA.
-Their attitude, in Simmons' view, was something along the lines of "We
-will teach how badly Lincoln treated us in our history: our children
-shall not be allowed to forget."[^6] He was interested not just in
-historical facts, then, but how history gets told and retold.
+in the impact of monuments on society. Some of his earliest work on this
+subject appeared in 1922 with the publication of a series of articles on
+commemorations of Booker T. Washington, Abraham Lincoln, and Theodore
+Roosevelt.[^5] These articles saw him responding to critics (all white
+Southerners with presumed Confederate sympathies) whose hostility to the
+Lincoln Memorial in Washington D.C. (for instance) was characterized as
+willful refusal to face the truth about the CSA. The attitude of
+Confederate sympathizers, in Simmons' view, was, in essence, "We will
+teach how badly Lincoln treated us in our history: our children shall
+not be allowed to forget."[^6] Simmons was not just interested in
+historical facts, then, but in how history gets told and retold.
 
-The following year, Simmons challenged the Confederate monument in
+The following year, Simmons attacked the Confederate monument in
 progress at Stone Mountain.[^7] "Get your history out," he implored his
-readers,
-
-> turn to the story of the Rebellion, get over into the middle of that
-> story and read. Maybe you haven't much time to do much reading. In
-> that case ask the professor to tell you briefly of the struggle there,
-> or request son or daughter to stop dancing long enough to tell you why
-> YOU should be interested in cutting a man's picture in that Georgia
-> mountain. [^8]
-
-Simmons quoted the white Baptist minister M. Ashby Jones, who wrote:
+readers, "turn to the story of the Rebellion, get over into the middle
+of that story and read."[^8] Simmons quoted the white Baptist minister
+M. Ashby Jones, who wrote:
 
 > The hand of God forced Stone Mountain up from the bowels of earth in
 > the dawn of creation so that the civilization of the South today might
@@ -62,7 +56,7 @@ To which Simmons responded, sharply:
 > struggled for you, and won, my picture is not there, but you will find
 > it in the hearts of men.' Then you will clap your hands.[^10]
 
-In 1924, Simmons reviewed the colossal obelisk being raised at Jefferson
+In 1924, Simmons covered the colossal obelisk being raised at Jefferson
 Davis' place of birth in Kentucky.[^11] The monument, for Simmons, was a
 "reminder of a great intellect, a lost cause, the weakness of human
 judgment, the hand of God."[^12] He noted that if Davis' government had
@@ -70,19 +64,20 @@ succeeded in the 1860s, Simmons and other Black leaders would almost
 certainly have been denied the educational opportunities that had
 brought them to their station in life---there would be "no pen in this
 writer's hand, no place for him to do much 'speaking,' no time for you
-to read."[^13] Simmons' style in pieces such as this is remarkably
-diplomatic, alternately complimenting and condemning Davis. This
-measured tone may express the difficulties of openly opposing white
-supremacy in the 1920s---in both the South and the North. Nevertheless,
-Simmons opens an unmistakable line of criticism of Davis and all efforts
-to commemorate him as implicitly rejecting Black dignity and Black
-advancement.
+to read."[^13]
 
-Several years later the *Afro-American* published Simmons's op-ed,
-covering the dedication of a monument honoring Alexander H. Stephens,
-the Vice President of the Confederacy, in Statuary Hall at the US
-Capitol. He responded with passion to the parade of white men, young and
-old, attired in outmoded uniforms, representing Georgia:
+Simmons' style in pieces such as this is remarkably diplomatic,
+alternately complimenting and condemning Davis. This measured tone may
+express the difficulties of openly opposing white supremacy in the
+1920s---in both the South and the North. Nevertheless, Simmons opens an
+unmistakable line of criticism of Davis and all efforts to commemorate
+him as implicitly rejecting Black dignity and Black advancement.
+
+Several years later the *Afro-American* published an op-ed by Simmons,
+this one covering the dedication of a monument honoring Alexander H.
+Stephens, vice-president of the Confederacy, in Statuary Hall at the US
+Capitol. Simmons responded with passion to the parade of white men,
+young and old, attired in outmoded uniforms, representing Georgia:
 
 > So Georgia, unable to march down Pennsylvania avenue behind Stephens
 > in the flesh, marched down the Way of Liberty behind his memory. Are
@@ -110,9 +105,9 @@ view of history:
 > against God and liberty, let the better angels of your nature, as
 > Lincoln put it, hold away \[sic\].[^17]
 
-In characteristically cinematic style, Simmons concluded the article by
-depicting the scene in heaven as the leaders of the Confederacy watched
-the reunion from above:
+In his trademark cinematic style, Simmons concluded the article with a
+depiction of the scene in heaven as the leaders of the Confederacy
+watched the vets' reunion from above:
 
 > Up in heaven, Davis, Stonewall Jackson, Lee, the incomparable soldier,
 > all look down on their comrades. 'We fought a losing fight,' they say
@@ -158,53 +153,55 @@ the Civil War.
 
 *Justin Seward*
 
-References
+**References**
 
-Gates, Henry Louis, Higginbotham, Evelyn Brooks. "African American
-National Biography." *Oxford University Press*, 2008, 201,
-<https://books.google.com/books?id=OSsOAQAAMAAJ&q=greenview+mississippi>.
+Gates, Henry Louis, and Evelyn Brooks Higginbotham. "African American
+National Biography." *Oxford University Press*, 2008, 201. Available at
+<https://books.google.com/books?id=OSsOAQAAMAAJ&q=greenview+mississippi>
 
-Harvard Library. "Roscoe Conkling Simmons, 1881-1951." *Harvard Library:
-Hollis for Archival Discovery*,
-<https://hollisarchives.lib.harvard.edu/agents/people/7320>.
+Harvard Library. "Roscoe Conkling Simmons, 1881--1951." *Harvard
+Library: Hollis for Archival Discovery*. Available at
+<https://hollisarchives.lib.harvard.edu/agents/people/7320>
 
-*St. Paul Recorder*. "Roscoe Simmons, Orator Par Excellence."
-05/18/1951, 4.
+*New York Times*. "H.L. Johnson Dies; A Republican Leader." September
+11, 1925, 23. Available at
+<https://www.nytimes.com/1925/09/11/archives/hl-johnson-dies-a-republican-leader-negro-national-committeeman-had.html>
 
-Simmons, Roscoe. "The Convention Confederates Meet Slavery in Florida."
-*Chicago Defender*, April 14, 1923, 13.
+Simmons, Roscoe. "A Georgia Hero." *Afro-American*, January 7, 1928, 1.
 
-Simmons, Roscoe. "Ha'nts Metal and Stone." *Chicago Defender*,
-03/25/1922, 13.
+Simmons, Roscoe. "Ha'nts Metal and Stone." *Chicago Defender*, March 25,
+1922, 13.
 
-Simmons, Roscoe. "Lincoln Accused." *Chicago Defender*, 07/01/1922, 13.
-
-Simmons, Roscoe. "A Georgia Hero." *Afro-American*, 01/07/1928, 1.
+Simmons, Roscoe. "Lincoln Accused." *Chicago Defender*, July 1, 1922,
+13.
 
 Simmons, Roscoe. "Still Another Decoration Day Sure." *Chicago
 Defender*, May 31, 1941, 15.
 
-Simmons, Roscoe. "That Roosevelt Tree." *Chicago Defender*, 11/11/1922,
+Simmons, Roscoe. "Stone Mountain." *Chicago Defender*, April 28, 1923,
 13.
 
-Simmons, Roscoe. "Stone Mountain." *Chicago Defender*, 04/28/1923, 13.
+Simmons, Roscoe. "That Roosevelt Tree." *Chicago Defender*, November 11,
+1922, 13.
 
-Simmons, Roscoe. "The Davis Monument." *Chicago Defender*, 06/14/1924,
-A1.
+Simmons, Roscoe. "The Convention Confederates Meet Slavery in Florida."
+*Chicago Defender*, April 14, 1923, 13.
 
-*New York Times*. "H.L. Johnson Dies; A Republican Leader." 09/11/1925,
-23,
-<https://www.nytimes.com/1925/09/11/archives/hl-johnson-dies-a-republican-leader-negro-national-committeeman-had.html>.
+Simmons, Roscoe. "The Davis Monument." *Chicago Defender*, June 14,
+1924, A1.
+
+*St. Paul Recorder*. "Roscoe Simmons, Orator Par Excellence." May 18,
+1951, 4.
 
 [^1]: His exact date of birth is contested.
 
 [^2]: Gates and Higginbotham, "The African American National Biography,"
     201.
 
-[^3]: Harvard Library, "Roscoe Conkling Simmons, 1881-1851."
+[^3]: Harvard Library, "Roscoe Conkling Simmons, 1881--1851."
 
 [^4]: *St. Paul Recorder*, "Roscoe Simmons, Orator Par Excellence," 4
-    \[formatting retained\].
+    (emphasis original).
 
 [^5]: Simmons, "Ha'nts Metal and Stone," 13; Simmons, "Lincoln Accused,"
     13; Simmons, "The Roosevelt Tree," 13.
@@ -237,6 +234,8 @@ A1.
 [^18]: Simmons, "The Convention Confederates Meet Slavery in Florida,"
     13.
 
-[^19]: Simmons, "Still Another Decoration Day Sure," 15.
+[^19]: Simmons, "Still Another Decoration Day Sure," 15 (emphasis
+    original).
 
-[^20]: Simmons, "Still Another Decoration Day Sure," 15.
+[^20]: Simmons, "Still Another Decoration Day Sure," 15 (emphasis
+    original).
