@@ -9,7 +9,10 @@ module.exports = function(eleventyConfig) {
     linkify: true,
     typographer: true
     };
-
+    // add deslugify filter
+    eleventyConfig.addFilter("deslugify", function(slug) {
+        return slug.replace(/\-/g, " ").replace(/\w\S*/g, (text) => text.charAt(0).toUpperCase() + text.slice(1).toLowerCase());
+    });
     eleventyConfig.setLibrary("md", markdownIt(options));
     eleventyConfig.amendLibrary("md", markdownIt => markdownIt.use(require('markdown-it-footnote')))
 };
