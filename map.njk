@@ -24,6 +24,8 @@ This is where the maps goes
 	maxZoom: 20
     }).addTo(map);
     {% for essay in collections.essays %}
+    {% if essay.data.lat and essay.data.long %}
     L.marker([{{ essay.data.lat }}, {{ essay.data.long }}]).addTo(map).bindPopup('<a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a>');
+    {% endif %}
     {% endfor %}
 </script>
