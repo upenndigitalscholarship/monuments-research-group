@@ -1,6 +1,9 @@
 ---
-title: '"Fear God, Tell Truth, and Make Money" \u2010\u2010 Black Journalists Uninterested in the Davis Monument on Monument Avenue'
+title: >-
+ "Fear God, Tell Truth, and Make Money" -- Black Journalists Uninterested in the Davis Monument on Monument Avenue
 author: Justin Seward
+lat: 37.5583806
+long: -77.4861331
 location: <https://www.google.com/maps/place/37%C2%B033'30.1%22N+77%C2%B028'03.6%22W/@37.5583806,-77.4861331,15z/data=!3m1!4b1!4m12!1m7!3m6!1s0x89b111b4aa5f44c1:0xee83c19dff1543ff!2sMonument+Avenue+Historic+District!8m2!3d37.5550819!4d-77.4614451!16zL20vMDNyN3lo!3m3!8m2!3d37.558365!4d-77.467679?entry=ttu>
 ---
 On June 3, 1907, A monument to Jefferson Davis, the only president of

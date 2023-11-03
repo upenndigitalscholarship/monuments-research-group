@@ -1,6 +1,9 @@
 ---
-title: '"The Same Degree of Patriotism and Fierceness as One Protests and Rejects the Nazi Swastika": Auto-Tags in Spotsylvania County, Virginia'
+title: >-
+ "The Same Degree of Patriotism and Fierceness as One Protests and Rejects the Nazi Swastika": Auto-Tags in Spotsylvania County, Virginia
 author: Olivia Haynie
+lat: 38.1795454
+long: -78.8415372
 location: <https://www.google.com/maps/place/Spotsylvania+County,+VA/@38.1795454,-78.8415372,9z/data=!3m1!4b1!4m6!3m5!1s0x89b6b9bbbad9e47b:0xb70dbbb0cfec22b9!8m2!3d38.204165!4d-77.6077865!16zL20vMG1uMXA?entry=ttu>
 ---
 For their 1961 license plates, Spotsylvania County in Virginia issued a

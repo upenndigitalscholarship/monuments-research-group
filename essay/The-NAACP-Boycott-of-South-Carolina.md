@@ -1,6 +1,9 @@
 ---
-title: '"Push America Back from the Brink of Senseless Tribalism": The NAACP Response to the Confederate Battle Flag at the South Carolina Capitol'
+title: >- 
+    "Push America Back from the Brink of Senseless Tribalism": The NAACP Response to the Confederate Battle Flag at the South Carolina Capitol
 author: Olivia Haynie
+lat: 33.9998305
+long: -81.0354818
 location: <https://www.google.com/maps/place/1100+Gervais+St,+Columbia,+SC+29208/@33.9998305,-81.0354818,17z/data=!3m1!4b1!4m14!1m7!3m6!1s0x88f8bb2bb5e98ccf:0x8b17d245b7ef8700!2sSouth+Carolina+State+House!8m2!3d34.0000786!4d-81.0329971!16zL20vMDlwd2R5!3m5!1s0x88f8bb2a43c2b48f:0xed31635d97df4d2e!8m2!3d34.0002143!4d-81.0333698!16s%2Fg%2F11bw3g1ql2?entry=ttu>
 ---
 In July 1999, the National Convention of the NAACP voted in favor of a

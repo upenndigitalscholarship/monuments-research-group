@@ -23,7 +23,7 @@ This is where the maps goes
 	subdomains: 'abcd',
 	maxZoom: 20
     }).addTo(map);
-    {% for monument in collections.monuments %}
-    L.marker([{{ monument.data.lat }}, {{ monument.data.long }}]).addTo(map).bindPopup("{{ monument.data.title }}<br>{{ monument.data.description }}");
+    {% for essay in collections.essays %}
+    L.marker([{{ essay.data.lat }}, {{ essay.data.long }}]).addTo(map).bindPopup('<a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a>');
     {% endfor %}
 </script>

@@ -1,6 +1,9 @@
 ---
-title: '"Glorifying Our Worst Enemies": The Lee Statue in the Capitol'
+title: >-
+ "Glorifying Our Worst Enemies": The Lee Statue in the Capitol
 author: Justin Seward
+lat: 38.889943
+long: -77.0116254
 location: <https://www.google.com/maps/place/38%C2%B053'23.8%22N+77%C2%B000'35.9%22W/@38.889943,-77.0116254,17z/data=!4m12!1m7!3m6!1s0x89b7b82921a2cf17:0x482a3f7c10cf8c4!2sUnited+States+Capitol!8m2!3d38.8899389!4d-77.0090505!16zL20vMDd2dGg!3m3!8m2!3d38.889947!4d-77.009962?entry=ttu>
 ---
 In the waning years of the Civil War, the Old Hall at the United States

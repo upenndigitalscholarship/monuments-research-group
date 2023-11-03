@@ -1,6 +1,9 @@
 ---
-title: '"An Insult to the South": DJ Feud of 1956'
+title: >-
+ "An Insult to the South": DJ Feud of 1956
 author: Olivia Haynie
+lat: 41.8792558
+long: -87.6625968
 location: <https://www.google.com/maps/place/Downtown+Chicago,+IL/@41.8792558,-87.6625968,13z/data=!3m1!4b1!4m6!3m5!1s0x880e2caf74846717:0xbc3dc7eb0e09bbfd!8m2!3d41.8756719!4d-87.6243469!16s%2Fg%2F1213h_z_?entry=ttu>
 ---
 When a Black disc jockey in Chicago named Al Benson wanted to protest

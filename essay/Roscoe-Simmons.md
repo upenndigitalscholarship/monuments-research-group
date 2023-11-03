@@ -1,6 +1,8 @@
 ---
 title: Roscoe Simmons, Evocative Critic of Confederate Commemoration
 author: Justin Seward
+lat: 41.8317803
+long: -87.6937208
 location: <https://www.google.com/maps/place/Chicago+Defender+Building/@41.8317803,-87.6937208,13z/data=!4m10!1m2!2m1!1schicago+defender!3m6!1s0x880e2c0bc7f3e541:0xc325c5aa074578a!8m2!3d41.8317803!4d-87.621623!15sChBjaGljYWdvIGRlZmVuZGVykgETaGlzdG9yaWNhbF9sYW5kbWFya-ABAA!16s%2Fm%2F02r13f5?entry=ttu>
 ---
 
