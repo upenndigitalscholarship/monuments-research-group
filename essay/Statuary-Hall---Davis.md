@@ -1,10 +1,8 @@
-Title: "The Arch Traitor": Jefferson Davis at the Capitol
-
-Author: Justin Seward
-
-Location:
-<https://www.google.com/maps/place/United+States+Capitol/@38.889943,-77.0116254,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b82921a2cf17:0x482a3f7c10cf8c4!8m2!3d38.8899389!4d-77.0090505!16zL20vMDd2dGg?entry=ttu>
-
+---
+title: '"The Arch Traitor": Jefferson Davis at the Capitol'
+author: Justin Seward
+location: <https://www.google.com/maps/place/United+States+Capitol/@38.889943,-77.0116254,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b82921a2cf17:0x482a3f7c10cf8c4!8m2!3d38.8899389!4d-77.0090505!16zL20vMDd2dGg?entry=ttu>
+---
 During Jim Crow, the state of Mississippi chose CSA president Jefferson
 Davis as one of two Mississippians to be honored in Statuary Hall at the
 United States Capitol. The statue was sculpted by Augustus Lukeman (who

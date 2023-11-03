@@ -1,10 +1,8 @@
-Title: Grasping at Will-o'-Wisps at West Point
-
-Author: Justin Seward
-
-Location:
-https://www.google.com/maps/place/United+States+Military+Academy/@41.3889095,-73.9596822,17z/data=!3m1!4b1!4m6!3m5!1s0x89dd2d5c1a96bbbd:0x5cdc9eb64ac330cf!8m2!3d41.3889095!4d-73.9571073!16zL20vMGJ6MzV3?entry=ttu
-
+---
+title: Grasping at Will-o'-Wisps at West Point
+author: Justin Seward
+location: https://www.google.com/maps/place/United+States+Military+Academy/@41.3889095,-73.9596822,17z/data=!3m1!4b1!4m6!3m5!1s0x89dd2d5c1a96bbbd:0x5cdc9eb64ac330cf!8m2!3d41.3889095!4d-73.9571073!16zL20vMGJ6MzV3?entry=ttu
+---
 Robert E. Lee's military career began at West Point Military Academy,
 where he graduated second in his class in 1829. From there, Lee rose
 through the ranks of the United States Army, gaining particular notice

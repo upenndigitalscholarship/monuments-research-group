@@ -1,10 +1,8 @@
-Title: "Forging Heavier Chains with Which to Be Bound": The Lee Statue
-on Monument Avenue
-
-Author: Justin Seward
-
-Location:
-https://www.google.com/maps/place/37%C2%B033\'13.8%22N+77%C2%B027\'36.9%22W/@37.55382,-77.460236,17z/data=!3m1!4b1!4m7!1m2!2m1!1slee+circle+richmond!3m3!8m2!3d37.55382!4d-77.460236?entry=ttu
+---
+title: Forging Heavier Chains with Which to Be Bound The Less Statue on Monument Avenue
+author: Justin Seward
+location: https://www.google.com/maps/place/37%C2%B033\'13.8%22N+77%C2%B027\'36.9%22W/@37.55382,-77.460236,17z/data=!3m1!4b1!4m7!1m2!2m1!1slee+circle+richmond!3m3!8m2!3d37.55382!4d-77.460236?entry=ttu
+---
 
 In 1890, the district that would become Richmond's Monument Avenue was
 still largely rural. But changes began that year with the placing of

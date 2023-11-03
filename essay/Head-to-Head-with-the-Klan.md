@@ -1,11 +1,8 @@
-Title: A "Hitlerian Disease": Taking the Fight against the Klan to Stone
-Mountain
-
-Author: Justin Seward
-
-Location:
-https://www.google.com/maps/place/Georgia+State+Capitol/@33.7492908,-84.3904149,18z/data=!3m1!5s0x11d7d55f7fd62a83:0x537dcc2867492b2a!4m10!1m2!2m1!1sgeorgia+state+capitol!3m6!1s0x88f50384df4d6669:0xb7f8524d335b1cf6!8m2!3d33.7492908!4d-84.3884788!15sChVnZW9yZ2lhIHN0YXRlIGNhcGl0b2ySARdzdGF0ZV9nb3Zlcm5tZW50X29mZmljZeABAA!16s%2Fg%2F11ddzdg_4y?entry=ttu
-
+---
+title: 'A "Hitlerian Disease": Taking the Fight against the Klan to Stone Mountain'
+author: Justin Seward
+location: https://www.google.com/maps/place/Georgia+State+Capitol/@33.7492908,-84.3904149,18z/data=!3m1!5s0x11d7d55f7fd62a83:0x537dcc2867492b2a!4m10!1m2!2m1!1sgeorgia+state+capitol!3m6!1s0x88f50384df4d6669:0xb7f8524d335b1cf6!8m2!3d33.7492908!4d-84.3884788!15sChVnZW9yZ2lhIHN0YXRlIGNhcGl0b2ySARdzdGF0ZV9nb3Zlcm5tZW50X29mZmljZeABAA!16s%2Fg%2F11ddzdg_4y?entry=ttu
+---
 In 1946, Drew Pearson---a popular white radio talk show host---went
 head-to-head with the Klan shortly after the revitalization of the third
 Klan at the summit of Stone Mountain. Calling the Klan a "Hitlerian

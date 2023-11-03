@@ -1,11 +1,8 @@
-Title: "To Perpetuate a False Image of History": Criticisms of
-Confederate Commemoration from the Twin Cities
-
-Author: Justin Seward
-
-Location:
-<https://www.google.com/maps/place/Minneapolis+Spokesman-Recorder/@44.9777667,-93.2834648,15z/data=!3m1!4b1!4m6!3m5!1s0x52b3339202e007c3:0xe24b8b23b84d0fe6!8m2!3d44.977753!4d-93.2650108!16s%2Fg%2F11q8slx7bg?entry=ttu>
-
+---
+title: '"To Perpetuate a False Image of History": Criticisms of Confederate Commemoration from the Twin Cities'
+author: Justin Seward
+location: <https://www.google.com/maps/place/Minneapolis+Spokesman-Recorder/@44.9777667,-93.2834648,15z/data=!3m1!4b1!4m6!3m5!1s0x52b3339202e007c3:0xe24b8b23b84d0fe6!8m2!3d44.977753!4d-93.2650108!16s%2Fg%2F11q8slx7bg?entry=ttu>
+---
 Minnesota's Twin Cities---Minneapolis and St. Paul---share a strong
 tradition of Black commentary on Confederate commemoration stemming back
 to the late nineteenth century. The Twin Cities played host to four (or

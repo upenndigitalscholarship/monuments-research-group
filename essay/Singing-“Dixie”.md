@@ -1,10 +1,8 @@
-Title: "And Other Tunes Dear to the Hearts of Racists": Playing "Dixie"
-
-Author: Olivia Haynie
-
-Location:
-<https://www.google.com/maps/place/Alabama+State+Capitol/@32.3773826,-86.3030392,17z/data=!3m1!4b1!4m6!3m5!1s0x888e816785a470d1:0x795012d1f5c744fc!8m2!3d32.3773781!4d-86.3004643!16zL20vMDZzemx0?entry=ttu>
-
+---
+title: '"And Other Tunes Dear to the Hearts of Racists": Playing "Dixie"'
+author: Olivia Haynie
+location: <https://www.google.com/maps/place/Alabama+State+Capitol/@32.3773826,-86.3030392,17z/data=!3m1!4b1!4m6!3m5!1s0x888e816785a470d1:0x795012d1f5c744fc!8m2!3d32.3773781!4d-86.3004643!16zL20vMDZzemx0?entry=ttu>
+---
 During the US Civil War, the popular mid-nineteenth-century minstrel
 song "Dixie" emerged as an unofficial national anthem of the CSA. The
 singing of "Dixie" became a regular occurrence at events and public

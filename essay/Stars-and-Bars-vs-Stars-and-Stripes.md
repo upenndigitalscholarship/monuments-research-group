@@ -1,11 +1,8 @@
-Title: "The First Seeds of Treason Towards Another Civil War": Criticism
-of Confederate Flags
-
-Author: Olivia Haynie
-
-Location:
-<https://www.google.com/maps/place/Aramark+Uniform+Services/@41.8182867,-87.6523552,16.13z/data=!3m1!5s0x880e2c2795fdde23:0xd128311e9aa86277!4m14!1m7!3m6!1s0x880e2c20b56b8999:0xf5eef26554f5d001!2sUnion+Stockyards+Gate!8m2!3d41.8186024!4d-87.6484983!16zL20vMGN4ZGZf!3m5!1s0x880e2c27eaeed10b:0xbbd76021c2043d0f!8m2!3d41.8167876!4d-87.6469205!16s%2Fg%2F11g_m_pkk?entry=ttu>
-
+---
+title: '"The First Seeds of Treason Towards Another Civil War": Criticism of Confederate Flags'
+author: Olivia Haynie
+location: <https://www.google.com/maps/place/Aramark+Uniform+Services/@41.8182867,-87.6523552,16.13z/data=!3m1!5s0x880e2c2795fdde23:0xd128311e9aa86277!4m14!1m7!3m6!1s0x880e2c20b56b8999:0xf5eef26554f5d001!2sUnion+Stockyards+Gate!8m2!3d41.8186024!4d-87.6484983!16zL20vMGN4ZGZf!3m5!1s0x880e2c27eaeed10b:0xbbd76021c2043d0f!8m2!3d41.8167876!4d-87.6469205!16s%2Fg%2F11g_m_pkk?entry=ttu>
+---
 From the end of Reconstruction well into the twentieth century, Black
 journalists frequently criticized the use of Confederate
 flags---especially, but not solely, the Confederate Battle Flag---in

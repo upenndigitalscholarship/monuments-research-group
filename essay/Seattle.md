@@ -1,11 +1,8 @@
-Title: Black Journalists in Seattle Attack Confederate Commemoration
-from the Pacific Northwest
-
-Author: Justin Seward
-
-Location:
-<https://www.google.com/maps/place/Seattle+Republican+Newspaper/@47.6042189,-122.3357933,17z/data=!3m1!4b1!4m6!3m5!1s0x54906b3d2c6421d3:0xa0bdfc92e6a3a08c!8m2!3d47.6042153!4d-122.3332184!16s%2Fg%2F11vb4cxyl0?entry=ttu>
-
+---
+title: Black Journalists in Seattle Attack Confederate Commemoration from the Pacific Northwest
+author: Justin Seward
+location: <https://www.google.com/maps/place/Seattle+Republican+Newspaper/@47.6042189,-122.3357933,17z/data=!3m1!4b1!4m6!3m5!1s0x54906b3d2c6421d3:0xa0bdfc92e6a3a08c!8m2!3d47.6042153!4d-122.3332184!16s%2Fg%2F11vb4cxyl0?entry=ttu>
+---
 Far away from the towering monuments and waving flags of the former
 Confederacy, the city of Seattle became a vital backdrop for Black
 reporters to reflect on the implications of commemorating rebellion. Two

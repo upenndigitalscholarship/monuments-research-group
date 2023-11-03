@@ -1,11 +1,8 @@
-Title: Black Journalists Challenge Klan Claims to Be a "Local"
-Organization
-
-Author: Justin Seward
-
-Location:
-https://www.google.com/maps/place/33%C2%B048\'39.5%22N+84%C2%B010\'31.7%22W/@33.810983,-84.1780589,17z/data=!3m1!4b1!4m13!1m8!3m7!1s0x88f5af24c25d5bbb:0x4119e5c541409adc!2sStone+Mountain,+GA!3b1!8m2!3d33.8081608!4d-84.170196!16zL20vMHJ2emY!3m3!8m2!3d33.810983!4d-84.175484?entry=ttu
-
+---
+title: Black Journalists Challenge Klan Claims to Be a "Local" Organization
+author: Justin Seward
+location: https://www.google.com/maps/place/33%C2%B048\'39.5%22N+84%C2%B010\'31.7%22W/@33.810983,-84.1780589,17z/data=!3m1!4b1!4m13!1m8!3m7!1s0x88f5af24c25d5bbb:0x4119e5c541409adc!2sStone+Mountain,+GA!3b1!8m2!3d33.8081608!4d-84.170196!16zL20vMHJ2emY!3m3!8m2!3d33.810983!4d-84.175484?entry=ttu
+---
 Black reporters covering the late-1940s revival of the Ku Klux Klan on
 top of the Confederate memorial at Stone Mountain, GA, noted that the
 Klan consistently used a distinct rhetorical technique: identifying

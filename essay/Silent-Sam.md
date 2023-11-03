@@ -1,10 +1,8 @@
-Title: The Rise and Fall of "Silent Sam"
-
-Author: Olivia Haynie
-
-Location:
-<https://www.google.com/maps/place/Silent+Sam/@35.9140955,-79.0550272,17z/data=!3m1!4b1!4m6!3m5!1s0x89acc3113ecfa55d:0x39d881f269417498!8m2!3d35.9140912!4d-79.0524523!16zL20vMDY0NjFw?entry=ttu>
-
+---
+title: The Rise and Fall of "Silent Sam"
+author: Olivia Haynie
+location: <https://www.google.com/maps/place/Silent+Sam/@35.9140955,-79.0550272,17z/data=!3m1!4b1!4m6!3m5!1s0x89acc3113ecfa55d:0x39d881f269417498!8m2!3d35.9140912!4d-79.0524523!16zL20vMDY0NjFw?entry=ttu>
+---
 The statue that came to be known as "Silent Sam" was erected at the
 University of North Carolina-Chapel Hill (UNC) in 1913 and dedicated to
 the memory of UNC students who had died fighting for the Confederacy

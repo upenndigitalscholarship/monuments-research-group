@@ -1,10 +1,8 @@
-Title: "Change the Symbol That Churns up Hate": The Georgia State Flag
-Controversy
-
-Author: Olivia Haynie
-
-Location:
-<https://www.google.com/maps/search/georgia+capitol/@33.7492266,-84.3908847,17z/data=!3m1!4b1?entry=ttu>
+---
+title: '"Change the Symbol That Churns up Hate": The Georgia State Flag Controversy'
+author: Olivia Haynie
+location: <https://www.google.com/maps/search/georgia+capitol/@33.7492266,-84.3908847,17z/data=!3m1!4b1?entry=ttu>
+---
 
 In 1956, the Confederate Battle Flag was added to the state flag of
 Georgia. The *New Pittsburgh Courier* covered event, suggesting it was

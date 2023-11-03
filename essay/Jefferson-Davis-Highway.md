@@ -1,10 +1,8 @@
-Title: "Never Underestimate the Power of Symbols": The Jefferson Davis
-Highway in Washington State
-
-Author: Olivia Haynie
-
-Location:
-<https://www.google.com/maps/place/Blaine,+WA/@48.9766495,-122.8124543,12z/data=!3m1!4b1!4m6!3m5!1s0x5485c1359fb984e7:0x6ddc7f512f77d8cc!8m2!3d48.993723!4d-122.7471191!16zL20vMDEwdnBr?entry=ttu>
+---
+title: '"Never Underestimate the Power of Symbols"\u0003 The Jefferson Davis Highway in Washington State'
+author: Olivia Haynie
+location: <https://www.google.com/maps/place/Blaine,+WA/@48.9766495,-122.8124543,12z/data=!3m1!4b1!4m6!3m5!1s0x5485c1359fb984e7:0x6ddc7f512f77d8cc!8m2!3d48.993723!4d-122.7471191!16zL20vMDEwdnBr?entry=ttu>
+---
 
 In 2002, the *Los Angeles Sentinel* reported on the efforts of a
 Washington state lawmaker to rename a highway dedicated to Jefferson

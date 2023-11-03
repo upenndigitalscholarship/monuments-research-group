@@ -1,5 +1,8 @@
-# Killing of a Kentucky Teen Flying the Confederate Flag (1995)
-
+---
+title: Killing of a Kentucky Teen Flying the Confederate Flag (1995)
+author:
+location: 
+---
 On January 14th 1995, nineteen-year-old Michael Westerman from Kentucky
 was shot and killed while driving along the highway near Mississippi.
 Seven Black teenagers were arrested and charged with the crime.[^1] Two

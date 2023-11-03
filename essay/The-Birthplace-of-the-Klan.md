@@ -1,10 +1,8 @@
-Title: Stone Mountain and the Resurrection of the Klan
-
-Author: Justin Seward
-
-Location:
-<https://www.google.com/maps/place/Confederate+Memorial+Carving/@33.8095887,-84.1484626,16.04z/data=!4m15!1m8!3m7!1s0x88f5af24c25d5bbb:0x4119e5c541409adc!2sStone+Mountain,+GA!3b1!8m2!3d33.8081608!4d-84.170196!16zL20vMHJ2emY!3m5!1s0x88f5afbca4575fdf:0xe30cfde12b0eafdb!8m2!3d33.8083787!4d-84.1447107!16s%2Fg%2F11rnhqktt7?entry=ttu>
-
+---
+title: Stone Mountain and the Resurrection of the Klan
+author: Justin Seward
+location: <https://www.google.com/maps/place/Confederate+Memorial+Carving/@33.8095887,-84.1484626,16.04z/data=!4m15!1m8!3m7!1s0x88f5af24c25d5bbb:0x4119e5c541409adc!2sStone+Mountain,+GA!3b1!8m2!3d33.8081608!4d-84.170196!16zL20vMHJ2emY!3m5!1s0x88f5afbca4575fdf:0xe30cfde12b0eafdb!8m2!3d33.8083787!4d-84.1447107!16s%2Fg%2F11rnhqktt7?entry=ttu>
+---
 The history of the Ku Klux Klan is deeply intertwined with Stone
 Mountain. Black journalists have often referred to Georgia as the Klan's
 birthplace and consistently linked Stone Mountain to their denunciation

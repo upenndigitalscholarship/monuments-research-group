@@ -1,10 +1,8 @@
-Title: Fiery Crosses Symbolize a Revival on Stone Mountain
-
-Author: Justin Seward
-
-Location:
-https://www.google.com/maps/place/33%C2%B048\'44.5%22N+84%C2%B010\'07.9%22W/@33.812371,-84.1714439,17z/data=!3m1!4b1!4m13!1m8!3m7!1s0x88f5af24c25d5bbb:0x4119e5c541409adc!2sStone+Mountain,+GA!3b1!8m2!3d33.8081608!4d-84.170196!16zL20vMHJ2emY!3m3!8m2!3d33.812371!4d-84.168869?entry=ttu
-
+---
+title: Fiery Crosses Symbolize a Revival on Stone Mountain
+author: Justin Seward
+location: https://www.google.com/maps/place/33%C2%B048\'44.5%22N+84%C2%B010\'07.9%22W/@33.812371,-84.1714439,17z/data=!3m1!4b1!4m13!1m8!3m7!1s0x88f5af24c25d5bbb:0x4119e5c541409adc!2sStone+Mountain,+GA!3b1!8m2!3d33.8081608!4d-84.170196!16zL20vMHJ2emY!3m3!8m2!3d33.812371!4d-84.168869?entry=ttu
+---
 In 1945 and 1946 alone, at least five crosses were burned atop Stone
 Mountain, the largest Confederate Monument in existence.[^1] These
 cross-burnings signaled an attempt to jump-start both the third

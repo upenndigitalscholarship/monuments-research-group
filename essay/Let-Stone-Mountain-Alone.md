@@ -1,10 +1,8 @@
-Title: "Let Stone Mountain Alone"
-
-Author: Justin Seward
-
-Location:
-https://www.google.com/maps/place/33%C2%B048\'36.6%22N+84%C2%B008\'37.9%22W/@33.810154,-84.143871,17z/data=!3m1!4b1!4m13!1m8!3m7!1s0x88f5af24c25d5bbb:0x4119e5c541409adc!2sStone+Mountain,+GA!3b1!8m2!3d33.8081608!4d-84.170196!16zL20vMHJ2emY!3m3!8m2!3d33.810154!4d-84.143871?entry=ttu
-
+---
+title: "Let Stone Mountain Alone"
+author: Justin Seward
+location: https://www.google.com/maps/place/33%C2%B048\'36.6%22N+84%C2%B008\'37.9%22W/@33.810154,-84.143871,17z/data=!3m1!4b1!4m13!1m8!3m7!1s0x88f5af24c25d5bbb:0x4119e5c541409adc!2sStone+Mountain,+GA!3b1!8m2!3d33.8081608!4d-84.170196!16zL20vMHJ2emY!3m3!8m2!3d33.810154!4d-84.143871?entry=ttu
+---
 There were three distinct waves of construction at Stone Mountain. The
 first wave began in 1915 when Helen Plane suggested carving a small
 monument to Lee in the mountain.[^1] Soon after, Gutzon Borglum---the Ku
