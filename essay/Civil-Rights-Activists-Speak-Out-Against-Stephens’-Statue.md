@@ -1,11 +1,8 @@
-Title: "Cold Marble Can Proclaim Its Cause": The Alexander Stephens
-Statue in the Capitol
-
-Author: Olivia Haynie
-
-Location:
-<https://www.google.com/maps/place/45+Independence+Ave+SE,+Washington,+DC+20515/@38.889943,-77.0116254,17z/data=!4m14!1m7!3m6!1s0x89b7b82921a2cf17:0x482a3f7c10cf8c4!2sUnited+States+Capitol!8m2!3d38.8899389!4d-77.0090505!16zL20vMDd2dGg!3m5!1s0x89b7b829c831bc43:0xf0d7c33e4fb03ce0!8m2!3d38.8898752!4d-77.0093952!16s%2Fg%2F12hpj9g57?entry=ttu>
-
+---
+title: '"Cold Marble Can Proclaim Its Cause": The Alexander Stephens Statue in the Capitol'
+author: Olivia Haynie
+location: <https://www.google.com/maps/place/45+Independence+Ave+SE,+Washington,+DC+20515/@38.889943,-77.0116254,17z/data=!4m14!1m7!3m6!1s0x89b7b82921a2cf17:0x482a3f7c10cf8c4!2sUnited+States+Capitol!8m2!3d38.8899389!4d-77.0090505!16zL20vMDd2dGg!3m5!1s0x89b7b829c831bc43:0xf0d7c33e4fb03ce0!8m2!3d38.8898752!4d-77.0093952!16s%2Fg%2F12hpj9g57?entry=ttu>
+---
 In April 1926, the *New York Amsterdam News*[^1] and the *Pittsburgh
 Courier*[^2] simultaneously printed a letter authored by Neval Thomas, a
 civil rights activist then serving as president of the Washington, D.C.

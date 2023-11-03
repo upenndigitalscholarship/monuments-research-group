@@ -8,7 +8,11 @@ layout: base.njk
 
         <div class="container">
             <h4>
+                {% if essay.data.title %}
+                <a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a>
+                {% else %}
                 <a href="/essay/{{ essay.fileSlug }}">{{ essay.fileSlug | deslugify }}</a>
+                {% endif %}
             </h4>
         </div>
     </div>

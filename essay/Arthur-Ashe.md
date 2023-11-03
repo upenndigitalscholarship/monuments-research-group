@@ -1,6 +1,6 @@
-"The spirit that Arthur gave to Richmond has been overlooked": Ashe on
-Monument Ave
-
+---
+title: '"The spirit that Arthur gave to Richmond has been overlooked"\u0003 Ashe on Monument Ave'
+---
 Richmond, VA Arthur Ashe was a Black professional tennis player who won
 multiple globally prestigious tournaments throughout the 1970 and 1980s.
 At 18 years old, in 1961, Ashe left segregated Richmond "in disgust

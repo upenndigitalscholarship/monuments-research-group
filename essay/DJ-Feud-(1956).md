@@ -1,10 +1,8 @@
-Title: "An Insult to the South": DJ Feud of 1956
-
-Author: Olivia Haynie
-
-Location:
-<https://www.google.com/maps/place/Downtown+Chicago,+IL/@41.8792558,-87.6625968,13z/data=!3m1!4b1!4m6!3m5!1s0x880e2caf74846717:0xbc3dc7eb0e09bbfd!8m2!3d41.8756719!4d-87.6243469!16s%2Fg%2F1213h_z_?entry=ttu>
-
+---
+title: '"An Insult to the South": DJ Feud of 1956'
+author: Olivia Haynie
+location: <https://www.google.com/maps/place/Downtown+Chicago,+IL/@41.8792558,-87.6625968,13z/data=!3m1!4b1!4m6!3m5!1s0x880e2caf74846717:0xbc3dc7eb0e09bbfd!8m2!3d41.8756719!4d-87.6243469!16s%2Fg%2F1213h_z_?entry=ttu>
+---
 When a Black disc jockey in Chicago named Al Benson wanted to protest
 racism in his home state of Mississippi in early 1956, he came up with
 an unorthodox way of getting his message out. He arranged to have 3,000

@@ -1,11 +1,8 @@
-Title: No Churches for Judas and Pilate: Richard B. Martin on the 1960
-Jefferson Davis Postage Stamp Proposal
-
-Author: Justin Seward
-
-Location:
-https://www.google.com/maps/place/New+Journal+%26+Guide/@36.8559539,-76.2285949,17z/data=!3m1!4b1!4m6!3m5!1s0x89ba97c865b32b0f:0xdc977e53c80a72d5!8m2!3d36.8559539!4d-76.22602!16s%2Fg%2F1hg41mtnb?entry=ttu
-
+---
+title: "No Churches for Judas and Pilate: Richard B. Martin on the 1960 Jefferson Davis Postage Stamp Proposal"
+author: Justin Seward
+location: https://www.google.com/maps/place/New+Journal+%26+Guide/@36.8559539,-76.2285949,17z/data=!3m1!4b1!4m6!3m5!1s0x89ba97c865b32b0f:0xdc977e53c80a72d5!8m2!3d36.8559539!4d-76.22602!16s%2Fg%2F1hg41mtnb?entry=ttu
+---
 In 1960, a proposal was put forward to issue a postage stamp honoring
 CSA president Jefferson Davis. The *New Journal and Guide* (Norfolk, VA)
 published a sharply critical response by a local Episcopalian priest

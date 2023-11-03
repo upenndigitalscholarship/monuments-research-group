@@ -1,10 +1,8 @@
-Title: Cross-Burning in New Orleans near Davis Monument
-
-Author: Justin Seward
-
-Location:
-https://www.google.com/maps/place/29%C2%B058\'11.7%22N+90%C2%B005\'39.1%22W/@29.969917,-90.0967749,17z/data=!3m1!4b1!4m4!3m3!8m2!3d29.969917!4d-90.0942?entry=ttu
-
+---
+title: Cross-Burning in New Orleans near Davis Monument
+author: Justin Seward
+location: https://www.google.com/maps/place/29%C2%B058\'11.7%22N+90%C2%B005\'39.1%22W/@29.969917,-90.0967749,17z/data=!3m1!4b1!4m4!3m3!8m2!3d29.969917!4d-90.0942?entry=ttu
+---
 In 1956, the *California Eagle* and the *Arizona Sun* published
 simultaneous reports on a cross-burning in New Orleans. Both articles
 noted that a sign had been placed above the blaze that read: "Keep our

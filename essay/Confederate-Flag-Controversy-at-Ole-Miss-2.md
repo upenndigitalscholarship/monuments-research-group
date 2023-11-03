@@ -1,11 +1,8 @@
-Title: "Fear Is What This Story Is All About": Confederate Flag
-Controversy at Ole Miss
-
-Author: Olivia Haynie
-
-Location:
-<https://www.google.com/maps/place/Ole+Miss/@34.3659754,-89.5535321,15z/data=!3m1!4b1!4m6!3m5!1s0x88807a8dd2141a75:0xa6b7a2f882b1c14a!8m2!3d34.3659591!4d-89.535078!16s%2Fg%2F11dyxzkggd?entry=ttu>
-
+---
+title: '"Fear Is What This Story Is All About": Confederate Flag Controversy at Ole Miss'
+author: Olivia Haynie
+location: <https://www.google.com/maps/place/Ole+Miss/@34.3659754,-89.5535321,15z/data=!3m1!4b1!4m6!3m5!1s0x88807a8dd2141a75:0xa6b7a2f882b1c14a!8m2!3d34.3659591!4d-89.535078!16s%2Fg%2F11dyxzkggd?entry=ttu>
+---
 In the early 1980s, the University of Mississippi (Ole Miss) was
 embroiled in controversy over its ongoing use of the Confederate flag as
 a school symbol. In spring of 1982, the University of Mississippi
