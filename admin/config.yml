@@ -29,19 +29,38 @@ collections:
         name: "body" 
         widget: "markdown" 
         required: false
-  - name: "main" # Used in routes, e.g., /admin/collections/blog
+  - name: "introduction" # Used in routes, e.g., /admin/collections/blog
     editor:
       preview: true
     label: "Introduction" # Used in the UI
     identifier_field: page
     folder: "/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    filter: {field: "title", value: "Main"}
+    filter: {field: "title", value: "Introduction"}
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - label: "Title"
         name: "title"
         widget: "string"
+      - label: "Text" 
+        name: "body" 
+        widget: "markdown" 
+        required: false
+  - name: "further-reading" # Used in routes, e.g., /admin/collections/blog
+    editor:
+      preview: true
+    label: "Further Reading" # Used in the UI
+    identifier_field: page
+    folder: "/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    filter: {field: "title", value: "Further Reading"}
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      # Lesson
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      # Text
       - label: "Text" 
         name: "body" 
         widget: "markdown" 
