@@ -1,11 +1,13 @@
 ---
 layout: base.njk
 ---
-
+<div class="container-lg">
 {% block content %}
   <h1>{{ title | safe }}</h1> 
-  <i>{{ author | safe }}</i> 
+  
+  <p><i>{{ author | safe }}</i></p> 
   
   {{ content | safe }}
 {% endblock %}
-```
+
+</div>

@@ -1,8 +1,7 @@
 ---
 title: Introduction
-layout: base.njk
+layout: essay.njk
 ---
-
 Introduction: Historic Black Perspectives on Confederate Commemoration
 
 In his 1935 book *Black Reconstruction in America*, W. E. B. Du Bois

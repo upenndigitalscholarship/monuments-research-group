@@ -4,16 +4,26 @@ layout: base.njk
 ---
 
 {% for essay in collections.essays %}
-    <div class="card">
 
-        <div class="container">
-            <h4>
-                {% if essay.data.title %}
-                <a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a>
-                {% else %}
-                <a href="/essay/{{ essay.fileSlug }}">{{ essay.fileSlug | deslugify }}</a>
-                {% endif %}
-            </h4>
-        </div>
+<div class="list-group">
+    {% if essay.data.title %}
+    <a href="/essay/{{ essay.fileSlug }}" class="list-group-item list-group-item-action ">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">{{ essay.data.title }}</h5>
+      <small></small>
     </div>
+  </a>
+        
+    {% else %}
+    <a href="/essay/{{ essay.fileSlug }}" class="list-group-item list-group-item-action ">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">{{ essay.fileSlug | deslugify }}</h5>
+      <small></small>
+    </div>
+  </a>
+    {% endif %}
+  
+</div>
+
+
 {% endfor %}
