@@ -3,27 +3,24 @@ title: Essays
 layout: base.njk
 ---
 
-{% for essay in collections.essays %}
-
-<div class="list-group">
-    {% if essay.data.title %}
-    <a href="/essay/{{ essay.fileSlug }}" class="list-group-item list-group-item-action ">
-    <div class="d-flex w-100 justify-content-between">
-      <h5 class="mb-1">{{ essay.data.title }}</h5>
-      <small></small>
-    </div>
-  </a>
-        
-    {% else %}
-    <a href="/essay/{{ essay.fileSlug }}" class="list-group-item list-group-item-action ">
-    <div class="d-flex w-100 justify-content-between">
-      <h5 class="mb-1">{{ essay.fileSlug | deslugify }}</h5>
-      <small></small>
-    </div>
-  </a>
-    {% endif %}
-  
-</div>
+<div id="essay-list" class="container" style="margin-top:10px;">
+  <!-- class="search" automagically makes an input a search field. -->
+  <input class="search" placeholder="Search" />
+<!-- class="sort" automagically makes an element a sort buttons. The date-sort value decides what to sort by. -->
+ <p></p>
+  <ul class="list no-bullets list-group">
+    {% for essay in collections.essays %}
+        <li class="list-group-item"><a href="/essay/{{ essay.fileSlug }}"><h6 class="title" style="color:black;">{{ essay.data.title }}</h6></a></li>
+    {% endfor %}
+  </ul>
+</div>      
 
 
-{% endfor %}
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+<script>
+  var options = {
+    valueNames: [ 'title' ]
+};
+
+var hackerList = new List('essay-list', options);
+</script>
