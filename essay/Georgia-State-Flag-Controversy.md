@@ -2,6 +2,7 @@
 title: >-
  "Change the Symbol That Churns up Hate": The Georgia State Flag Controversy
 author: Olivia Haynie
+topic: Flag Politics
 lat: 33.7492266
 long: -84.3908847
 location: <https://www.google.com/maps/search/georgia+capitol/@33.7492266,-84.3908847,17z/data=!3m1!4b1?entry=ttu>

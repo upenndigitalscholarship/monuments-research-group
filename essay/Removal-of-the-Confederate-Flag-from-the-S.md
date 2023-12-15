@@ -2,6 +2,7 @@
 title: >-
  "A Symbol of Injustice That Serves as a Constant Reminder": Taking Down the Confederate Flag at the S.C. Statehouse
 author: Olivia Haynie
+topic: Flag Politics
 lat: 34.000083
 long: -81.035572
 location: <https://www.google.com/maps/place/South+Carolina+State+House/@34.000083,-81.035572,17z/data=!3m1!4b1!4m6!3m5!1s0x88f8bb2bb5e98ccf:0x8b17d245b7ef8700!8m2!3d34.0000786!4d-81.0329971!16zL20vMDlwd2R5?entry=ttu>

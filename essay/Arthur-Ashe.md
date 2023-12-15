@@ -1,6 +1,8 @@
 ---
 title: >-
     "The spirit that Arthur gave to Richmond has been overlooked" Ashe on Monument Ave
+topic: Monument Avenue in Richmond
+
 ---
 Richmond, VA Arthur Ashe was a Black professional tennis player who won
 multiple globally prestigious tournaments throughout the 1970 and 1980s.

@@ -1,6 +1,7 @@
 ---
 title: Grasping at Will-o'-Wisps at West Point
 author: Justin Seward
+topic: Monuments and Locations
 lat: 41.3889095
 long: -73.9596822
 location: https://www.google.com/maps/place/United+States+Military+Academy/@41.3889095,-73.9596822,17z/data=!3m1!4b1!4m6!3m5!1s0x89dd2d5c1a96bbbd:0x5cdc9eb64ac330cf!8m2!3d41.3889095!4d-73.9571073!16zL20vMGJ6MzV3?entry=ttu

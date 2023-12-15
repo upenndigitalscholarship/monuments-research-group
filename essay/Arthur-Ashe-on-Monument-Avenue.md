@@ -2,6 +2,7 @@
 title: >- 
     "I Don't Think the Confederate Heroes Have a Sacred Place on Monument Avenue": The Arthur Ashe Statue in Richmond
 author: Justin Seward
+topic: Monument Avenue in Richmond
 lat: 37.5651631
 long: -77.4816436
 location: https://www.google.com/maps/place/Arthur+Ashe+Monument/@37.5651631,-77.4816436,17z/data=!3m1!4b1!4m6!3m5!1s0x89b115cab4f3ac7f:0xab858d9e60afacb1!8m2!3d37.5651631!4d-77.4790687!16s%2Fg%2F11j_r725h6?entry=ttu

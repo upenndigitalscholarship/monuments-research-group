@@ -89,3 +89,7 @@ collections:
         name: "body" 
         widget: "markdown" 
         required: false  
+      - label: "Topic" 
+        name: "topic" 
+        widget: "string" 
+        required: false

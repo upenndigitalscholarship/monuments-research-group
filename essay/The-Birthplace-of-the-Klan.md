@@ -1,6 +1,7 @@
 ---
 title: Stone Mountain and the Resurrection of the Klan
 author: Justin Seward
+topic: Stone Mountain and the Klan
 lat: 33.8095887
 long: -84.1484626
 location: <https://www.google.com/maps/place/Confederate+Memorial+Carving/@33.8095887,-84.1484626,16.04z/data=!4m15!1m8!3m7!1s0x88f5af24c25d5bbb:0x4119e5c541409adc!2sStone+Mountain,+GA!3b1!8m2!3d33.8081608!4d-84.170196!16zL20vMHJ2emY!3m5!1s0x88f5afbca4575fdf:0xe30cfde12b0eafdb!8m2!3d33.8083787!4d-84.1447107!16s%2Fg%2F11rnhqktt7?entry=ttu>

@@ -1,6 +1,7 @@
 ---
 title: Black Journalists Note the Klan's Hatred for Other Groups
 author: Justin Seward
+topic: Stone Mountain and the Klan
 lat: 33.805423
 long: -84.1634489
 location: https://www.google.com/maps/place/33%C2%B048\'19.5%22N+84%C2%B009\'39.2%22W/@33.805423,-84.1634489,17z/data=!3m1!4b1!4m13!1m8!3m7!1s0x88f5af24c25d5bbb:0x4119e5c541409adc!2sStone+Mountain,+GA!3b1!8m2!3d33.8081608!4d-84.170196!16zL20vMHJ2emY!3m3!8m2!3d33.805423!4d-84.160874?entry=ttu

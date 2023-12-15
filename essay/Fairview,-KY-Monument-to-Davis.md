@@ -2,6 +2,7 @@
 title: >-
  "The Weakness of Human Judgement": The Jefferson Davis Monument in Kentucky
 author: Justin Seward
+topic: Monuments and Locations
 lat: 36.841781
 long: -87.3025959
 location: https://www.google.com/maps/place/Jefferson+Davis+State+Historic+Site/@36.841781,-87.3025959,17z/data=!3m1!4b1!4m6!3m5!1s0x88653eab5a573f4b:0xe07d2464cd0df043!8m2!3d36.841781!4d-87.300021!16zL20vMDhsXzht?entry=ttu
