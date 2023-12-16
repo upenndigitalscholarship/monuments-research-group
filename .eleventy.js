@@ -3,6 +3,18 @@ const markdownIt = require('markdown-it');
 module.exports = function(eleventyConfig) {  
     eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addPassthroughCopy("admin");
+    eleventyConfig.addFilter("getUniqueTopics", function(collection) {
+        let topics = [];
+        collection.forEach(item => {
+            if (item.data.topic) {    
+                if (!topics.includes(item.data.topic)) {
+                    topics.push(item.data.topic);
+                }
+            }
+        });
+        return topics;
+    }
+    );
     let options = {
     html: true,
     breaks: true,

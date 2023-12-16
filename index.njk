@@ -15,8 +15,21 @@ layout: base.njk
 </div>
 
 <div id="filter-box">
-    <button id="big-button" class="filter-button">Big</button>
-    <button id="small-button" class="filter-button">Small</button>
+    {# for each unique lable in collections.essays , add a button #}
+    {% for topic in collections.essays | getUniqueTopics %}
+        <button class="filter-button" data-label="{{ topic }}">{{ topic }}</button><br>
+        {# add event to button on click #}
+        <script>
+            document.querySelector('[data-label="{{ topic }}"]').addEventListener('click', function() {
+                console.log(this.dataset.label);
+                // filter map for points with this label
+
+                
+                
+            });
+        </script>
+    {% endfor %}
+    
 </div>
 
 <style>
@@ -26,7 +39,7 @@ layout: base.njk
 
     #filter-box {
         position: absolute;
-        top: 60vh;
+        top: 40vh;
         left: 20px;
         z-index: 999;
     }
@@ -60,32 +73,11 @@ layout: base.njk
     {% for essay in collections.essays %}
         {% if essay.data.lat and essay.data.long %}
             L
-                .marker([{{ essay.data.lat }}, {{ essay.data.long }}])
+                .marker([{{ essay.data.lat }}, {{ essay.data.long }}], {title: '{{ essay.data.topic }}'})
                 .addTo(map)
                 .bindPopup('<a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a>');
+                
         {% endif %}
     {% endfor %}
 </script>
 
-<script>
-    let map = L
-        .map('map')
-        .setView([
-            40.26029244302987, -90.23749139976277
-        ], 5);
-    L
-        .tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-            subdomains: 'abcd',
-            maxZoom: 20
-        })
-        .addTo(map);
-    {% for essay in collections.essays %}
-        {% if essay.data.lat and essay.data.long %}
-            L
-                .marker([{{ essay.data.lat }}, {{ essay.data.long }}])
-                .addTo(map)
-                .bindPopup('<a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a>');
-        {% endif %}
-    {% endfor %}
-</script>
