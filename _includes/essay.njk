@@ -3,8 +3,15 @@ layout: base.njk
 ---
 <div class="container-lg">
 {% block content %}
-  <h1>{{ title | safe }}</h1> 
-  
+
+{% if ':' in title  %}  
+  <h1>{{ title | title | safe }}</h1> 
+  <h4>{{ title | subtitle | safe }}</h4>
+{% else %}
+  <h1>{{ title | safe }}</h1>
+{% endif %}  
+
+<br>
   <p><i>{{ author | safe }}</i></p> 
   
   {{ content | safe }}

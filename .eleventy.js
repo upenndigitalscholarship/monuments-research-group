@@ -16,6 +16,12 @@ module.exports = function(eleventyConfig) {
         return topics;
     }
     );
+    eleventyConfig.addFilter("title", function(string) {
+        return string.split(":")[0];
+    });
+    eleventyConfig.addFilter("subtitle", function(string) {
+        return string.split(":")[1];
+    });
     let options = {
     html: true,
     breaks: true,
