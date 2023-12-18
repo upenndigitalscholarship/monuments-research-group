@@ -22,7 +22,26 @@ layout: base.njk
         <script>
             document.querySelector('[data-label="{{ topic }}"]').addEventListener('click', function() {
                 console.log(this.dataset.label);
-                // filter map for points with this label
+                // filter essays using points object
+                // remove all markers from map
+                map.eachLayer(function (layer) {
+                    if (layer instanceof L.Marker) {
+                        map.removeLayer(layer);
+                    }
+                });
+                for (let topic in points) {
+                    if (topic == this.dataset.label) {
+                        for (let point of points[topic]) {
+                            L
+                                .marker([point.lat, point.long], {title: point.topic})
+                                .addTo(map)
+                                .bindPopup(point.popup)
+                                //.openPopup();
+                        }
+                    }
+                }
+                
+                
 
                 
                 
@@ -58,6 +77,7 @@ layout: base.njk
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
 <script>
+
     let map = L
         .map('map')
         .setView([
@@ -65,19 +85,35 @@ layout: base.njk
         ], 5);
     L
         .tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+            attribution: '',
             subdomains: 'abcd',
             maxZoom: 20
         })
         .addTo(map);
+    let points = {};
     {% for essay in collections.essays %}
         {% if essay.data.lat and essay.data.long %}
-            L
-                .marker([{{ essay.data.lat }}, {{ essay.data.long }}], {title: '{{ essay.data.topic }}'})
-                .addTo(map)
-                .bindPopup('<a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a>');
-                
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('{{ essay.data.topic }}')) {
+                // if it is, add the new point to the array
+                points['{{ essay.data.topic }}'].push({'lat':{{ essay.data.lat }}, 'long':{{ essay.data.long }}, 'topic':'{{ essay.data.topic }}', 'popup':'<a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['{{ essay.data.topic }}'] = [];
+                points['{{ essay.data.topic }}'].push({'lat':{{ essay.data.lat }}, 'long':{{ essay.data.long }}, 'topic':'{{ essay.data.topic }}', 'popup':'<a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a>'});
+            }
         {% endif %}
     {% endfor %}
+
+    // loop through the points object and add the markers
+    for (let topic in points) {
+        for (let point of points[topic]) {
+            L
+                .marker([point.lat, point.long], {title: point.topic})
+                .addTo(map)
+                .bindPopup(point.popup);
+        }
+    }
+    
 </script>
 

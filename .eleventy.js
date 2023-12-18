@@ -12,6 +12,7 @@ module.exports = function(eleventyConfig) {
                 }
             }
         });
+        topics = topics.reverse();
         return topics;
     }
     );
