@@ -31,22 +31,22 @@ layout: base.njk
                             map.removeLayer(layer);
                         }
                     });
+                    markers.clearLayers();
                     for (let topic in points) {
                         if (topic == this.dataset.label) {
                             let color = colors[Math.floor(Math.random() * colors.length)];
                             for (let point of points[topic]) {
-                                L
-                                    .marker([
-                                        point.lat, point.long
-                                    ], {
-                                        title: point.topic,
-                                        icon: L.divIcon({
-                                            className: 'my-div-icon',
-                                            html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + color + '" /></svg>'
-                                        })
+                                markers.addLayer(L.marker([
+                                    point.lat, point.long
+                                ], {
+                                    title: point.topic,
+                                    icon: L.divIcon({
+                                        className: 'my-div-icon',
+                                        html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + color + '" /></svg>'
                                     })
-                                    .addTo(map)
-                                    .bindPopup(point.popup);
+                                }).bindPopup(point.popup));
+                                map.addLayer(markers);
+
                             }
                         }
                     }
@@ -76,11 +76,18 @@ layout: base.njk
 
 <div id="map"></div>
 
+<link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
+<link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
+
+
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
+
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"
      crossorigin=""></script>
 <script>
     let colors = [
@@ -104,6 +111,7 @@ layout: base.njk
             maxZoom: 20
         })
         .addTo(map);
+    let markers = L.markerClusterGroup();
     let points = {};
     {% for essay in collections.essays %}
         {% if essay.data.lat and essay.data.long %}
@@ -124,18 +132,17 @@ layout: base.njk
         // pick a color from colors
         let color = colors[Math.floor(Math.random() * colors.length)];
         for (let point of points[topic]) {
-            L
-                .marker([
-                    point.lat, point.long
-                ], {
-                    title: point.topic,
-                    icon: L.divIcon({
-                        className: 'my-div-icon',
-                        html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + color + '" /></svg>'
-                    })
+            markers.addLayer(L.marker([
+                point.lat, point.long
+            ], {
+                title: point.topic,
+                icon: L.divIcon({
+                    className: 'my-div-icon',
+                    html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + color + '" /></svg>'
                 })
-                .addTo(map)
-                .bindPopup(point.popup);
+            }).bindPopup(point.popup));
+            map.addLayer(markers);
+
         }
     }
 </script>
