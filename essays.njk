@@ -5,22 +5,31 @@ layout: base.njk
 
 <div id="essay-list" class="container" style="margin-top:10px;">
   <!-- class="search" automagically makes an input a search field. -->
-  <input class="search" placeholder="Search" />
-<!-- class="sort" automagically makes an element a sort buttons. The date-sort value decides what to sort by. -->
- <p></p>
+  <input class="search" placeholder="Search"/>
+  <!-- class="sort" automagically makes an element a sort buttons. The date-sort value decides what to sort by. -->
+  <p></p>
   <ul class="list no-bullets list-group">
-    {% for essay in collections.essays %}
-        <li class="list-group-item"><a href="/essay/{{ essay.fileSlug }}"><h6 class="title" style="color:black;">{{ essay.data.title }}</h6></a></li>
+    {% for topic in collections.essays | getUniqueTopics %}
+    <li class="list-group-item"><h3>{{ topic }}</h3></li>
+      {% for essay in collections.essays %}
+        {% if essay.data.topic == topic %}
+          <li class="list-group-item">
+            <a href="/essay/{{ essay.fileSlug }}">
+              <h6 class="title" style="color:black;">{{ essay.data.title }}</h6>
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
     {% endfor %}
-  </ul>
-</div>      
 
+  </ul>
+</div>
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
 <script>
   var options = {
-    valueNames: [ 'title' ]
-};
+    valueNames: ['title']
+  };
 
-var hackerList = new List('essay-list', options);
+  var hackerList = new List('essay-list', options);
 </script>
