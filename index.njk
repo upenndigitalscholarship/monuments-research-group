@@ -40,8 +40,10 @@ layout: base.njk
                 {% endif %}
             {% endfor %}
     </script>
+    <div class="card bg-black" style="width: 18rem;">
+
     {% for topic in collections.essays | getUniqueTopics %}
-        <button class="filter-button" data-label="{{ topic }}">{{ topic }}</button><br>
+        <button type="button" class="btn btn-dark filter-button" data-label="{{ topic }}">{{ topic }}</button><br>
         {# add event to button on click #}
         <script>
             
@@ -83,11 +85,11 @@ layout: base.njk
                 });
             document
                 .querySelector('[data-label="{{ topic }}"]')
-                .innerHTML += `<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['{{ topic }}']}" /></svg>`
+                .insertAdjacentHTML('beforeend', `&nbsp;&nbsp;<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['{{ topic }}']}" /></svg>`)
         </script>
         
     {% endfor %}
-<button class="filter-button" data-label="reset">Reset</button><br>
+<button class="btn btn-dark filter-button" data-label="reset">Reset</button><br>
         <script>
             document
                 .querySelector('[data-label="reset"]')
@@ -125,9 +127,12 @@ layout: base.njk
         </script>
 </div>
 
+</div>
+
 <style>
     #map {
-        height: 60vh;
+        height: 70vh;
+        border-radius: 5px;
     }
 
     #filter-box {
