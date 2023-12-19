@@ -16,10 +16,35 @@ layout: base.njk
 
 <div id="filter-box">
     {# for each unique lable in collections.essays , add a button #}
+    <script>
+        let colors = [
+                '#ff0000',
+                '#00ff00',
+                '#0000ff',
+                '#ffff00',
+                '#00ffff',
+                '#ff00ff',
+                '#ffffff'
+            ]
+            let colorLookup = {}
+            {% for essay in collections.essays %}
+                {% if essay.data.lat and essay.data.long %}
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('{{ essay.data.topic }}')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['{{ essay.data.topic }}'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                {% endif %}
+            {% endfor %}
+    </script>
     {% for topic in collections.essays | getUniqueTopics %}
         <button class="filter-button" data-label="{{ topic }}">{{ topic }}</button><br>
         {# add event to button on click #}
         <script>
+            
             document
                 .querySelector('[data-label="{{ topic }}"]')
                 .addEventListener('click', function () {
@@ -32,6 +57,10 @@ layout: base.njk
                         }
                     });
                     markers.clearLayers();
+                    // reset zoom to 5
+                    map.setView([
+                        40.26029244302987, -90.23749139976277
+                    ], 5);
                     for (let topic in points) {
                         if (topic == this.dataset.label) {
                             let color = colors[Math.floor(Math.random() * colors.length)];
@@ -42,7 +71,7 @@ layout: base.njk
                                     title: point.topic,
                                     icon: L.divIcon({
                                         className: 'my-div-icon',
-                                        html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + color + '" /></svg>'
+                                        html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + colorLookup[point.topic] + '" /></svg>'
                                     })
                                 }).bindPopup(point.popup));
                                 map.addLayer(markers);
@@ -52,6 +81,9 @@ layout: base.njk
                     }
 
                 });
+            document
+                .querySelector('[data-label="{{ topic }}"]')
+                .innerHTML += `<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['{{ topic }}']}" /></svg>`
         </script>
     {% endfor %}
 
@@ -89,15 +121,7 @@ layout: base.njk
 <script src="/assets/js/leaflet.markercluster.js"
      crossorigin=""></script>
 <script>
-    let colors = [
-        '#ff0000',
-        '#00ff00',
-        '#0000ff',
-        '#ffff00',
-        '#00ffff',
-        '#ff00ff',
-        '#ffffff'
-    ]
+    
     let map = L
         .map('map')
         .setView([
@@ -122,6 +146,7 @@ layout: base.njk
                 // if it isn't, create a new array with the point
                 points['{{ essay.data.topic }}'] = [];
                 points['{{ essay.data.topic }}'].push({'lat': {{ essay.data.lat }}, 'long': {{ essay.data.long }}, 'topic': '{{ essay.data.topic }}', 'popup': '<a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a>'});
+                
             }
         {% endif %}
     {% endfor %}
@@ -129,7 +154,7 @@ layout: base.njk
     // loop through the points object and add the markers
     for (let topic in points) {
         // pick a color from colors
-        let color = colors[Math.floor(Math.random() * colors.length)];
+        // save color to points object
         for (let point of points[topic]) {
             markers.addLayer(L.marker([
                 point.lat, point.long
@@ -137,11 +162,13 @@ layout: base.njk
                 title: point.topic,
                 icon: L.divIcon({
                     className: 'my-div-icon',
-                    html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + color + '" /></svg>'
+                    html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + colorLookup[point.topic] + '" /></svg>'
                 })
             }).bindPopup(point.popup));
             map.addLayer(markers);
-
+            
         }
     }
+    
+
 </script>
