@@ -85,8 +85,44 @@ layout: base.njk
                 .querySelector('[data-label="{{ topic }}"]')
                 .innerHTML += `<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['{{ topic }}']}" /></svg>`
         </script>
+        
     {% endfor %}
+<button class="filter-button" data-label="reset">Reset</button><br>
+        <script>
+            document
+                .querySelector('[data-label="reset"]')
+                .addEventListener('click', function () {
+                    // filter essays using points object
+                    // remove all markers from map
+                    map.eachLayer(function (layer) {
+                        if (layer instanceof L.Marker) {
+                            map.removeLayer(layer);
+                        }
+                    });
+                    markers.clearLayers();
+                    // reset zoom to 5
+                    map.setView([
+                        40.26029244302987, -90.23749139976277
+                    ], 5);
+                    for (let topic in points) {
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        for (let point of points[topic]) {
+                            markers.addLayer(L.marker([
+                                point.lat, point.long
+                            ], {
+                                title: point.topic,
+                                icon: L.divIcon({
+                                    className: 'my-div-icon',
+                                    html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + colorLookup[point.topic] + '" /></svg>'
+                                })
+                            }).bindPopup(point.popup));
+                            map.addLayer(markers);
 
+                        }
+                    }
+
+                });
+        </script>
 </div>
 
 <style>
