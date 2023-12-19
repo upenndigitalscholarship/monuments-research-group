@@ -61,7 +61,7 @@ layout: base.njk
                     markers.clearLayers();
                     // reset zoom to 5
                     map.setView([
-                        40.26029244302987, -90.23749139976277
+                        39.44483435516343, -99.33589354231967
                     ], 5);
                     for (let topic in points) {
                         if (topic == this.dataset.label) {
@@ -104,7 +104,7 @@ layout: base.njk
                     markers.clearLayers();
                     // reset zoom to 5
                     map.setView([
-                        40.26029244302987, -90.23749139976277
+                        39.44483435516343, -99.33589354231967
                     ], 5);
                     for (let topic in points) {
                         let color = colors[Math.floor(Math.random() * colors.length)];
@@ -166,7 +166,7 @@ layout: base.njk
     let map = L
         .map('map')
         .setView([
-            40.26029244302987, -90.23749139976277
+            39.44483435516343, -99.33589354231967
         ], 5);
     L
         .tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
