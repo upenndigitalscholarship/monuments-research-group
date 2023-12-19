@@ -169,10 +169,10 @@ layout: base.njk
             39.44483435516343, -99.33589354231967
         ], 5);
     L
-        .tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
+        .tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
             attribution: '',
             subdomains: 'abcd',
-            maxZoom: 20
+            maxZoom: 20,
         })
         .addTo(map);
     let markers = L.markerClusterGroup();
