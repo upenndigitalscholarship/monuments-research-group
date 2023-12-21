@@ -22,6 +22,10 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addFilter("subtitle", function(string) {
         return string.split(":")[1];
     });
+    eleventyConfig.addFilter("snippet", function(string) {
+        // return first 100 characters of string, remove any line breaks and html tags
+        return string.substring(0, 250).replace(/(\r\n|\n|\r)/gm, "").replace(/(<([^>]+)>)/gi, "");
+    });
     let options = {
     html: true,
     breaks: true,
