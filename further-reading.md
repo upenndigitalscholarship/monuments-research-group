@@ -2,6 +2,7 @@
 title: Further Reading
 layout: base.njk
 ---
+<div id="further-reading" class="container" style="margin-top:10px;">
 
 
 Alexander, Ann Field. *Race Man: The Rise and Fall of the "Fighting
@@ -30,3 +31,5 @@ University Press, 1997.
 Spires, Derrick R. *The Practice of Citizenship: Black Politics in the
 Early United States*. Philadelphia, PA: University of Pennsylvania
 Press, 2019.
+
+</div>

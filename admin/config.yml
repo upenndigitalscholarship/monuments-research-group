@@ -65,6 +65,25 @@ collections:
         name: "body" 
         widget: "markdown" 
         required: false
+  - name: "about" # Used in routes, e.g., /admin/collections/blog
+    editor:
+      preview: true
+    label: "About" # Used in the UI
+    identifier_field: page
+    folder: "/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    filter: {field: "title", value: "About"}
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      # Lesson
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      # Text
+      - label: "Text" 
+        name: "body" 
+        widget: "markdown" 
+        required: false
   - name: "essay" 
     editor:
       preview: true
