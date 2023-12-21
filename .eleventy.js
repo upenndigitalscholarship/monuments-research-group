@@ -24,7 +24,7 @@ module.exports = function(eleventyConfig) {
     });
     eleventyConfig.addFilter("snippet", function(string) {
         // return first 100 characters of string, remove any line breaks and html tags
-        return string.substring(0, 250).replace(/(\r\n|\n|\r)/gm, "").replace(/(<([^>]+)>)/gi, "");
+        return string.substring(0, 250).replace(/(\r\n|\n|\r)/gm, "");
     });
     let options = {
     html: true,
