@@ -181,11 +181,11 @@ layout: base.njk
             // see if the topic is already in the points object
             if (points.hasOwnProperty('{{ essay.data.topic }}')) {
                 // if it is, add the new point to the array
-                points['{{ essay.data.topic }}'].push({'lat': {{ essay.data.lat }}, 'long': {{ essay.data.long }}, 'topic': '{{ essay.data.topic }}', 'popup': '<a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a><p></p>'});
+                points['{{ essay.data.topic }}'].push({'lat': {{ essay.data.lat }}, 'long': {{ essay.data.long }}, 'topic': '{{ essay.data.topic }}', 'popup': '<a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a><p>{{ item.content|slice(0, 100) }}...</p>'});
             } else {
                 // if it isn't, create a new array with the point
                 points['{{ essay.data.topic }}'] = [];
-                points['{{ essay.data.topic }}'].push({'lat': {{ essay.data.lat }}, 'long': {{ essay.data.long }}, 'topic': '{{ essay.data.topic }}', 'popup': '<a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a>'});
+                points['{{ essay.data.topic }}'].push({'lat': {{ essay.data.lat }}, 'long': {{ essay.data.long }}, 'topic': '{{ essay.data.topic }}', 'popup': '<a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a><p>{{ item.content|slice(0, 100) }}...</p>'});
                 
             }
         {% endif %}
