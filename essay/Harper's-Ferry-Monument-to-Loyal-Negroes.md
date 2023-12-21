@@ -2,7 +2,8 @@
 title: >-
  "We Are Pushing Forward to a Larger Freedom": Harper's Ferry Monument to "Loyal Negroes"
 author: Olivia Haynie
-topic: 'Monuments to "Mammies" and "Faithful Slaves"'
+topic: >- 
+    'Monuments to "Mammies" and "Faithful Slaves"'
 lat: 39.3213322
 long: -77.7402773
 location: <https://www.google.com/maps/place/Monument+to+Heyward+Shepherd/@39.3213322,-77.7402773,15z/data=!4m10!1m2!2m1!1sharpers+ferry+loyal+negroes+monument!3m6!1s0x89b61d967d5aa3ed:0xe810d2113e941a1b!8m2!3d39.3233007!4d-77.7300489!15sCiRoYXJwZXJzIGZlcnJ5IGxveWFsIG5lZ3JvZXMgbW9udW1lbnSSARNoaXN0b3JpY2FsX2xhbmRtYXJr4AEA!16s%2Fg%2F11f_4l2dqy?entry=ttu>
