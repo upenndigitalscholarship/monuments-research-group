@@ -2,7 +2,8 @@
 title: >-
     "Fear the Greeks, Though Bearing Gifts": Efforts to Build a National "Mammy" Monument in D.C.
 author: Olivia Haynie
-topic: 'Monuments to "Mammies" and "Faithful Slaves"'
+topic: >-
+ Monuments to "Mammies" and "Faithful Slaves"
 lat: 38.9112399
 long: -77.0509448
 location: <https://www.google.com/maps/place/Tom%C3%A1%C5%A1+Garrigue+Masaryk+Statue/@38.9112399,-77.0509448,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b7c919834fa9:0xe1b6a568fc596924!8m2!3d38.9112358!4d-77.0483699!16s%2Fg%2F11btwj_wn_?entry=ttu>

@@ -4,7 +4,8 @@ title: >-
   "Loyal Negroes"
 lat: 39.3213322
 long: -77.7402773
-topic: Monuments to 'Mammies' and 'Faithful Slaves'
+topic: >-
+ Monuments to "Mammies" and "Faithful Slaves"
 ---
 In 1931, eight years after the failed attempt to erect a national
 "mammy" monument, the _Afro-American_ published a series of articles
