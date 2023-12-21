@@ -2,6 +2,7 @@
 title: >-
  "Glory and Fame for Southern Soldiers Who Died in the Civil War": The Winston-Salem Monument to Confederate Dead
 author: Olivia Haynie
+topic: Monuments and Locations
 lat: 36.0969323
 long: -80.2437619
 location: <https://www.google.com/maps/place/Forsyth+County+Courthouse/@36.0969323,-80.2437619,17z/data=!3m1!4b1!4m6!3m5!1s0x8853ae44bbe6cedd:0xe6a1c3c9d1a501f4!8m2!3d36.096928!4d-80.241187!16s%2Fm%2F01296jsb?entry=ttu>
