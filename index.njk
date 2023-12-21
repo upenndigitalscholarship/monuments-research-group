@@ -48,7 +48,7 @@ layout: base.njk
         <script>
             
             document
-                .querySelector('[data-label="{{ topic }}"]')
+                .querySelector('[data-label=`{{ topic }}`]')
                 .addEventListener('click', function () {
                     console.log(this.dataset.label);
                     // filter essays using points object
