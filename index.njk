@@ -30,10 +30,10 @@ layout: base.njk
             {% for essay in collections.essays %}
                 {% if essay.data.lat and essay.data.long %}
                     // see if the topic is already in the points object
-                    if (!colorLookup.hasOwnProperty('{{ essay.data.topic }}')) {
+                    if (!colorLookup.hasOwnProperty('{{ essay.data.topic | slugify }}')) {
                         // if it is, add the new point to the array
                         let color = colors[Math.floor(Math.random() * colors.length)];
-                        colorLookup['{{ essay.data.topic }}'] = color;
+                        colorLookup['{{ essay.data.topic | slugify }}'] = color;
                         // remove color from colors
                         colors.splice(colors.indexOf(color), 1);
                     } 
@@ -43,12 +43,12 @@ layout: base.njk
     <div class="card bg-black" style="width: 18rem;">
 
     {% for topic in collections.essays | getUniqueTopics %}
-        <button type="button" class="btn btn-dark filter-button" data-label="{{ topic }}">{{ topic }}</button><br>
+        <button type="button" class="btn btn-dark filter-button" data-label="{{ topic | slugify }}">{{ topic }}</button><br>
         {# add event to button on click #}
         <script>
             
             document
-                .querySelector("[data-label='{{ topic }}']")
+                .querySelector("[data-label='{{ topic | slugify }}']")
                 .addEventListener('click', function () {
                     console.log(this.dataset.label);
                     // filter essays using points object
@@ -84,8 +84,8 @@ layout: base.njk
 
                 });
             document
-                .querySelector('[data-label="{{ topic }}"]')
-                .insertAdjacentHTML('beforeend', `&nbsp;&nbsp;<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['{{ topic }}']}" /></svg>`)
+                .querySelector('[data-label="{{ topic | slugify }}"]')
+                .insertAdjacentHTML('beforeend', `&nbsp;&nbsp;<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['{{ topic | slugify }}']}" /></svg>`)
         </script>
         
     {% endfor %}
@@ -179,13 +179,13 @@ layout: base.njk
     {% for essay in collections.essays %}
         {% if essay.data.lat and essay.data.long %}
             // see if the topic is already in the points object
-            if (points.hasOwnProperty('{{ essay.data.topic }}')) {
+            if (points.hasOwnProperty('{{ essay.data.topic | slugify }}')) {
                 // if it is, add the new point to the array
-                points['{{ essay.data.topic }}'].push({'lat': {{ essay.data.lat }}, 'long': {{ essay.data.long }}, 'topic': '{{ essay.data.topic }}', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a></h4><p>{{ essay.content|snippet|safe  }}...</p>'});
+                points['{{ essay.data.topic | slugify}}'].push({'lat': {{ essay.data.lat }}, 'long': {{ essay.data.long }}, 'topic': '{{ essay.data.topic | slugify }}', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a></h4><p>{{ essay.content|snippet|safe  }}...</p>'});
             } else {
                 // if it isn't, create a new array with the point
-                points['{{ essay.data.topic }}'] = [];
-                points['{{ essay.data.topic }}'].push({'lat': {{ essay.data.lat }}, 'long': {{ essay.data.long }}, 'topic': '{{ essay.data.topic }}', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a></h4><p>{{ essay.content|snippet|safe }}...</p>'});
+                points['{{ essay.data.topic | slugify}}'] = [];
+                points['{{ essay.data.topic | slugify}}'].push({'lat': {{ essay.data.lat }}, 'long': {{ essay.data.long }}, 'topic': '{{ essay.data.topic | slugify }}', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/{{ essay.fileSlug }}">{{ essay.data.title }}</a></h4><p>{{ essay.content|snippet|safe }}...</p>'});
                 
             }
         {% endif %}
