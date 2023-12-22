@@ -39,3 +39,7 @@ h1 {
 .marker-cluster-small div {
   background-color: rgba(240, 194, 12, 0.6);
 }
+
+.leaflet-container a {
+  color: #070707;
+}
