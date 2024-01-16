@@ -9,14 +9,7 @@ _Donovan Schaefer_
 
 Reviewing the history of the Civil War and its aftermath in his 1935 book _Black Reconstruction in America_, W. E. B. Du Bois wrote:
 
-> Then came this battle called Civil War, beginning in Kansas in 1854,
-> and ending in the presidential election of 1876—twenty awful years.
-> The slave went free; stood a brief moment in the sun; then moved back
-> again toward slavery. The whole weight of America was thrown to color
-> caste. The colored world went down before England, France, Germany,
-> Russia, Italy, and America. A new slavery arose. The upward moving of
-> white labor was betrayed into wars for profit based on color caste.
-> Democracy died save in the hearts of black folk. (24)
+> Then came this battle called Civil War, beginning in Kansas in 1854, and ending in the presidential election of 1876—twenty awful years. The slave went free; stood a brief moment in the sun; then moved back again toward slavery. The whole weight of America was thrown to color caste. The colored world went down before England, France, Germany, Russia, Italy, and America. A new slavery arose. The upward moving of white labor was betrayed into wars for profit based on color caste. Democracy died save in the hearts of black folk. (24)
 
 What immediately stands out here is Du Bois' unusual timeline of the US Civil War, as beginning with the "bleeding Kansas" conflicts of 1854 and ending with the disputed presidential election of 1876 and the subsequent "Compromise of 1877," which led to the withdrawal of Federal forces from the occupied South and the end of Reconstruction.
 
@@ -58,14 +51,11 @@ In 2022, we began [a project at the University of Pennsylvania](https://omnia.sa
 
 At the same time, although there is a general attitude of hostility toward Confederate commemoration in our database, some Black journalists staked out variant positions. The plurality of these voices must be heard, too. The propriety of celebrating General Lee was a major topic of contention. For many Unionists—white and Black—Lee was a noble figure who had persuaded the CSA government and the white Southern public to graciously accept surrender and pursue reconciliation. Others accepted the claim that Southerners had a right to celebrate the valor of their soldiers. On the complex topic of "[mammy](https://falseimage.pennds.org/essay/monuments-to-%E2%80%9Cmammies%E2%80%9D-and-%E2%80%9Cuncle-toms%E2%80%9D-backup/)" and "[faithful slave](https://falseimage.pennds.org/essay/Harper's-Ferry-Monument-to-Loyal-Negroes)" monuments, there seems to have been genuine difference of opinion, with some authors contending that there was real value in any work that put Black people on a pedestal, while others saw such memorials as degrading reassertions of Confederate iconography. Even when Black journalists would criticize Confederate commemoration, they would often do so by appealing to Unionist sensibilities—anti-secessionism rather than what we in the twenty-first century would think of as anti-racism.
 
-That said, it's important to keep in mind that Black journalists were under constant threat. Intimidation, destruction of property, and bodily violence were ever-present. [William G. Jordan has argued](https://uncpress.org/book/9780807849361/black-newspapers-and-americas-war-for-democracy-1914-1920/) that Black journalists in the antebellum and postbellum periods were well-aware that their writing was read by both hostile and antagonistic whites. Speaking specifically about the 1910s, Jordan writes that "the black press served as a frontier between black and white in which the terms of racial coexistence were negotiated and renegotiated through written and verbal exchanges that were conditioned by the ever-present threat of force." (_Black Newspapers and America's Fight for Democracy
-1914--1920_, 5) Wells, for instance, was effectively banished from Memphis in 1892 after a white newspaper reprinted an anti-lynching article she had placed in the _Memphis_ _Free Speech and Headlight_.
+That said, it's important to keep in mind that Black journalists were under constant threat. Intimidation, destruction of property, and bodily violence were ever-present. [William G. Jordan has argued](https://uncpress.org/book/9780807849361/black-newspapers-and-americas-war-for-democracy-1914-1920/) that Black journalists in the antebellum and postbellum periods were well-aware that their writing was read by both hostile and antagonistic whites. Speaking specifically about the 1910s, Jordan writes that "the black press served as a frontier between black and white in which the terms of racial coexistence were negotiated and renegotiated through written and verbal exchanges that were conditioned by the ever-present threat of force." (_Black Newspapers and America's Fight for Democracy 1914-1920_, 5) Wells, for instance, was effectively banished from Memphis in 1892 after a white newspaper reprinted an anti-lynching article she had placed in the _Memphis_ _Free Speech and Headlight_.
 
 Black journalists, then, sometimes filtered their views in such a way as to avoid triggering an aggressive counter-attack by white supremacists operating in and out of the shadows around them. Not only that, Black journalists had to consider the best way to cultivate and maintain coalitions with fickle and self-interested white allies. Direct appeals to anti-racist sensibilities were less effective, in some circumstances, than appeals to the patriotism or anti-secessionism of white publics.
 
 This website contains some of the stories that emerged across the items in our database. Over 30 articles have been specially written describing some of the key events, figures, publications, and commemorative sites that Black journalists considered worthy of notice. These stories can be navigated by location using our [interactive map](https://falseimage.pennds.org) or [by topic](https://falseimage.pennds.org/essays/). Most articles were written by Olivia Haynie or Justin Seward and edited by Donovan Schaefer. We invite you to explore these voices and perspectives and to gain new insight into the long history of critical commentary on Confederate commemoration.
-
-
 
 \[^1]: The term "Confederate commemoration" is a broad category that
     includes monuments, cemetery development, the display of Confederate
