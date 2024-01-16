@@ -1,14 +1,16 @@
 ---
 title: Introduction
-layout: essay.njk
 ---
-Introduction: Historic Black Perspectives on Confederate Commemoration
+# "To Perpetuate a False Image of History"
 
-In his 1935 book *Black Reconstruction in America*, W. E. B. Du Bois
-wrote:
+## Perspectives on Confederate Commemoration from the Black Press
+
+_Donovan Schaefer_
+
+Reviewing the history of the Civil War and its aftermath in his 1935 book _Black Reconstruction in America_, W. E. B. Du Bois wrote:
 
 > Then came this battle called Civil War, beginning in Kansas in 1854,
-> and ending in the presidential election of 1876---twenty awful years.
+> and ending in the presidential election of 1876—twenty awful years.
 > The slave went free; stood a brief moment in the sun; then moved back
 > again toward slavery. The whole weight of America was thrown to color
 > caste. The colored world went down before England, France, Germany,
@@ -16,229 +18,60 @@ wrote:
 > white labor was betrayed into wars for profit based on color caste.
 > Democracy died save in the hearts of black folk. (24)
 
-What immediately stands out is Du Bois' unusual timeline of the US Civil
-War---beginning with the "bleeding Kansas" conflicts of 1854 and ending
-with the disputed presidential election of 1876 and the subsequent
-"Compromise of 1877," which led to the withdrawal of Federal forces from
-the occupied South and the end of Reconstruction.
+What immediately stands out here is Du Bois' unusual timeline of the US Civil War, as beginning with the "bleeding Kansas" conflicts of 1854 and ending with the disputed presidential election of 1876 and the subsequent "Compromise of 1877," which led to the withdrawal of Federal forces from the occupied South and the end of Reconstruction.
 
-But even more striking is Du Bois' verdict on the war's outcome. Writing
-70 years after the surrender of Confederate General Robert E. Lee at
-Appomattox, the fall of the Confederate capital of Richmond, and the
-capture of fleeing Confederate president Jefferson Davis, Du Bois
-nonetheless declared the resolution of the Civil War, in essence, a
-Confederate victory. The Confederacy, Du Bois argued, had successfully
-rebuilt its white supremacist power structure and forced Black people
-back into the status of a violently oppressed underclass. This was
-achieved through decades of white racial terror, legislative
-disfranchisement of Black citizens, massacres, and theft.
+But even more striking is Du Bois' verdict on the war's outcome. Writing 70 years after the surrender of Confederate General Robert E. Lee at Appomattox, the fall of the Confederate capital of Richmond, and the capture of fleeing Confederate president Jefferson Davis, Du Bois nonetheless declared the resolution of the Civil War, in essence, a Confederate victory. The Confederacy, Du Bois argued, had successfully rebuilt its white supremacist power structure and forced Black people back into the status of a violently oppressed underclass. This was achieved through decades of white racial terror, legislative disfranchisement of Black citizens, massacres, and theft.
 
-Part of the process of reasserting white supremacy in the South was the
-recreation of the South's public built environment. Although Lee himself
-had repudiated public glorification of the Confederacy as serving only
-to "[keep open the sores of
-war](http://www2.vcdh.virginia.edu/saxon/servlet/SaxonServlet?source=/xml_docs/valley_news/newspaper_catalog.xml&style=/xml_docs/valley_news/news_cat.xsl&level=edition&paper=rv&year=1869&month=09&day=03&edition=rv1869/va.au.rv.1869.09.03.xml)"
-(though he endorsed [the maintenance of the graves of Confederate
-soldiers](http://leefamilyarchive.org/papers/letters/transcripts-UVA/v076.html)),
-the generation of white Southerners after him had an insatiable thirst
-for monuments, festivals, and flags.
+Part of the process of reasserting white supremacy in the South was the recreation of the South's public built environment. Although Lee himself had repudiated public glorification of the Confederacy as serving only to "[keep open the sores of war](http://www2.vcdh.virginia.edu/saxon/servlet/SaxonServlet?source=/xml_docs/valley_news/newspaper_catalog.xml&style=/xml_docs/valley_news/news_cat.xsl&level=edition&paper=rv&year=1869&month=09&day=03&edition=rv1869/va.au.rv.1869.09.03.xml)" (though he endorsed [the maintenance of the graves of Confederate soldiers](http://leefamilyarchive.org/papers/letters/transcripts-UVA/v076.html)), the generation of white Southerners after him had an insatiable thirst for monuments, festivals, and flags.
 
-The earliest organized Confederate commemoration[^1] was born in the
-raw, stunned grief felt by white Southern survivors. Their top
-priorities were the proper burial of dead Confederate
-soldiers---including the retrieval of the fallen from far-flung
-battlefields---and the creation of commemorative rituals. Confederate
-cemeteries were established all over the South, with thousands of dead
-laid out in grids and the new burial grounds transformed into grassy
-parks by determined volunteers. In centers of wealth like Richmond,
-rudimentary monuments like the rough-hewn pyramid in the Confederate
-section of Hollywood cemetery were erected. New ritual cycles were
-created, including local Confederate Memorial Days, usually in late May
-or early June.
+The earliest forms of organized Confederate commemoration\[^1] were born in the raw, stunned grief felt by white Southern survivors. Their top priorities were the proper burial of dead Confederate soldiers—including the retrieval of the fallen from far-flung battlefields—and the creation of commemorative rituals. Confederate cemeteries were established all over the South, with thousands of dead laid out in grids and the new burial grounds transformed into grassy parks by determined volunteers. In centers of wealth like Richmond, rudimentary monuments like the rough-hewn pyramid in the Confederate section of Hollywood Cemetery were erected. New ritual cycles were created, including local Confederate Memorial Days, usually in late May or early June.
 
-Within a generation, however, the dominant tone of these commemorative
-activities had shifted from grief to triumph. The priority was
-glorification, not mourning. A new material culture created by white
-Southerners transfigured the landscape of the former Confederacy, even
-as the political ambitions of Reconstruction---like efforts to grant
-full voting rights to Black citizens---were rolled back. A sprawling
-ensemble of relics, rituals, and sacred spaces---often attended by
-martial rituals of reverence---was activated in parks, town squares,
-street circles, courthouse lawns, and cemeteries. A boulevard in the
-former capital city was assembled over the course of decades with
-monuments commemorating Confederate leaders, the spine of a new
-whites-only suburb. A mountainside was converted into a colossal canvas
-depicting Confederate heroes. Museums were founded as repositories for
-Confederate "relics." And a new sacred calendar emerged---Confederate
-Memorial Days, Lee's birthday, Davis' birthday, the anniversary of
-Jackson's death, and so on.
+Within a generation, however, the dominant tone of these commemorative activities had shifted from grief to triumph. The priority was glorification, not mourning. A new material culture created by white Southerners transfigured the landscape of the former Confederacy, even as the political ambitions of Reconstruction—like efforts to grant full voting rights to Black citizens—were rolled back. A sprawling ensemble of relics, rituals, and sacred spaces—often attended by martial rituals of reverence—was activated in parks, town squares,
+street circles, courthouse lawns, and cemeteries. A [boulevard in the former capital city](https://falseimage.pennds.org/essay/Lee-in-Richmond-Forging-Heavier-Chains) was assembled over the course of decades with monuments commemorating Confederate leaders, the spine of a new whites-only suburb. A [mountainside was converted into a colossal canvas depicting Confederate heroes](https://falseimage.pennds.org/essay/Fiery-Crosses-Symbolize-a-Revival-on-Stone-Mountain). Museums were founded as repositories for Confederate "relics." And a new sacred calendar emerged—Confederate Memorial Days, Lee's birthday, Davis' birthday, the anniversary of Jackson's death, and so on.
 
-As an unsigned 1925 editorial in the Black-owned *Chicago Defender* put
+As an unsigned 1925 editorial in the Black-owned _Chicago Defender_ put
 it,
 
-> in every Southern city, town or hamlet one sees the relics of the
-> Confederacy kept intact. Confederate flags fly triumphantly, monuments
-> are erected to Lee, the victories of the rebels are celebrated,
-> museums gather the obsolete weapons, libraries store the infamous
-> records, white school children are studiously taught to believe in the
-> righteousness of the lost case \[sic\], parades are held in the
-> cities, the bodies of the men who won the war are burned in effigy,
-> and everything is done by the present day reactionaries to reproduce
-> the spirit of the ante-bellum days.
+> in every Southern city, town or hamlet one sees the relics of the Confederacy kept intact. Confederate flags fly triumphantly, monuments are erected to Lee, the victories of the rebels are celebrated, museums gather the obsolete weapons, libraries store the infamous records, white school children are studiously taught to believe in the righteousness of the lost case \[sic], parades are held in the cities, the bodies of the men who won the war are burned in effigy, and everything is done by the present day reactionaries to reproduce the spirit of the ante-bellum days.
 
-This same editorial, titled "Tear the Spirit of the Confederacy from the
-South," concluded:
+This same editorial, titled "Tear the Spirit of the Confederacy from the South," concluded:
 
-> Down with those flags which inspired human devils to keep a race in
-> serfdom! Cast into oblivion the memory of all those leading lights who
-> fought the inhuman battle against human rights! Strike from the heart
-> of the South the Ku Klux Klan and all those works and records which
-> lend inspiration to the heart of the lyncher!
+> Down with those flags which inspired human devils to keep a race in serfdom! Cast into oblivion the memory of all those leading lights who fought the inhuman battle against human rights! Strike from the heart of the South the Ku Klux Klan and all those works and records which lend inspiration to the heart of the lyncher!
 
-Although there have been important changes since 2017, much of this
-network of Confederate glorification is still with us over a century
-later. It has served to anchor Lost Cause mythology, carefully rehearsed
-at the feet of monuments. It lent its grandeur to the Ku Klux Klan,
-reborn twice on top of Stone Mountain in Georgia. It stood watch over
-Jim Crow laws and their armies of enforcers. It flew over lynch mobs and
-white supremacist lawmakers in state capitols. It loomed above the
-beatings and murders of civil rights activists. It was and is splashed
-across white supremacist t-shirts, bumper stickers, and patches. Still
-today, it arcs around the globe in memes, avatars, and forum sigs across
-the digital landscape of websites, chatrooms, social media.
+Although there have been many important changes since 2017, much of this network of Confederate glorification is still with us over a century later. It has served to anchor Lost Cause mythology, carefully rehearsed at the feet of monuments. It lent its grandeur to the Ku Klux Klan, [reborn twice on top of Stone Mountain in Georgia](https://falseimage.pennds.org/essay/The-Birthplace-of-the-Klan). It stood watch over Jim Crow laws and their armies of enforcers. It [flew over lynch mobs and white supremacist lawmakers in state capitols](https://falseimage.pennds.org/essay/Stars-and-Bars-vs-Stars-and-Stripes). It loomed above the beatings and murders of civil rights activists. It was and is splashed across white supremacist t-shirts, bumper stickers, and patches. Still today, it arcs around the globe in memes, avatars, and forum sigs across the digital landscape of websites, chatrooms, and social media.
 
-Defenders of Confederate commemoration often claim that criticism of
-Confederate monuments, flags, and place names is new---a symptom of a
-distinctly twenty-first century hypersensitivity. They pretend that
-no-one ever thought to protest Confederate commemoration until it was
-fashionable to do so, and by these lights, the artifacts of the
-Confederacy must be benign.
+Defenders of Confederate commemoration often claim that criticism of Confederate monuments, flags, and place names is new—a symptom of a distinctly twenty-first century hypersensitivity. They pretend that no-one ever thought to protest Confederate commemoration until it was fashionable to do so, and by these lights, the artifacts of the Confederacy must be benign.
 
-But this is untrue. Black journalists were raising alarms about
-Confederate commemoration as far back as the 1870s. In 1871, one of the
-earliest entries in our database reprinted a pro-Confederate, pro-Klan
-speech given at a fundraiser for a Confederate monument in Mobile, AL,
-with the advice that those who wanted to gauge the depth of
-neo-Confederate sentiments should "read carefully."
+But this is untrue. Black journalists were raising alarms about Confederate commemoration as far back as the 1870s. An 1871 article in the _New National Era_—one of the earliest relevant entries found by our research team—reprinted a pro-Confederate, pro-Klan speech given at a fundraiser for a Confederate monument in Mobile, AL, with the advice that those who wanted to gauge the depth of neo-Confederate sentiments should "read carefully."
 
-In 1890, the first Confederate monument to gain a truly national
-platform was erected: the towering Robert E. Lee statue in Richmond.
-This event triggered a wave of concern among Black journalists about
-Confederate commemoration, and writers began to speak in more urgent
-tones about this evolving driver of white supremacist politics.
+In 1890, the first Confederate monument to gain a truly national platform was erected: the [towering Robert E. Lee statue in Richmond](https://falseimage.pennds.org/essay/Lee-in-Richmond-Forging-Heavier-Chains). This event triggered a wave of concern among Black journalists about Confederate commemoration, and writers began to speak in more urgent tones about this evolving driver of white supremacist politics.
 
-The *Richmond Planet* published a number of articles of its own that
-year and also reprinted pieces from other Black publications around the
-country. An unsigned *Planet* editorial of May 31, 1890 denounced the
-presence of CSA emblems at the unveiling and stated: "This glorification
-of States Rights Doctrine---the right of secession, and the honoring of
-men who represented that cause, fosters in this Republic the spirit of
-Rebellion and will ultimately result in handing down to generations
-unborn a legacy of treason and blood."
+The _Richmond Planet_ published a number of articles of its own that year and also reprinted pieces from other Black publications around the country. An unsigned _Planet_ editorial of May 31, 1890 denounced the presence of CSA emblems at the unveiling and stated: "This glorification of States Rights Doctrine—the right of secession, and the honoring of men who represented that cause, fosters in this Republic the spirit of Rebellion and will ultimately result in handing down to generations unborn a legacy of treason and blood."
 
-By the early 1900s, white supremacist legislatures---propped up by
-street violence like the Wilmington coup of 1898---had rung out a death
-knell for Black political representation in the former Confederacy. A
-combination of terrorism, systematic voter disfranchisement, and brutal
-economic exploitation effectively reconstituted the racist hierarchies
-of the CSA[^2] and the antebellum period. Black journalists saw clearly
-how Confederate commemoration helped to solidify this white supremacist
-order. They continued to speak out against the ongoing effort to use the
-built environment to reaffirm white supremacism. Stone Mountain became
-an area of particular concern. As white Southerners increasingly
-advocated for Stone Mountain as the site of a future spectacular
-Confederate monument, it also became a location of interest for the
-second iteration of the Ku Klux Klan. Black journalists saw this
-association between Confederate commemoration and the resurgent Klan and
-spoke out against it with rising alarm.
+By the early 1900s, white supremacist legislatures—propped up by street violence like the [Wilmington coup and massacre of 1898](https://www.dncr.nc.gov/1898-wilmington-coup)—had rung out a death knell for Black political representation in the former Confederacy. A combination of terrorism, systematic voter disfranchisement, and brutal economic exploitation effectively reconstituted the racist hierarchies of the CSA\[^2] and the antebellum period. Black journalists saw clearly how Confederate commemoration helped to solidify this white supremacist order. They continued to speak out against the ongoing effort to use the built environment to reaffirm white supremacism. [Stone Mountain](https://falseimage.pennds.org/essay/Let-Stone-Mountain-Alone) became an area of particular concern. As white Southerners increasingly advocated for Stone Mountain as the site of a future spectacular Confederate monument, it also became a [location of interest for the second iteration of the Ku Klux Klan](https://falseimage.pennds.org/essay/Fiery-Crosses-Symbolize-a-Revival-on-Stone-Mountain). Black journalists saw this [association between Confederate commemoration and the resurgent Klan](https://falseimage.pennds.org/essay/Head-to-Head-with-the-Klan) and spoke out against it with rising alarm.
 
-Ignorance of Black perspectives on Confederate commemoration is the
-product of an active marginalization of Black voices over the course of
-postbellum history. When histories of Confederate commemoration are
-written, they primarily (though by no means exclusively) draw on
-archives created by whites representing white perspectives and, in many
-cases, carefully curated to present whites in the most flattering
-possible light. Black publishers were often the targets of
-violence---including murder---and destruction of property. Black
-newspapers were typically not gathered or indexed by libraries and
-universities, and in some cases---such as with Ida B. Wells' *Memphis
-Free Speech and Headlight*---existing copies were destroyed.
+Ignorance of Black perspectives on Confederate commemoration is the product of an active marginalization of Black voices over the course of postbellum history. When histories of Confederate commemoration are written, they primarily (though by no means exclusively) draw on archives created by whites representing white perspectives and, in many cases, carefully curated to present whites in the most flattering possible light. Black publishers were often the targets of violence—including murder—and destruction of property. Black newspapers were typically not gathered or indexed by libraries and universities, and in some cases--such as with Ida B. Wells' _Memphis Free Speech and Headlight_--existing copies were destroyed.
 
-In 2022, we began [a project at the University of
-Pennsylvania](https://omnia.sas.upenn.edu/story/black-voices-confederate-monumentation)
-to bring these frequently excluded voices more fully into the
-conversation. Student researchers Olivia Haynie and Justin Seward built
-a database of over 2000 articles from over 150 Black newspapers going
-back to 1869, all on the theme of Confederate commemoration. Some of
-these articles are little more than notices of the erection of a
-monument or the carrying-out of a Confederate Memorial Day exercise.
-Some are reprinted from wire services, either mainstream sources like
-the Associated Press or Black-run wire services like the National
-Newspaper Publishers Association. These notices and republications
-reflect a pattern of rising interest in and concern about Confederate
-commemoration among Black journalists and their reading publics. Other
-pieces---fiery anonymous editorials, sardonic op-eds, and wry dispatches
-from contributing columnists---tell a much more pointed story about the
-concerns of Black journalists as far back as the early years of
-Reconstruction and its crushing aftermath.
+In 2022, we began [a project at the University of Pennsylvania](https://omnia.sas.upenn.edu/story/black-voices-confederate-monumentation) to bring these frequently excluded voices more fully into the conversation. Student researchers [Olivia Haynie and Justin Seward](https://falseimage.pennds.org/about) built a database of over 2000 articles from over 150 Black newspapers going back to 1869, all on the theme of Confederate commemoration. Some of these articles are little more than notices of the erection of a monument or the carrying-out of a Confederate Memorial Day exercise. Some are reprinted from wire services, either mainstream sources like the Associated Press or Black-run wire services like the National Newspaper Publishers Association. These notices and republications reflect a pattern of rising interest in and concern about Confederate commemoration among Black journalists and their reading publics. Other pieces—[blistering anonymous editorials](https://falseimage.pennds.org/essay/seattle/), [sardonic op-eds](https://falseimage.pennds.org/essay/Roscoe-Simmons), and [wry dispatches from contributing columnists](https://falseimage.pennds.org/essay/davis-stamp/)—tell a much more pointed story about the concerns of Black journalists as far back as the early years of Reconstruction and its crushing aftermath. As [a piece in the _Minneapolis Spokesman/St. Paul Recorder_](https://falseimage.pennds.org/essay/the-twin-cities/)_ _put it, summarizing the sentiments of a respected psychologist:
 
-At the same time, although there is a general attitude of hostility
-toward Confederate commemoration in our database, some Black journalists
-staked out variant positions. The plurality of these voices must be
-heard, too. The propriety of celebrating General Lee was a major topic
-of contention. For many Unionists---white and Black---Lee was a noble
-figure who had persuaded the CSA government and the white Southern
-public to graciously accept surrender and pursue reconciliation. Others
-accepted the claim that Southerners had a right to celebrate the valor
-of their soldiers. On the complex topic of "mammy" and "faithful slave"
-monuments, there seems to have been genuine differences of opinion, with
-some authors contending that there was real value in any work that
-(literally) put Black people on a pedestal, while others saw such
-memorials as degrading reassertions of Confederate iconography. Even
-when Black journalists would criticize Confederate commemoration, they
-would often do so by appealing to Unionist
-sensibilities---anti-secessionism rather than what we in the
-twenty-first century would think of as bona fide anti-racism.
+> Confederate flags, pageants, songs, and such organizations as the Daughters of the Confederacy and its junior branch, the Children of the Confederacy, pictures and monuments to Confederate heroes—all serve to perpetuate a false image of history and strengthen the old ante-bellum ideals of white supremacy and Negro inferiority.
 
-That said, it's important to keep in mind that Black journalists were
-under constant threat. Intimidation, destruction of property, and bodily
-violence were ever-present. William G. Jordan has argued that Black
-journalists in the antebellum and postbellum periods were well-aware
-that their writing was read by both hostile and antagonistic whites.
-Speaking specifically about the 1910s, Jordan writes that "the black
-press served as a frontier between black and white in which the terms of
-racial coexistence were negotiated and renegotiated through written and
-verbal exchanges that were conditioned by the ever-present threat of
-force." (*Black Newspapers and America's Fight for Democracy
-1914--1920*, 5) Wells, for instance, was effectively banished from
-Memphis in 1892 after a white newspaper reprinted an anti-lynching
-article she had placed in the *Memphis* *Free Speech and Headlight*.
+At the same time, although there is a general attitude of hostility toward Confederate commemoration in our database, some Black journalists staked out variant positions. The plurality of these voices must be heard, too. The propriety of celebrating General Lee was a major topic of contention. For many Unionists—white and Black—Lee was a noble figure who had persuaded the CSA government and the white Southern public to graciously accept surrender and pursue reconciliation. Others accepted the claim that Southerners had a right to celebrate the valor of their soldiers. On the complex topic of "[mammy](https://falseimage.pennds.org/essay/monuments-to-%E2%80%9Cmammies%E2%80%9D-and-%E2%80%9Cuncle-toms%E2%80%9D-backup/)" and "[faithful slave](https://falseimage.pennds.org/essay/Harper's-Ferry-Monument-to-Loyal-Negroes)" monuments, there seems to have been genuine difference of opinion, with some authors contending that there was real value in any work that put Black people on a pedestal, while others saw such memorials as degrading reassertions of Confederate iconography. Even when Black journalists would criticize Confederate commemoration, they would often do so by appealing to Unionist sensibilities—anti-secessionism rather than what we in the twenty-first century would think of as anti-racism.
 
-Black journalists, then, sometimes filtered their views in such a way as
-to avoid triggering an aggressive counter-attack by white supremacists
-operating in and out of the shadows around them. Not only that, Black
-journalists had to consider the best way to cultivate and maintain
-coalitions with fickle and self-interested white allies. Direct appeals
-to anti-racist sensibilities were less effective, in some circumstances,
-than appeals to the patriotism or anti-secessionism of white publics.
+That said, it's important to keep in mind that Black journalists were under constant threat. Intimidation, destruction of property, and bodily violence were ever-present. [William G. Jordan has argued](https://uncpress.org/book/9780807849361/black-newspapers-and-americas-war-for-democracy-1914-1920/) that Black journalists in the antebellum and postbellum periods were well-aware that their writing was read by both hostile and antagonistic whites. Speaking specifically about the 1910s, Jordan writes that "the black press served as a frontier between black and white in which the terms of racial coexistence were negotiated and renegotiated through written and verbal exchanges that were conditioned by the ever-present threat of force." (_Black Newspapers and America's Fight for Democracy
+1914--1920_, 5) Wells, for instance, was effectively banished from Memphis in 1892 after a white newspaper reprinted an anti-lynching article she had placed in the _Memphis_ _Free Speech and Headlight_.
 
-This website contains some of the stories that emerged across the items
-in our database. Over 30 articles have been specially written describing
-some of the key events, figures, publications, and commemorative sites
-that Black journalists considered worthy of notice. These stories can be
-navigated in a number of ways: by location, by topic, or---if you want
-to just dive in---at random. Most articles were written by Olivia Haynie
-or Justin Seward and edited by Donovan Schaefer. We invite you to
-explore these voices and perspectives and to gain new insight into the
-long history of critical commentary on Confederate commemoration.
+Black journalists, then, sometimes filtered their views in such a way as to avoid triggering an aggressive counter-attack by white supremacists operating in and out of the shadows around them. Not only that, Black journalists had to consider the best way to cultivate and maintain coalitions with fickle and self-interested white allies. Direct appeals to anti-racist sensibilities were less effective, in some circumstances, than appeals to the patriotism or anti-secessionism of white publics.
 
-*Donovan Schaefer*
+This website contains some of the stories that emerged across the items in our database. Over 30 articles have been specially written describing some of the key events, figures, publications, and commemorative sites that Black journalists considered worthy of notice. These stories can be navigated by location using our [interactive map](https://falseimage.pennds.org) or [by topic](https://falseimage.pennds.org/essays/). Most articles were written by Olivia Haynie or Justin Seward and edited by Donovan Schaefer. We invite you to explore these voices and perspectives and to gain new insight into the long history of critical commentary on Confederate commemoration.
 
-[^1]: The term "Confederate commemoration" is a broad category that
+
+
+\[^1]: The term "Confederate commemoration" is a broad category that
     includes monuments, cemetery development, the display of Confederate
     flags, naming of streets and schools, digital artifacts, and civic
     rituals like Confederate Memorial Days.
 
-[^2]: We use the acronym "CSA" to refer to the Confederate States of
+\[^2]: We use the acronym "CSA" to refer to the Confederate States of
     America as a political entity; this differs from the more general
     cultural denotation of "Confederate."
