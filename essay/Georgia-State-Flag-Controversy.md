@@ -4,7 +4,7 @@ lat: 33.7492266
 long: -84.3908847
 topic: Flag Politics
 ---
-In 1956, the Confederate Battle Flag was added to the state flag of Georgia. The _New Pittsburgh Courier_ covered event, suggesting it was directly prompted by the 1954 Brown vs Board of Education ruling in an act of retaliation against what white Georgia lawmakers saw as "forced integration."\[^1]
+In 1956, the [Confederate Battle Flag](https://falseimage.pennds.org/essay/Stars-and-Bars-vs-Stars-and-Stripes) was added to the state flag of Georgia. The _New Pittsburgh Courier_ covered event, suggesting it was directly prompted by the 1954 Brown vs Board of Education ruling in an act of retaliation against what white Georgia lawmakers saw as "forced integration."\[^1]
 
 In 1992, conflict over the flag came to a head when Governor Zell Miller announced that he would be asking the state legislature to change the flag. A report by the Associated Press (AP)—republished in the _New Pittsburgh Courier_—stated that Gov. Miller was concerned that the Confederate battle emblem would tarnish Georgia's international image during the 1996 Olympics. He proposed changing the flag back to its pre-1956 appearance: "a state seal on a blue field to the left, and red and white horizontal bars on the right."\[^2]
 
