@@ -1,52 +1,29 @@
 ---
-title: >-
- "The Arch Traitor": Jefferson Davis at the Capitol
-author: Justin Seward
-topic: Statuary Hall in the Capitol
+title: '"The Arch Traitor": Jefferson Davis at the Capitol'
 lat: 38.889943
 long: -77.0116254
-location: <https://www.google.com/maps/place/United+States+Capitol/@38.889943,-77.0116254,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b82921a2cf17:0x482a3f7c10cf8c4!8m2!3d38.8899389!4d-77.0090505!16zL20vMDd2dGg?entry=ttu>
+topic: Statuary Hall in the Capitol
 ---
-During Jim Crow, the state of Mississippi chose CSA president Jefferson
-Davis as one of two Mississippians to be honored in Statuary Hall at the
-United States Capitol. The statue was sculpted by Augustus Lukeman (who
-had briefly been contracted to work on Stone Mountain) and finished in
-1931.
+During the Jim Crow era, the state of Mississippi chose CSA president Jefferson Davis as one of two Mississippians to be honored in Statuary Hall at the United States Capitol. The statue was sculpted by Augustus Lukeman (who had [briefly been contracted to work on Stone Mountain](https://falseimage.pennds.org/essay/Let-Stone-Mountain-Alone)) and finished in 1931.
 
-The campaign to place a Davis statue in the Capitol did not go
-unremarked by Black journalists. In a 1914 article, the *Appeal* (St.
-Paul, MN) roundly condemned the effort. The unsigned opinion piece
-highlighted Davis's role in the perpetuation of racial injustice. Davis,
-the article stated, was "the arch traitor who tried to disrupt the Union
-in order that human slavery should be preserved and extended."[^1] The
-article criticized the state which had submitted Davis---"the more or
-less grand old Commonwealth of Mississippi"---for disenfranchising Black
-Americans and "contribut\[ing\] to the world the greatest number of
-lynchings which have taken place in any state in the Union."[^2]
+The campaign to place a Davis statue in the Capitol did not go unremarked by Black journalists. In a 1914 article, the _Appeal_ (St. Paul, MN) roundly condemned the effort. The unsigned opinion piece highlighted Davis's role in the perpetuation of racial injustice. Davis, the article stated, was "the arch traitor who tried to disrupt the Union in order that human slavery should be preserved and extended."\[^1] The article criticized the state which had submitted Davis—"the more or less grand old Commonwealth of Mississippi"—for disenfranchising Black Americans and "contribut\[ing] to the world the greatest number of lynchings which have taken place in any state in the Union."\[^2]
 
-The article concluded with a stirring indictment linking contemporary
-anti-Black violence and discrimination to the heritage of the
-Confederacy:
+The article concluded with a stirring indictment linking contemporary anti-Black violence and discrimination to the heritage of the Confederacy:
 
-> What is to be the end of a Nation which permits its citizens to be
-> murdered by mobs; accepts as Senators men who openly boast in the
-> Senate Chamber of the murder of their fellows; a Nation which attempts
-> to degrade some of its citizenry by discriminatory laws and allows the
-> segregation as lepers of men and women who have won their places after
-> severe test; and in spite of the prejudice against them? A statue of
-> Jeff Davis in the Capitol at Washington! God preserve our Nation![^3]
+> What is to be the end of a Nation which permits its citizens to be murdered by mobs; accepts as Senators men who openly boast in the Senate Chamber of the murder of their fellows; a Nation which attempts to degrade some of its citizenry by discriminatory laws and allows the segregation as lepers of men and women who have won their places after severe test; and in spite of the prejudice against them? A statue of Jeff Davis in the Capitol at Washington! God preserve our Nation!\[^3]
 
-Mississippi's Davis statue remains in Statuary Hall as of the time of
-this writing.
+Mississippi's Davis statue remains in Statuary Hall as of the time of this writing in 2024.
 
-*Justin Seward*
+_Justin Seward_
+
+
 
 **References**
 
-*Appeal*. "Jeff Davis in the Capitol." *Appeal*, April 11, 1914, 2.
+_Appeal_. "Jeff Davis in the Capitol." _Appeal_, April 11, 1914, 2.
 
-[^1]: *Appeal*, "Jeff Davis in the Capitol," 2.
+\[^1]: _Appeal_, "Jeff Davis in the Capitol."
 
-[^2]: *Appeal*, "Jeff Davis in the Capitol," 2.
+\[^2]: _Appeal_, "Jeff Davis in the Capitol."
 
-[^3]: *Appeal*, "Jeff Davis in the Capitol," 2.
+\[^3]: _Appeal_, "Jeff Davis in the Capitol."
