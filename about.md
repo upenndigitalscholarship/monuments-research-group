@@ -16,7 +16,7 @@ This project documents racism and oppression and contains disturbing images, lan
 
 ## Donovan Schaefer
 
-<img src="/assets/media/2b.jpg" class="img-fluid" alt="Picture of Donovan Schaefer">
+<img src="/assets/media/2b.jpg" class="img-fluid mw-50" alt="Picture of Donovan Schaefer">
 
 Donovan Schaefer is an associate professor in the Department of Religious Studies at the University of Pennsylvania. After completing his doctorate in Religion at Syracuse University in 2012, he took up a two-year Mellon Postdoctoral Fellowship at Haverford College. He then moved to the University of Oxford, where he served from 2014 to 2017 as Departmental Lecturer in Science and Religion. He began working at Penn in 2017. His research interests include a range of topics related to the politics of feeling/affect/emotion and their links with science, religion, secularism, and material culture. His published works include the books Religious Affects: Animality, Evolution, and Power (Duke 2015), The Evolution of Affect Theory: The Humanities, The Sciences, and the Study of Power (Cambridge 2019), and Wild Experiment: Feeling Science and Secularism after Darwin (Duke 2022), as well as journal articles in Cultural Critique, GLQ, Hypatia, and Angelaki, among others. His current research considers the affects and politics of public material culture, especially Confederate commemoration.
 
