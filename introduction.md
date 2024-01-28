@@ -1,5 +1,7 @@
 ---
 title: Introduction
+layout: base.njk
+
 ---
 # "To Perpetuate a False Image of History"
 
