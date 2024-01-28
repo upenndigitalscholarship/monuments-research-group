@@ -29,6 +29,10 @@ collections:
         name: "body" 
         widget: "markdown" 
         required: false
+      - label: 'layout'
+        name: 'layout'
+        widget: 'hidden'
+        default: 'base.njk'
   - name: "introduction" # Used in routes, e.g., /admin/collections/blog
     editor:
       preview: true
@@ -46,6 +50,10 @@ collections:
         name: "body" 
         widget: "markdown" 
         required: false
+      - label: 'layout'
+        name: 'layout'
+        widget: 'hidden'
+        default: 'base.njk'
   - name: "further-reading" # Used in routes, e.g., /admin/collections/blog
     editor:
       preview: true
@@ -65,6 +73,10 @@ collections:
         name: "body" 
         widget: "markdown" 
         required: false
+      - label: 'layout'
+        name: 'layout'
+        widget: 'hidden'
+        default: 'base.njk'
   - name: "about" # Used in routes, e.g., /admin/collections/blog
     editor:
       preview: true
@@ -84,6 +96,10 @@ collections:
         name: "body" 
         widget: "markdown" 
         required: false
+      - label: 'layout'
+        name: 'layout'
+        widget: 'hidden'
+        default: 'base.njk'
   - name: "essay" 
     editor:
       preview: true
