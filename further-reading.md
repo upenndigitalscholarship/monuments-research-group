@@ -32,7 +32,7 @@ Savage, Kirk. _Standing Soldiers, Kneeling Slaves: Race, War, and
 Monument in Nineteenth-Century America._ Princeton, NJ: Princeton
 University Press, 1997.
 
-Smith, Clint. _How the Word Is Passed: A Reckoning With the History of Slavery Across America_. New York, NY: Little, Brown, and Co., 2021.
+Smith, Clint. _How the Word Is Passed: A Reckoning With the History of Slavery Across America_. New York, NY: Back Bay Books/Little, Brown, and Co., 2021.
 
 Spires, Derrick R. _The Practice of Citizenship: Black Politics in the
 Early United States_. Philadelphia, PA: University of Pennsylvania
