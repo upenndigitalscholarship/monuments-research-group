@@ -1,6 +1,5 @@
 ---
 title: About
-layout: base.njk
 ---
 <div id="further-reading" class="container" style="margin-top:10px;">
 
@@ -39,15 +38,5 @@ _Confederate monuments are not just symbols of hatred and white supremacy, they 
 ## Liv McClary
 
 Liv McClary is a senior in the College of Arts and Sciences (Class of 2024). Pursuing a degree in History and Religious Studies, she is the Editor-in-Chief of the Penn History Review, a member of the History Undergraduate Advisory Board, and an RA in Lauder College House. 
-
-## Andy Janco
-
-## Cassandra Hradil
-
-# Contact
-
-Please provide all feedback, queries, and suggested corrections using this contact form.
-
-CONTACT FORM GOES HERE
 
 </div>
