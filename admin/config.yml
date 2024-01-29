@@ -12,7 +12,7 @@ local_backend: true
 collections:
   - name: "main" # Used in routes, e.g., /admin/collections/blog
     editor:
-      preview: true
+      preview: false
     label: "Main Page" # Used in the UI
     identifier_field: page
     folder: "/" # The path to the folder where the documents are stored
@@ -35,7 +35,7 @@ collections:
         default: 'base.njk'
   - name: "introduction" # Used in routes, e.g., /admin/collections/blog
     editor:
-      preview: true
+      preview: false
     label: "Introduction" # Used in the UI
     identifier_field: page
     folder: "/" # The path to the folder where the documents are stored
@@ -56,7 +56,7 @@ collections:
         default: 'base.njk'
   - name: "further-reading" # Used in routes, e.g., /admin/collections/blog
     editor:
-      preview: true
+      preview: false
     label: "Further Reading" # Used in the UI
     identifier_field: page
     folder: "/" # The path to the folder where the documents are stored
@@ -79,7 +79,7 @@ collections:
         default: 'base.njk'
   - name: "about" # Used in routes, e.g., /admin/collections/blog
     editor:
-      preview: true
+      preview: false
     label: "About" # Used in the UI
     identifier_field: page
     folder: "/" # The path to the folder where the documents are stored
@@ -102,7 +102,7 @@ collections:
         default: 'base.njk'
   - name: "essay" 
     editor:
-      preview: true
+      preview: false
     label: "Essay" 
     identifier_field: essay
     folder: "essay" # The path to the folder where the documents are stored
