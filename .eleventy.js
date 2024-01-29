@@ -1,4 +1,5 @@
 const markdownIt = require('markdown-it');
+const markdownItFootnote = require('markdown-it-footnote');
 
 module.exports = function(eleventyConfig) {  
     eleventyConfig.addPassthroughCopy("assets");
@@ -36,6 +37,6 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addFilter("deslugify", function(slug) {
         return slug.replace(/\-/g, " ").replace(/\w\S*/g, (text) => text.charAt(0).toUpperCase() + text.slice(1).toLowerCase());
     });
-    eleventyConfig.setLibrary("md", markdownIt(options));
-    eleventyConfig.amendLibrary("md", markdownIt => markdownIt.use(require('markdown-it-footnote')))
+
+    eleventyConfig.setLibrary("md", markdownIt(options).use(markdownItFootnote));
 };

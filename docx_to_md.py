@@ -6,8 +6,8 @@
 from pathlib import Path 
 import subprocess
 
-originals = list(Path('original-pages/').iterdir())
-essay = Path('pages/')
+originals = list(Path('original-essays/').iterdir())
+essay = Path('test_essays/')
 
 for original in originals:
     print(original)
