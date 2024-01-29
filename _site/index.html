@@ -1,0 +1,1304 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="/assets/css/MarkerCluster.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="/assets/css/style.css">
+  </head>
+  <body>
+
+    <nav class="navbar navbar-expand-lg bg-body-tertiary" style="background-color: #e3f2fd;">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">"To Perpetuate a False Image of History": Perspectives on Confederate Commemoration from the Black Press</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link" href="/introduction">Introduction</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/essays">Essays</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/further-reading">Further reading</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/about">About</a>
+            </li>
+          </ul>
+          
+        </div>
+      </div>
+    </nav>
+
+    <div class="container-fluid">
+      
+<div class="card">
+    <div class="card-body">
+        <h3>Welcome to the Perspectives on Confederate Commemoration from the Black Press project!</h3>
+
+        <p>The articles gathered here tell the stories of how Black journalists from the late nineteenth century to the present viewed efforts by white Southerners to celebrate the Confederacy in the long aftermath of the US Civil War.</p>
+
+        <p>Read an <a href="introduction">introduction to the project here</a> or <a href="essays">start browsing!</a></p>
+        
+        <div class="content-warning">
+
+        </div>
+    </div>
+</div>
+
+<div id="filter-box">
+    
+    <script>
+        let colors = [
+                '#ff0000',
+                '#00ff00',
+                '#0000ff',
+                '#ffff00',
+                '#00ffff',
+                '#ff00ff',
+                '#ffffff'
+            ]
+            let colorLookup = {}
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('monument-avenue-in-richmond')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['monument-avenue-in-richmond'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('stone-mountain-and-the-klan')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['stone-mountain-and-the-klan'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('statuary-hall-in-the-capitol')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['statuary-hall-in-the-capitol'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('flag-politics')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['flag-politics'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('monuments-and-locations')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['monuments-and-locations'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('flag-politics')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['flag-politics'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('newspapers-cities-and-individual-authors')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['newspapers-cities-and-individual-authors'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('monuments-and-locations')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['monuments-and-locations'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('stone-mountain-and-the-klan')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['stone-mountain-and-the-klan'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('flag-politics')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['flag-politics'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('monuments-to-mammies-and-faithful-slaves')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['monuments-to-mammies-and-faithful-slaves'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('stone-mountain-and-the-klan')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['stone-mountain-and-the-klan'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('monuments-and-locations')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['monuments-and-locations'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('stone-mountain-and-the-klan')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['stone-mountain-and-the-klan'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('newspapers-cities-and-individual-authors')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['newspapers-cities-and-individual-authors'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('monuments-and-locations')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['monuments-and-locations'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('monument-avenue-in-richmond')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['monument-avenue-in-richmond'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('stone-mountain-and-the-klan')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['stone-mountain-and-the-klan'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('monument-avenue-in-richmond')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['monument-avenue-in-richmond'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('monuments-to-mammies-and-faithful-slaves')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['monuments-to-mammies-and-faithful-slaves'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('flag-politics')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['flag-politics'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('newspapers-cities-and-individual-authors')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['newspapers-cities-and-individual-authors'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('newspapers-cities-and-individual-authors')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['newspapers-cities-and-individual-authors'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('monuments-and-locations')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['monuments-and-locations'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('flag-politics')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['flag-politics'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('flag-politics')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['flag-politics'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('flag-politics')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['flag-politics'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('statuary-hall-in-the-capitol')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['statuary-hall-in-the-capitol'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('statuary-hall-in-the-capitol')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['statuary-hall-in-the-capitol'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('stone-mountain-and-the-klan')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['stone-mountain-and-the-klan'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('flag-politics')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['flag-politics'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('newspapers-cities-and-individual-authors')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['newspapers-cities-and-individual-authors'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+                
+                    // see if the topic is already in the points object
+                    if (!colorLookup.hasOwnProperty('monuments-and-locations')) {
+                        // if it is, add the new point to the array
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        colorLookup['monuments-and-locations'] = color;
+                        // remove color from colors
+                        colors.splice(colors.indexOf(color), 1);
+                    } 
+                
+            
+    </script>
+    <div class="card bg-black" style="width: 18rem;">
+
+    
+        <button type="button" class="btn btn-dark filter-button" data-label="monuments-to-mammies-and-faithful-slaves">Monuments to &quot;Mammies&quot; and &quot;Faithful Slaves&quot;</button><br>
+        
+        <script>
+            
+            document
+                .querySelector("[data-label='monuments-to-mammies-and-faithful-slaves']")
+                .addEventListener('click', function () {
+                    console.log(this.dataset.label);
+                    // filter essays using points object
+                    // remove all markers from map
+                    map.eachLayer(function (layer) {
+                        if (layer instanceof L.Marker) {
+                            map.removeLayer(layer);
+                        }
+                    });
+                    markers.clearLayers();
+                    // reset zoom to 5
+                    map.setView([
+                        39.44483435516343, -99.33589354231967
+                    ], 5);
+                    for (let topic in points) {
+                        if (topic == this.dataset.label) {
+                            let color = colors[Math.floor(Math.random() * colors.length)];
+                            for (let point of points[topic]) {
+                                markers.addLayer(L.marker([
+                                    point.lat, point.long
+                                ], {
+                                    title: point.topic,
+                                    icon: L.divIcon({
+                                        className: 'my-div-icon',
+                                        html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + colorLookup[point.topic] + '" /></svg>'
+                                    })
+                                }).bindPopup(point.popup));
+                                map.addLayer(markers);
+
+                            }
+                        }
+                    }
+
+                });
+            document
+                .querySelector('[data-label="monuments-to-mammies-and-faithful-slaves"]')
+                .insertAdjacentHTML('beforeend', `&nbsp;&nbsp;<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['monuments-to-mammies-and-faithful-slaves']}" /></svg>`)
+        </script>
+        
+    
+        <button type="button" class="btn btn-dark filter-button" data-label="newspapers-cities-and-individual-authors">Newspapers, Cities, and Individual Authors</button><br>
+        
+        <script>
+            
+            document
+                .querySelector("[data-label='newspapers-cities-and-individual-authors']")
+                .addEventListener('click', function () {
+                    console.log(this.dataset.label);
+                    // filter essays using points object
+                    // remove all markers from map
+                    map.eachLayer(function (layer) {
+                        if (layer instanceof L.Marker) {
+                            map.removeLayer(layer);
+                        }
+                    });
+                    markers.clearLayers();
+                    // reset zoom to 5
+                    map.setView([
+                        39.44483435516343, -99.33589354231967
+                    ], 5);
+                    for (let topic in points) {
+                        if (topic == this.dataset.label) {
+                            let color = colors[Math.floor(Math.random() * colors.length)];
+                            for (let point of points[topic]) {
+                                markers.addLayer(L.marker([
+                                    point.lat, point.long
+                                ], {
+                                    title: point.topic,
+                                    icon: L.divIcon({
+                                        className: 'my-div-icon',
+                                        html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + colorLookup[point.topic] + '" /></svg>'
+                                    })
+                                }).bindPopup(point.popup));
+                                map.addLayer(markers);
+
+                            }
+                        }
+                    }
+
+                });
+            document
+                .querySelector('[data-label="newspapers-cities-and-individual-authors"]')
+                .insertAdjacentHTML('beforeend', `&nbsp;&nbsp;<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['newspapers-cities-and-individual-authors']}" /></svg>`)
+        </script>
+        
+    
+        <button type="button" class="btn btn-dark filter-button" data-label="monuments-and-locations">Monuments and Locations</button><br>
+        
+        <script>
+            
+            document
+                .querySelector("[data-label='monuments-and-locations']")
+                .addEventListener('click', function () {
+                    console.log(this.dataset.label);
+                    // filter essays using points object
+                    // remove all markers from map
+                    map.eachLayer(function (layer) {
+                        if (layer instanceof L.Marker) {
+                            map.removeLayer(layer);
+                        }
+                    });
+                    markers.clearLayers();
+                    // reset zoom to 5
+                    map.setView([
+                        39.44483435516343, -99.33589354231967
+                    ], 5);
+                    for (let topic in points) {
+                        if (topic == this.dataset.label) {
+                            let color = colors[Math.floor(Math.random() * colors.length)];
+                            for (let point of points[topic]) {
+                                markers.addLayer(L.marker([
+                                    point.lat, point.long
+                                ], {
+                                    title: point.topic,
+                                    icon: L.divIcon({
+                                        className: 'my-div-icon',
+                                        html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + colorLookup[point.topic] + '" /></svg>'
+                                    })
+                                }).bindPopup(point.popup));
+                                map.addLayer(markers);
+
+                            }
+                        }
+                    }
+
+                });
+            document
+                .querySelector('[data-label="monuments-and-locations"]')
+                .insertAdjacentHTML('beforeend', `&nbsp;&nbsp;<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['monuments-and-locations']}" /></svg>`)
+        </script>
+        
+    
+        <button type="button" class="btn btn-dark filter-button" data-label="flag-politics">Flag Politics</button><br>
+        
+        <script>
+            
+            document
+                .querySelector("[data-label='flag-politics']")
+                .addEventListener('click', function () {
+                    console.log(this.dataset.label);
+                    // filter essays using points object
+                    // remove all markers from map
+                    map.eachLayer(function (layer) {
+                        if (layer instanceof L.Marker) {
+                            map.removeLayer(layer);
+                        }
+                    });
+                    markers.clearLayers();
+                    // reset zoom to 5
+                    map.setView([
+                        39.44483435516343, -99.33589354231967
+                    ], 5);
+                    for (let topic in points) {
+                        if (topic == this.dataset.label) {
+                            let color = colors[Math.floor(Math.random() * colors.length)];
+                            for (let point of points[topic]) {
+                                markers.addLayer(L.marker([
+                                    point.lat, point.long
+                                ], {
+                                    title: point.topic,
+                                    icon: L.divIcon({
+                                        className: 'my-div-icon',
+                                        html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + colorLookup[point.topic] + '" /></svg>'
+                                    })
+                                }).bindPopup(point.popup));
+                                map.addLayer(markers);
+
+                            }
+                        }
+                    }
+
+                });
+            document
+                .querySelector('[data-label="flag-politics"]')
+                .insertAdjacentHTML('beforeend', `&nbsp;&nbsp;<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['flag-politics']}" /></svg>`)
+        </script>
+        
+    
+        <button type="button" class="btn btn-dark filter-button" data-label="statuary-hall-in-the-capitol">Statuary Hall in the Capitol</button><br>
+        
+        <script>
+            
+            document
+                .querySelector("[data-label='statuary-hall-in-the-capitol']")
+                .addEventListener('click', function () {
+                    console.log(this.dataset.label);
+                    // filter essays using points object
+                    // remove all markers from map
+                    map.eachLayer(function (layer) {
+                        if (layer instanceof L.Marker) {
+                            map.removeLayer(layer);
+                        }
+                    });
+                    markers.clearLayers();
+                    // reset zoom to 5
+                    map.setView([
+                        39.44483435516343, -99.33589354231967
+                    ], 5);
+                    for (let topic in points) {
+                        if (topic == this.dataset.label) {
+                            let color = colors[Math.floor(Math.random() * colors.length)];
+                            for (let point of points[topic]) {
+                                markers.addLayer(L.marker([
+                                    point.lat, point.long
+                                ], {
+                                    title: point.topic,
+                                    icon: L.divIcon({
+                                        className: 'my-div-icon',
+                                        html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + colorLookup[point.topic] + '" /></svg>'
+                                    })
+                                }).bindPopup(point.popup));
+                                map.addLayer(markers);
+
+                            }
+                        }
+                    }
+
+                });
+            document
+                .querySelector('[data-label="statuary-hall-in-the-capitol"]')
+                .insertAdjacentHTML('beforeend', `&nbsp;&nbsp;<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['statuary-hall-in-the-capitol']}" /></svg>`)
+        </script>
+        
+    
+        <button type="button" class="btn btn-dark filter-button" data-label="stone-mountain-and-the-klan">Stone Mountain and the Klan</button><br>
+        
+        <script>
+            
+            document
+                .querySelector("[data-label='stone-mountain-and-the-klan']")
+                .addEventListener('click', function () {
+                    console.log(this.dataset.label);
+                    // filter essays using points object
+                    // remove all markers from map
+                    map.eachLayer(function (layer) {
+                        if (layer instanceof L.Marker) {
+                            map.removeLayer(layer);
+                        }
+                    });
+                    markers.clearLayers();
+                    // reset zoom to 5
+                    map.setView([
+                        39.44483435516343, -99.33589354231967
+                    ], 5);
+                    for (let topic in points) {
+                        if (topic == this.dataset.label) {
+                            let color = colors[Math.floor(Math.random() * colors.length)];
+                            for (let point of points[topic]) {
+                                markers.addLayer(L.marker([
+                                    point.lat, point.long
+                                ], {
+                                    title: point.topic,
+                                    icon: L.divIcon({
+                                        className: 'my-div-icon',
+                                        html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + colorLookup[point.topic] + '" /></svg>'
+                                    })
+                                }).bindPopup(point.popup));
+                                map.addLayer(markers);
+
+                            }
+                        }
+                    }
+
+                });
+            document
+                .querySelector('[data-label="stone-mountain-and-the-klan"]')
+                .insertAdjacentHTML('beforeend', `&nbsp;&nbsp;<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['stone-mountain-and-the-klan']}" /></svg>`)
+        </script>
+        
+    
+        <button type="button" class="btn btn-dark filter-button" data-label="monument-avenue-in-richmond">Monument Avenue in Richmond</button><br>
+        
+        <script>
+            
+            document
+                .querySelector("[data-label='monument-avenue-in-richmond']")
+                .addEventListener('click', function () {
+                    console.log(this.dataset.label);
+                    // filter essays using points object
+                    // remove all markers from map
+                    map.eachLayer(function (layer) {
+                        if (layer instanceof L.Marker) {
+                            map.removeLayer(layer);
+                        }
+                    });
+                    markers.clearLayers();
+                    // reset zoom to 5
+                    map.setView([
+                        39.44483435516343, -99.33589354231967
+                    ], 5);
+                    for (let topic in points) {
+                        if (topic == this.dataset.label) {
+                            let color = colors[Math.floor(Math.random() * colors.length)];
+                            for (let point of points[topic]) {
+                                markers.addLayer(L.marker([
+                                    point.lat, point.long
+                                ], {
+                                    title: point.topic,
+                                    icon: L.divIcon({
+                                        className: 'my-div-icon',
+                                        html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + colorLookup[point.topic] + '" /></svg>'
+                                    })
+                                }).bindPopup(point.popup));
+                                map.addLayer(markers);
+
+                            }
+                        }
+                    }
+
+                });
+            document
+                .querySelector('[data-label="monument-avenue-in-richmond"]')
+                .insertAdjacentHTML('beforeend', `&nbsp;&nbsp;<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['monument-avenue-in-richmond']}" /></svg>`)
+        </script>
+        
+    
+<button class="btn btn-dark filter-button" data-label="reset">Reset</button><br>
+        <script>
+            document
+                .querySelector('[data-label="reset"]')
+                .addEventListener('click', function () {
+                    // filter essays using points object
+                    // remove all markers from map
+                    map.eachLayer(function (layer) {
+                        if (layer instanceof L.Marker) {
+                            map.removeLayer(layer);
+                        }
+                    });
+                    markers.clearLayers();
+                    // reset zoom to 5
+                    map.setView([
+                        39.44483435516343, -99.33589354231967
+                    ], 5);
+                    for (let topic in points) {
+                        let color = colors[Math.floor(Math.random() * colors.length)];
+                        for (let point of points[topic]) {
+                            markers.addLayer(L.marker([
+                                point.lat, point.long
+                            ], {
+                                title: point.topic,
+                                icon: L.divIcon({
+                                    className: 'my-div-icon',
+                                    html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + colorLookup[point.topic] + '" /></svg>'
+                                })
+                            }).bindPopup(point.popup));
+                            map.addLayer(markers);
+
+                        }
+                    }
+
+                });
+        </script>
+</div>
+
+</div>
+
+<style>
+    #map {
+        height: 70vh;
+        border-radius: 5px;
+    }
+
+    #filter-box {
+        position: absolute;
+        top: 40vh;
+        left: 20px;
+        z-index: 999;
+    }
+
+    .filter-button {
+        margin-bottom: 10px;
+    }
+</style>
+
+<div id="map"></div>
+
+
+
+
+<link rel="stylesheet" href="/assets/css/leaflet.css"
+    
+     crossorigin=""/>
+
+<script src="/assets/js/leaflet.js"
+     crossorigin=""></script>
+<script src="/assets/js/leaflet.markercluster.js"
+     crossorigin=""></script>
+<script>
+    
+    let map = L
+        .map('map')
+        .setView([
+            39.44483435516343, -99.33589354231967
+        ], 5);
+    L
+        .tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+            attribution: '',
+            subdomains: 'abcd',
+            maxZoom: 20,
+        })
+        .addTo(map);
+    let markers = L.markerClusterGroup();
+    let points = {};
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('monument-avenue-in-richmond')) {
+                // if it is, add the new point to the array
+                points['monument-avenue-in-richmond'].push({'lat': 37.5651631, 'long': -77.4816436, 'topic': 'monument-avenue-in-richmond', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Arthur-Ashe-on-Monument-Avenue">&quot;I Don&#39;t Think the Confederate Heroes Have a Sacred Place on Monument Avenue&quot;: The Arthur Ashe Statue in Richmond</a></h4><p><p>Arthur Ashe was a Black professional tennis player who won multiple globally prestigious tournaments throughout the 1970 and 1980s. In 1961, at the age of just 18 years old, Ashe left segregated Richmond “in disgust” after officials had “banned hi...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['monument-avenue-in-richmond'] = [];
+                points['monument-avenue-in-richmond'].push({'lat': 37.5651631, 'long': -77.4816436, 'topic': 'monument-avenue-in-richmond', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Arthur-Ashe-on-Monument-Avenue">&quot;I Don&#39;t Think the Confederate Heroes Have a Sacred Place on Monument Avenue&quot;: The Arthur Ashe Statue in Richmond</a></h4><p><p>Arthur Ashe was a Black professional tennis player who won multiple globally prestigious tournaments throughout the 1970 and 1980s. In 1961, at the age of just 18 years old, Ashe left segregated Richmond “in disgust” after officials had “banned hi...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('stone-mountain-and-the-klan')) {
+                // if it is, add the new point to the array
+                points['stone-mountain-and-the-klan'].push({'lat': 33.805423, 'long': -84.1634489, 'topic': 'stone-mountain-and-the-klan', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Black-Journalists-Note-the-Klan’s-Hatred-for-Other-Groups-on-Stone-Mountain">Black Journalists Note the Klan&#39;s Hatred for Other Groups</a></h4><p><p>Although formed as a violent reaction against Black enfranchisement during Reconstruction, the Ku Klux Klan also supported nativism, anti-Catholicism, and antisemitism. When the <a href="https://falseimage.pennds.org/essay/Fiery-Crosses-Symbolize-...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['stone-mountain-and-the-klan'] = [];
+                points['stone-mountain-and-the-klan'].push({'lat': 33.805423, 'long': -84.1634489, 'topic': 'stone-mountain-and-the-klan', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Black-Journalists-Note-the-Klan’s-Hatred-for-Other-Groups-on-Stone-Mountain">Black Journalists Note the Klan&#39;s Hatred for Other Groups</a></h4><p><p>Although formed as a violent reaction against Black enfranchisement during Reconstruction, the Ku Klux Klan also supported nativism, anti-Catholicism, and antisemitism. When the <a href="https://falseimage.pennds.org/essay/Fiery-Crosses-Symbolize-...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('statuary-hall-in-the-capitol')) {
+                // if it is, add the new point to the array
+                points['statuary-hall-in-the-capitol'].push({'lat': 38.889943, 'long': -77.0116254, 'topic': 'statuary-hall-in-the-capitol', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Civil-Rights-Activists-Speak-Out-Against-Stephens’-Statue">&quot;Cold Marble Can Proclaim Its Cause&quot;: The Alexander Stephens Statue in the Capitol</a></h4><p><p>In April 1926, the <em>New York Amsterdam News</em><sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> and the <em>Pittsburgh Courier</em><sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup> simultaneously printed a le...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['statuary-hall-in-the-capitol'] = [];
+                points['statuary-hall-in-the-capitol'].push({'lat': 38.889943, 'long': -77.0116254, 'topic': 'statuary-hall-in-the-capitol', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Civil-Rights-Activists-Speak-Out-Against-Stephens’-Statue">&quot;Cold Marble Can Proclaim Its Cause&quot;: The Alexander Stephens Statue in the Capitol</a></h4><p><p>In April 1926, the <em>New York Amsterdam News</em><sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> and the <em>Pittsburgh Courier</em><sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup> simultaneously printed a le...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('flag-politics')) {
+                // if it is, add the new point to the array
+                points['flag-politics'].push({'lat': 34.3659754, 'long': -89.5535321, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Confederate-Flag-Controversy-at-Ole-Miss-2">&quot;Fear Is What This Story Is All About&quot;: Confederate Flag Controversy at Ole Miss</a></h4><p><p><em>Content Warning: This article includes racist language.</em></p><p>In the early 1980s, the University of Mississippi (Ole Miss) was embroiled in controversy over its ongoing use of the Confederate flag as a school symbol. In spring of 1982, t...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['flag-politics'] = [];
+                points['flag-politics'].push({'lat': 34.3659754, 'long': -89.5535321, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Confederate-Flag-Controversy-at-Ole-Miss-2">&quot;Fear Is What This Story Is All About&quot;: Confederate Flag Controversy at Ole Miss</a></h4><p><p><em>Content Warning: This article includes racist language.</em></p><p>In the early 1980s, the University of Mississippi (Ole Miss) was embroiled in controversy over its ongoing use of the Confederate flag as a school symbol. In spring of 1982, t...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('monuments-and-locations')) {
+                // if it is, add the new point to the array
+                points['monuments-and-locations'].push({'lat': 29.969917, 'long': -90.0967749, 'topic': 'monuments-and-locations', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Cross-Burning-in-New-Orleans">Cross-Burning in New Orleans near Davis Monument</a></h4><p><p>In 1956, the <em>California Eagle</em> and the <em>Arizona Sun</em> published simultaneous reports on a cross-burning in New Orleans. Both articles recorded that a sign had been placed above the blaze that read: “Keep our kids safe from the black ...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['monuments-and-locations'] = [];
+                points['monuments-and-locations'].push({'lat': 29.969917, 'long': -90.0967749, 'topic': 'monuments-and-locations', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Cross-Burning-in-New-Orleans">Cross-Burning in New Orleans near Davis Monument</a></h4><p><p>In 1956, the <em>California Eagle</em> and the <em>Arizona Sun</em> published simultaneous reports on a cross-burning in New Orleans. Both articles recorded that a sign had been placed above the blaze that read: “Keep our kids safe from the black ...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('flag-politics')) {
+                // if it is, add the new point to the array
+                points['flag-politics'].push({'lat': 41.8792558, 'long': -87.6625968, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/DJ-Feud-(1956)">&quot;An Insult to the South&quot;: DJ Feud of 1956</a></h4><p><p>When a Black disc jockey in Chicago named Al Benson wanted to protest racism in his home state of Mississippi in early 1956, he came up with an unorthodox way of getting his message out. He arranged to have 3,000 copies of the U.S. Constitution ai...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['flag-politics'] = [];
+                points['flag-politics'].push({'lat': 41.8792558, 'long': -87.6625968, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/DJ-Feud-(1956)">&quot;An Insult to the South&quot;: DJ Feud of 1956</a></h4><p><p>When a Black disc jockey in Chicago named Al Benson wanted to protest racism in his home state of Mississippi in early 1956, he came up with an unorthodox way of getting his message out. He arranged to have 3,000 copies of the U.S. Constitution ai...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('newspapers-cities-and-individual-authors')) {
+                // if it is, add the new point to the array
+                points['newspapers-cities-and-individual-authors'].push({'lat': 36.8559539, 'long': -76.2285949, 'topic': 'newspapers-cities-and-individual-authors', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Davis-Stamp">No Churches for Judas and Pilate: Richard B. Martin on the 1960 Jefferson Davis Postage Stamp Proposal</a></h4><p><p>In 1960, a proposal was put forward to issue a postage stamp honoring CSA president Jefferson Davis. The <em>New Journal and Guide</em> (Norfolk, VA) published a sharply critical response by local Episcopalian priest (and future bishop) Rev. Dr. R...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['newspapers-cities-and-individual-authors'] = [];
+                points['newspapers-cities-and-individual-authors'].push({'lat': 36.8559539, 'long': -76.2285949, 'topic': 'newspapers-cities-and-individual-authors', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Davis-Stamp">No Churches for Judas and Pilate: Richard B. Martin on the 1960 Jefferson Davis Postage Stamp Proposal</a></h4><p><p>In 1960, a proposal was put forward to issue a postage stamp honoring CSA president Jefferson Davis. The <em>New Journal and Guide</em> (Norfolk, VA) published a sharply critical response by local Episcopalian priest (and future bishop) Rev. Dr. R...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('monuments-and-locations')) {
+                // if it is, add the new point to the array
+                points['monuments-and-locations'].push({'lat': 36.841781, 'long': -87.3025959, 'topic': 'monuments-and-locations', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Fairview,-KY-Monument-to-Davis">&quot;The Weakness of Human Judgement&quot;: The Jefferson Davis Monument in Kentucky</a></h4><p><p>In 1909, the settlement of Fairview, KY dedicated a park to CSA President Jefferson Davis. The park commemorated Davis on “the 101^st^ anniversary of [his] birth… at his birthplace,” according to an article covering the event in the <em>Richmond P...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['monuments-and-locations'] = [];
+                points['monuments-and-locations'].push({'lat': 36.841781, 'long': -87.3025959, 'topic': 'monuments-and-locations', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Fairview,-KY-Monument-to-Davis">&quot;The Weakness of Human Judgement&quot;: The Jefferson Davis Monument in Kentucky</a></h4><p><p>In 1909, the settlement of Fairview, KY dedicated a park to CSA President Jefferson Davis. The park commemorated Davis on “the 101^st^ anniversary of [his] birth… at his birthplace,” according to an article covering the event in the <em>Richmond P...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('stone-mountain-and-the-klan')) {
+                // if it is, add the new point to the array
+                points['stone-mountain-and-the-klan'].push({'lat': 33.812371, 'long': -84.1714439, 'topic': 'stone-mountain-and-the-klan', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Fiery-Crosses-Symbolize-a-Revival-on-Stone-Mountain">&quot;Bigoted Bed-Sheeters&quot;: Fiery Crosses Symbolize a Revival on Stone Mountain</a></h4><p><p>In 1945 and 1946 alone, at least five crosses were burned atop Stone Mountain, the largest Confederate Monument in existence.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> These cross-burnings signaled an attempt to jump-start ...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['stone-mountain-and-the-klan'] = [];
+                points['stone-mountain-and-the-klan'].push({'lat': 33.812371, 'long': -84.1714439, 'topic': 'stone-mountain-and-the-klan', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Fiery-Crosses-Symbolize-a-Revival-on-Stone-Mountain">&quot;Bigoted Bed-Sheeters&quot;: Fiery Crosses Symbolize a Revival on Stone Mountain</a></h4><p><p>In 1945 and 1946 alone, at least five crosses were burned atop Stone Mountain, the largest Confederate Monument in existence.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> These cross-burnings signaled an attempt to jump-start ...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('flag-politics')) {
+                // if it is, add the new point to the array
+                points['flag-politics'].push({'lat': 33.7492266, 'long': -84.3908847, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Georgia-State-Flag-Controversy">&quot;Change the Symbol That Churns up Hate&quot;: The Georgia State Flag Controversy</a></h4><p><p>In 1956, the <a href="https://falseimage.pennds.org/essay/Stars-and-Bars-vs-Stars-and-Stripes">Confederate Battle Flag</a> was added to the state flag of Georgia. The <em>New Pittsburgh Courier</em> covered event, suggesting it was directly prompt...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['flag-politics'] = [];
+                points['flag-politics'].push({'lat': 33.7492266, 'long': -84.3908847, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Georgia-State-Flag-Controversy">&quot;Change the Symbol That Churns up Hate&quot;: The Georgia State Flag Controversy</a></h4><p><p>In 1956, the <a href="https://falseimage.pennds.org/essay/Stars-and-Bars-vs-Stars-and-Stripes">Confederate Battle Flag</a> was added to the state flag of Georgia. The <em>New Pittsburgh Courier</em> covered event, suggesting it was directly prompt...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('monuments-to-mammies-and-faithful-slaves')) {
+                // if it is, add the new point to the array
+                points['monuments-to-mammies-and-faithful-slaves'].push({'lat': 39.3213322, 'long': -77.7402773, 'topic': 'monuments-to-mammies-and-faithful-slaves', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Harper&#39;s-Ferry-Monument-to-Loyal-Negroes">&quot;We Are Pushing Forward to a Larger Freedom&quot;: Harper&#39;s Ferry Monument to &quot;Loyal Negroes&quot;</a></h4><p><p>In 1931, eight years after the failed attempt to erect a <a href="https://falseimage.pennds.org/essay/Monuments-to-%E2%80%9CMammies%E2%80%9D-and-%E2%80%9CUncle-Toms%E2%80%9D-BACKUP">national “mammy” monument</a>, the <em>Afro-American</em> publish...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['monuments-to-mammies-and-faithful-slaves'] = [];
+                points['monuments-to-mammies-and-faithful-slaves'].push({'lat': 39.3213322, 'long': -77.7402773, 'topic': 'monuments-to-mammies-and-faithful-slaves', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Harper&#39;s-Ferry-Monument-to-Loyal-Negroes">&quot;We Are Pushing Forward to a Larger Freedom&quot;: Harper&#39;s Ferry Monument to &quot;Loyal Negroes&quot;</a></h4><p><p>In 1931, eight years after the failed attempt to erect a <a href="https://falseimage.pennds.org/essay/Monuments-to-%E2%80%9CMammies%E2%80%9D-and-%E2%80%9CUncle-Toms%E2%80%9D-BACKUP">national “mammy” monument</a>, the <em>Afro-American</em> publish...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('stone-mountain-and-the-klan')) {
+                // if it is, add the new point to the array
+                points['stone-mountain-and-the-klan'].push({'lat': 33.7492908, 'long': -84.3904149, 'topic': 'stone-mountain-and-the-klan', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Head-to-Head-with-the-Klan">&quot;Hitlerian Disease&quot;: Taking the Fight against the Klan to Stone Mountain</a></h4><p><p>In 1946, Drew Pearson, a popular white radio talk show host, went head-to-head with the Klan. This took place shortly after the <a href="https://falseimage.pennds.org/essay/Fiery-Crosses-Symbolize-a-Revival-on-Stone-Mountain">revitalization of the...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['stone-mountain-and-the-klan'] = [];
+                points['stone-mountain-and-the-klan'].push({'lat': 33.7492908, 'long': -84.3904149, 'topic': 'stone-mountain-and-the-klan', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Head-to-Head-with-the-Klan">&quot;Hitlerian Disease&quot;: Taking the Fight against the Klan to Stone Mountain</a></h4><p><p>In 1946, Drew Pearson, a popular white radio talk show host, went head-to-head with the Klan. This took place shortly after the <a href="https://falseimage.pennds.org/essay/Fiery-Crosses-Symbolize-a-Revival-on-Stone-Mountain">revitalization of the...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('monuments-and-locations')) {
+                // if it is, add the new point to the array
+                points['monuments-and-locations'].push({'lat': 48.9766495, 'long': -122.8124543, 'topic': 'monuments-and-locations', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Jefferson-Davis-Highway">&quot;Never Underestimate the Power of Symbols&quot;: The Jefferson Davis Highway in Washington State</a></h4><p><p>In 2002, the <em>Los Angeles Sentinel</em> reported on the efforts of a Washington state lawmaker to rename a highway dedicated to Jefferson Davis, the sole president of the CSA. The highway was christened the Jefferson Davis Memorial Highway in 1...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['monuments-and-locations'] = [];
+                points['monuments-and-locations'].push({'lat': 48.9766495, 'long': -122.8124543, 'topic': 'monuments-and-locations', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Jefferson-Davis-Highway">&quot;Never Underestimate the Power of Symbols&quot;: The Jefferson Davis Highway in Washington State</a></h4><p><p>In 2002, the <em>Los Angeles Sentinel</em> reported on the efforts of a Washington state lawmaker to rename a highway dedicated to Jefferson Davis, the sole president of the CSA. The highway was christened the Jefferson Davis Memorial Highway in 1...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('stone-mountain-and-the-klan')) {
+                // if it is, add the new point to the array
+                points['stone-mountain-and-the-klan'].push({'lat': 33.810983, 'long': -84.1780589, 'topic': 'stone-mountain-and-the-klan', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Klan-Claims-to-be-a-Local-Organization">Black Journalists Challenge Klan Claims to Be a &quot;Local&quot; Organization</a></h4><p><p>Black reporters covering the <a href="https://falseimage.pennds.org/essay/Fiery-Crosses-Symbolize-a-Revival-on-Stone-Mountain">late-1940s revival of the Ku Klux Klan</a> on top of the future Stone Mountain Confederate memorial noted that the Klan ...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['stone-mountain-and-the-klan'] = [];
+                points['stone-mountain-and-the-klan'].push({'lat': 33.810983, 'long': -84.1780589, 'topic': 'stone-mountain-and-the-klan', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Klan-Claims-to-be-a-Local-Organization">Black Journalists Challenge Klan Claims to Be a &quot;Local&quot; Organization</a></h4><p><p>Black reporters covering the <a href="https://falseimage.pennds.org/essay/Fiery-Crosses-Symbolize-a-Revival-on-Stone-Mountain">late-1940s revival of the Ku Klux Klan</a> on top of the future Stone Mountain Confederate memorial noted that the Klan ...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('newspapers-cities-and-individual-authors')) {
+                // if it is, add the new point to the array
+                points['newspapers-cities-and-individual-authors'].push({'lat': 40.4295644, 'long': -80.2855788, 'topic': 'newspapers-cities-and-individual-authors', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Lee-Stamp">&quot;The Foremost Apostle of Slavery&quot;: J.A. Rogers on the 1937 Lee Stamps</a></h4><p><p>In 1937, the <em>Pittsburgh Courier</em> published an editorial written by staff correspondent J.A. Rogers concerning stamps honoring Confederate General Robert E. Lee.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> Although the...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['newspapers-cities-and-individual-authors'] = [];
+                points['newspapers-cities-and-individual-authors'].push({'lat': 40.4295644, 'long': -80.2855788, 'topic': 'newspapers-cities-and-individual-authors', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Lee-Stamp">&quot;The Foremost Apostle of Slavery&quot;: J.A. Rogers on the 1937 Lee Stamps</a></h4><p><p>In 1937, the <em>Pittsburgh Courier</em> published an editorial written by staff correspondent J.A. Rogers concerning stamps honoring Confederate General Robert E. Lee.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> Although the...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('monuments-and-locations')) {
+                // if it is, add the new point to the array
+                points['monuments-and-locations'].push({'lat': 41.3889095, 'long': -73.9596822, 'topic': 'monuments-and-locations', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Lee-and-West-Point">Grasping at Will-o&#39;-Wisps at West Point</a></h4><p><p>Robert E. Lee’s military career began at West Point Military Academy, where he graduated second in his class in 1829. From there, Lee rose through the ranks of the United States Army, gaining particular notice for his role in suppressing John Brow...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['monuments-and-locations'] = [];
+                points['monuments-and-locations'].push({'lat': 41.3889095, 'long': -73.9596822, 'topic': 'monuments-and-locations', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Lee-and-West-Point">Grasping at Will-o&#39;-Wisps at West Point</a></h4><p><p>Robert E. Lee’s military career began at West Point Military Academy, where he graduated second in his class in 1829. From there, Lee rose through the ranks of the United States Army, gaining particular notice for his role in suppressing John Brow...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('monument-avenue-in-richmond')) {
+                // if it is, add the new point to the array
+                points['monument-avenue-in-richmond'].push({'lat': 37.55382, 'long': -77.460236, 'topic': 'monument-avenue-in-richmond', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Lee-in-Richmond-Forging-Heavier-Chains">&quot;Forging Heavier Chains with Which to Be Bound&quot;: The Lee Statue on Monument Avenue</a></h4><p><p>In 1890, the district that would become Richmond’s Monument Avenue was<br>still largely rural. But changes began that year with the placing of<br>Monument Avenue’s first and largest statue. Antonin Mercié’s colossal<br>figure of Robert E. Lee o...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['monument-avenue-in-richmond'] = [];
+                points['monument-avenue-in-richmond'].push({'lat': 37.55382, 'long': -77.460236, 'topic': 'monument-avenue-in-richmond', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Lee-in-Richmond-Forging-Heavier-Chains">&quot;Forging Heavier Chains with Which to Be Bound&quot;: The Lee Statue on Monument Avenue</a></h4><p><p>In 1890, the district that would become Richmond’s Monument Avenue was<br>still largely rural. But changes began that year with the placing of<br>Monument Avenue’s first and largest statue. Antonin Mercié’s colossal<br>figure of Robert E. Lee o...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('stone-mountain-and-the-klan')) {
+                // if it is, add the new point to the array
+                points['stone-mountain-and-the-klan'].push({'lat': 33.810154, 'long': -84.143871, 'topic': 'stone-mountain-and-the-klan', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Let-Stone-Mountain-Alone">&quot;The South Believes in Human Slavery&quot;: Black Journalists Criticize Stone Mountain Confederate Monument</a></h4><p><p>There were three distinct waves of construction at Stone Mountain. The first began in 1915 when Helen Plane suggested carving a small monument to Lee in the mountain.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> Soon after, Gu...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['stone-mountain-and-the-klan'] = [];
+                points['stone-mountain-and-the-klan'].push({'lat': 33.810154, 'long': -84.143871, 'topic': 'stone-mountain-and-the-klan', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Let-Stone-Mountain-Alone">&quot;The South Believes in Human Slavery&quot;: Black Journalists Criticize Stone Mountain Confederate Monument</a></h4><p><p>There were three distinct waves of construction at Stone Mountain. The first began in 1915 when Helen Plane suggested carving a small monument to Lee in the mountain.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> Soon after, Gu...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('monument-avenue-in-richmond')) {
+                // if it is, add the new point to the array
+                points['monument-avenue-in-richmond'].push({'lat': 37.5583806, 'long': -77.4861331, 'topic': 'monument-avenue-in-richmond', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Monument-Ave---Davis">Black Journalists Uninterested in the Davis Monument on Monument Avenue</a></h4><p><p>On June 3, 1907, A monument to Jefferson Davis, the only president of the CSA, was unveiled on <a href="https://falseimage.pennds.org/essay/Lee-in-Richmond-Forging-Heavier-Chains">Monument Avenue in Richmond</a>. This followed the erection of a ma...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['monument-avenue-in-richmond'] = [];
+                points['monument-avenue-in-richmond'].push({'lat': 37.5583806, 'long': -77.4861331, 'topic': 'monument-avenue-in-richmond', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Monument-Ave---Davis">Black Journalists Uninterested in the Davis Monument on Monument Avenue</a></h4><p><p>On June 3, 1907, A monument to Jefferson Davis, the only president of the CSA, was unveiled on <a href="https://falseimage.pennds.org/essay/Lee-in-Richmond-Forging-Heavier-Chains">Monument Avenue in Richmond</a>. This followed the erection of a ma...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('monuments-to-mammies-and-faithful-slaves')) {
+                // if it is, add the new point to the array
+                points['monuments-to-mammies-and-faithful-slaves'].push({'lat': 38.9112399, 'long': -77.0509448, 'topic': 'monuments-to-mammies-and-faithful-slaves', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Monuments-to-“Mammies”-and-“Uncle-Toms”-BACKUP">&quot;Fear the Greeks, Though Bearing Gifts&quot;: Efforts to Build a National &quot;Mammy&quot; Monument in D.C.</a></h4><p><p>Between the late nineteenth century and the 1930s, Southern legislators and chapters of the United Daughters of the Confederacy (UDC) initiated a number of efforts to erect monuments to Black “mammies” and other enslaved persons who had stayed loy...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['monuments-to-mammies-and-faithful-slaves'] = [];
+                points['monuments-to-mammies-and-faithful-slaves'].push({'lat': 38.9112399, 'long': -77.0509448, 'topic': 'monuments-to-mammies-and-faithful-slaves', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Monuments-to-“Mammies”-and-“Uncle-Toms”-BACKUP">&quot;Fear the Greeks, Though Bearing Gifts&quot;: Efforts to Build a National &quot;Mammy&quot; Monument in D.C.</a></h4><p><p>Between the late nineteenth century and the 1930s, Southern legislators and chapters of the United Daughters of the Confederacy (UDC) initiated a number of efforts to erect monuments to Black “mammies” and other enslaved persons who had stayed loy...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('flag-politics')) {
+                // if it is, add the new point to the array
+                points['flag-politics'].push({'lat': 34.000083, 'long': -81.035572, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Removal-of-the-Confederate-Flag-from-the-S">&quot;A Symbol of Injustice&quot;: Removing the Confederate Flag at the South Carolina Statehouse</a></h4><p><p>On June 23, 2015, nine Black worshippers were murdered in a white supremacist attack on the Emanuel African Methodist Episcopal Church in Charleston, South Carolina.</p><p>Prior to the shooting, the gunman, Dylann Roof, had posted photos of himse...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['flag-politics'] = [];
+                points['flag-politics'].push({'lat': 34.000083, 'long': -81.035572, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Removal-of-the-Confederate-Flag-from-the-S">&quot;A Symbol of Injustice&quot;: Removing the Confederate Flag at the South Carolina Statehouse</a></h4><p><p>On June 23, 2015, nine Black worshippers were murdered in a white supremacist attack on the Emanuel African Methodist Episcopal Church in Charleston, South Carolina.</p><p>Prior to the shooting, the gunman, Dylann Roof, had posted photos of himse...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('newspapers-cities-and-individual-authors')) {
+                // if it is, add the new point to the array
+                points['newspapers-cities-and-individual-authors'].push({'lat': 41.8317803, 'long': -87.6937208, 'topic': 'newspapers-cities-and-individual-authors', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Roscoe-Simmons">&quot;Suppose You Really Knew Your Story?&quot; Roscoe Simmons, Evocative Critic of Confederate Commemoration</a></h4><p><p>Roscoe Simmons was born in Mississippi in 1881.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> Through the influence of his uncle—the prominent Black intellectual Booker T. Washington—Simmons was able to secure a position in the...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['newspapers-cities-and-individual-authors'] = [];
+                points['newspapers-cities-and-individual-authors'].push({'lat': 41.8317803, 'long': -87.6937208, 'topic': 'newspapers-cities-and-individual-authors', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Roscoe-Simmons">&quot;Suppose You Really Knew Your Story?&quot; Roscoe Simmons, Evocative Critic of Confederate Commemoration</a></h4><p><p>Roscoe Simmons was born in Mississippi in 1881.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> Through the influence of his uncle—the prominent Black intellectual Booker T. Washington—Simmons was able to secure a position in the...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('newspapers-cities-and-individual-authors')) {
+                // if it is, add the new point to the array
+                points['newspapers-cities-and-individual-authors'].push({'lat': 47.6042189, 'long': -122.3357933, 'topic': 'newspapers-cities-and-individual-authors', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Seattle">&quot;The Memory of the Damnable Days of the Past&quot;: Black Journalists in Seattle Attack Confederate Commemoration from the Pacific Northwest</a></h4><p><p>Far away from the <a href="https://falseimage.pennds.org/essay/Fairview,-KY-Monument-to-Davis">towering monuments</a> and <a href="https://falseimage.pennds.org/essay/Stars-and-Bars-vs-Stars-and-Stripes">waving flags</a> of the former Confederacy,...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['newspapers-cities-and-individual-authors'] = [];
+                points['newspapers-cities-and-individual-authors'].push({'lat': 47.6042189, 'long': -122.3357933, 'topic': 'newspapers-cities-and-individual-authors', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Seattle">&quot;The Memory of the Damnable Days of the Past&quot;: Black Journalists in Seattle Attack Confederate Commemoration from the Pacific Northwest</a></h4><p><p>Far away from the <a href="https://falseimage.pennds.org/essay/Fairview,-KY-Monument-to-Davis">towering monuments</a> and <a href="https://falseimage.pennds.org/essay/Stars-and-Bars-vs-Stars-and-Stripes">waving flags</a> of the former Confederacy,...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('monuments-and-locations')) {
+                // if it is, add the new point to the array
+                points['monuments-and-locations'].push({'lat': 35.9140955, 'long': -79.0550272, 'topic': 'monuments-and-locations', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Silent-Sam">The Rise and Fall of &quot;Silent Sam&quot;</a></h4><p><p>The statue that came to be known as “Silent Sam” was erected at the University of North Carolina-Chapel Hill (UNC) in 1913 and dedicated to the memory of UNC students who had died fighting for the Confederacy during the Civil War half a century ea...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['monuments-and-locations'] = [];
+                points['monuments-and-locations'].push({'lat': 35.9140955, 'long': -79.0550272, 'topic': 'monuments-and-locations', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Silent-Sam">The Rise and Fall of &quot;Silent Sam&quot;</a></h4><p><p>The statue that came to be known as “Silent Sam” was erected at the University of North Carolina-Chapel Hill (UNC) in 1913 and dedicated to the memory of UNC students who had died fighting for the Confederacy during the Civil War half a century ea...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('flag-politics')) {
+                // if it is, add the new point to the array
+                points['flag-politics'].push({'lat': 32.3773826, 'long': -86.3030392, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Singing-“Dixie”">&quot;And Other Tunes Dear to the Hearts of Racists&quot;: Playing &quot;Dixie&quot;</a></h4><p><p>During the US Civil War, the popular mid-nineteenth-century minstrel song “Dixie” emerged as an unofficial national anthem of the CSA. The singing of “Dixie” became a regular occurrence at events and public gatherings, a tradition that continued a...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['flag-politics'] = [];
+                points['flag-politics'].push({'lat': 32.3773826, 'long': -86.3030392, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Singing-“Dixie”">&quot;And Other Tunes Dear to the Hearts of Racists&quot;: Playing &quot;Dixie&quot;</a></h4><p><p>During the US Civil War, the popular mid-nineteenth-century minstrel song “Dixie” emerged as an unofficial national anthem of the CSA. The singing of “Dixie” became a regular occurrence at events and public gatherings, a tradition that continued a...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('flag-politics')) {
+                // if it is, add the new point to the array
+                points['flag-politics'].push({'lat': 38.1795454, 'long': -78.8415372, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Spotsylvania-Auto-Tags">&quot;The Same Degree of Patriotism and Fierceness as One Protests and Rejects the Nazi Swastika&quot;: Auto-Tags in Spotsylvania County, Virginia</a></h4><p><p>For their 1961 license plates, Spotsylvania County in Virginia issued a design bearing the Confederate battle flag. As reported by the <em>Carolina Times</em>, African-American citizens of the county quickly objected to the plates’ logo. The Virgi...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['flag-politics'] = [];
+                points['flag-politics'].push({'lat': 38.1795454, 'long': -78.8415372, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Spotsylvania-Auto-Tags">&quot;The Same Degree of Patriotism and Fierceness as One Protests and Rejects the Nazi Swastika&quot;: Auto-Tags in Spotsylvania County, Virginia</a></h4><p><p>For their 1961 license plates, Spotsylvania County in Virginia issued a design bearing the Confederate battle flag. As reported by the <em>Carolina Times</em>, African-American citizens of the county quickly objected to the plates’ logo. The Virgi...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('flag-politics')) {
+                // if it is, add the new point to the array
+                points['flag-politics'].push({'lat': 41.8182867, 'long': -87.6523552, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Stars-and-Bars-vs-Stars-and-Stripes">&quot;The First Seeds of Treason Towards Another Civil War&quot;: Criticism of Confederate Flags</a></h4><p><p>Since the end of Reconstruction, Black journalists have frequently criticized the display of Confederate flags—especially, but not solely, the Confederate Battle Flag—in public, particularly in official government capacities. A number of editorial...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['flag-politics'] = [];
+                points['flag-politics'].push({'lat': 41.8182867, 'long': -87.6523552, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Stars-and-Bars-vs-Stars-and-Stripes">&quot;The First Seeds of Treason Towards Another Civil War&quot;: Criticism of Confederate Flags</a></h4><p><p>Since the end of Reconstruction, Black journalists have frequently criticized the display of Confederate flags—especially, but not solely, the Confederate Battle Flag—in public, particularly in official government capacities. A number of editorial...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('statuary-hall-in-the-capitol')) {
+                // if it is, add the new point to the array
+                points['statuary-hall-in-the-capitol'].push({'lat': 38.889943, 'long': -77.0116254, 'topic': 'statuary-hall-in-the-capitol', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Statuary-Hall---Davis">&quot;The Arch Traitor&quot;: Jefferson Davis at the Capitol</a></h4><p><p>During the Jim Crow era, the state of Mississippi chose CSA president Jefferson Davis as one of two Mississippians to be honored in Statuary Hall at the United States Capitol. The statue was sculpted by Augustus Lukeman (who had <a href="https://f...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['statuary-hall-in-the-capitol'] = [];
+                points['statuary-hall-in-the-capitol'].push({'lat': 38.889943, 'long': -77.0116254, 'topic': 'statuary-hall-in-the-capitol', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Statuary-Hall---Davis">&quot;The Arch Traitor&quot;: Jefferson Davis at the Capitol</a></h4><p><p>During the Jim Crow era, the state of Mississippi chose CSA president Jefferson Davis as one of two Mississippians to be honored in Statuary Hall at the United States Capitol. The statue was sculpted by Augustus Lukeman (who had <a href="https://f...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('statuary-hall-in-the-capitol')) {
+                // if it is, add the new point to the array
+                points['statuary-hall-in-the-capitol'].push({'lat': 38.889943, 'long': -77.0116254, 'topic': 'statuary-hall-in-the-capitol', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Statuary-Hall---Lee">&quot;Glorifying Our Worst Enemies&quot;: The Lee Statue in the Capitol</a></h4><p><p>In the waning years of the Civil War, the Old Hall at the United States Capitol Building was converted into a statuary chamber. The vision informing the space was that each state would contribute two statues of prominent figures to the hall. In 19...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['statuary-hall-in-the-capitol'] = [];
+                points['statuary-hall-in-the-capitol'].push({'lat': 38.889943, 'long': -77.0116254, 'topic': 'statuary-hall-in-the-capitol', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Statuary-Hall---Lee">&quot;Glorifying Our Worst Enemies&quot;: The Lee Statue in the Capitol</a></h4><p><p>In the waning years of the Civil War, the Old Hall at the United States Capitol Building was converted into a statuary chamber. The vision informing the space was that each state would contribute two statues of prominent figures to the hall. In 19...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('stone-mountain-and-the-klan')) {
+                // if it is, add the new point to the array
+                points['stone-mountain-and-the-klan'].push({'lat': 33.8095887, 'long': -84.1484626, 'topic': 'stone-mountain-and-the-klan', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/The-Birthplace-of-the-Klan">Stone Mountain and the Resurrection of the Klan</a></h4><p><p>The history of the Ku Klux Klan is deeply intertwined with Stone Mountain. Black journalists have often referred to Georgia as the Klan’s birthplace and consistently linked Stone Mountain to their denunciation of the Klan’s actions.</p><p>The ori...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['stone-mountain-and-the-klan'] = [];
+                points['stone-mountain-and-the-klan'].push({'lat': 33.8095887, 'long': -84.1484626, 'topic': 'stone-mountain-and-the-klan', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/The-Birthplace-of-the-Klan">Stone Mountain and the Resurrection of the Klan</a></h4><p><p>The history of the Ku Klux Klan is deeply intertwined with Stone Mountain. Black journalists have often referred to Georgia as the Klan’s birthplace and consistently linked Stone Mountain to their denunciation of the Klan’s actions.</p><p>The ori...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('flag-politics')) {
+                // if it is, add the new point to the array
+                points['flag-politics'].push({'lat': 33.9998305, 'long': -81.0354818, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/The-NAACP-Boycott-of-South-Carolina">&quot;Push America Back from the Brink of Senseless Tribalism&quot;: The NAACP Response to the Confederate Battle Flag at the South Carolina Capitol</a></h4><p><p>In July 1999, the National Convention of the NAACP voted in favor of a tourism boycott of <a href="https://falseimage.pennds.org/essay/Removal-of-the-Confederate-Flag-from-the-S">South Carolina</a>. They were responding to the state’s continued di...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['flag-politics'] = [];
+                points['flag-politics'].push({'lat': 33.9998305, 'long': -81.0354818, 'topic': 'flag-politics', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/The-NAACP-Boycott-of-South-Carolina">&quot;Push America Back from the Brink of Senseless Tribalism&quot;: The NAACP Response to the Confederate Battle Flag at the South Carolina Capitol</a></h4><p><p>In July 1999, the National Convention of the NAACP voted in favor of a tourism boycott of <a href="https://falseimage.pennds.org/essay/Removal-of-the-Confederate-Flag-from-the-S">South Carolina</a>. They were responding to the state’s continued di...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('newspapers-cities-and-individual-authors')) {
+                // if it is, add the new point to the array
+                points['newspapers-cities-and-individual-authors'].push({'lat': 44.9777667, 'long': -93.2834648, 'topic': 'newspapers-cities-and-individual-authors', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/The-Twin-Cities">&quot;Nothing Quite So Dead as an Idea Tried and Found Wanting&quot;: Criticisms of Confederate Commemoration from the Twin Cities</a></h4><p><p>Minnesota’s Twin Cities—Minneapolis and St. Paul—share a strong tradition of Black commentary on Confederate commemoration stemming back to the late nineteenth century. The Twin Cities played host to four (or five, depending on how you count) Blac...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['newspapers-cities-and-individual-authors'] = [];
+                points['newspapers-cities-and-individual-authors'].push({'lat': 44.9777667, 'long': -93.2834648, 'topic': 'newspapers-cities-and-individual-authors', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/The-Twin-Cities">&quot;Nothing Quite So Dead as an Idea Tried and Found Wanting&quot;: Criticisms of Confederate Commemoration from the Twin Cities</a></h4><p><p>Minnesota’s Twin Cities—Minneapolis and St. Paul—share a strong tradition of Black commentary on Confederate commemoration stemming back to the late nineteenth century. The Twin Cities played host to four (or five, depending on how you count) Blac...</p>'});
+                
+            }
+        
+    
+        
+            // see if the topic is already in the points object
+            if (points.hasOwnProperty('monuments-and-locations')) {
+                // if it is, add the new point to the array
+                points['monuments-and-locations'].push({'lat': 36.0969323, 'long': -80.2437619, 'topic': 'monuments-and-locations', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Winston-Salem-Monument-to-Confederate-Dead">&quot;A Symbol of Enslavement and Secession&quot;: The Winston-Salem Monument to Confederate Dead</a></h4><p><p>In 2015, North Carolina implemented state legislation requiring the approval of the General Assembly for the removal of any monument on public property that commemorates “an event, a person or military service that is part of North Carolina’s hist...</p>'});
+            } else {
+                // if it isn't, create a new array with the point
+                points['monuments-and-locations'] = [];
+                points['monuments-and-locations'].push({'lat': 36.0969323, 'long': -80.2437619, 'topic': 'monuments-and-locations', 'popup': '<h4 class="fw-bold text-black"><a href="/essay/Winston-Salem-Monument-to-Confederate-Dead">&quot;A Symbol of Enslavement and Secession&quot;: The Winston-Salem Monument to Confederate Dead</a></h4><p><p>In 2015, North Carolina implemented state legislation requiring the approval of the General Assembly for the removal of any monument on public property that commemorates “an event, a person or military service that is part of North Carolina’s hist...</p>'});
+                
+            }
+        
+    
+
+    // loop through the points object and add the markers
+    for (let topic in points) {
+        // pick a color from colors
+        // save color to points object
+        for (let point of points[topic]) {
+            markers.addLayer(L.marker([
+                point.lat, point.long
+            ], {
+                title: point.topic,
+                icon: L.divIcon({
+                    className: 'my-div-icon',
+                    html: '<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="' + colorLookup[point.topic] + '" /></svg>'
+                })
+            }).bindPopup(point.popup));
+            map.addLayer(markers);
+            
+        }
+    }
+
+let adjustFilterbox = () => {
+    let filterbox = document.querySelector('#filter-box');
+    filterbox.style.top = map._container.offsetTop + 120 + 'px';
+}    
+adjustFilterbox();
+map.on('resize', adjustFilterbox);
+
+</script>
+    </div>
+  </body>
+</html>
