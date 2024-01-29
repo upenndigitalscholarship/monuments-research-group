@@ -19,9 +19,33 @@ h1 {
   line-height: 1.5;
 }
 
+h1, h2, h3, h4{
+  text-align: center;
+}
+
+blockquote{
+  margin-left: 4rem !important;
+  margin-right: 4rem !important;
+}
+
+.content-warning{
+  background-color: lightyellow;
+  margin: 2rem;
+  padding: 2rem;
+}
+
 .container-fluid {
   --bs-gutter-x: 10rem !important;
 
+}
+
+.navbar{
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.navbar-brand{
+  white-space: normal;
 }
 
 .no-bullets {

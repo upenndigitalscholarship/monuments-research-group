@@ -1,5 +1,9 @@
 /* required styles */
 
+a{
+	text-decoration: none !important;
+}
+
 .leaflet-pane,
 .leaflet-tile,
 .leaflet-marker-icon,
