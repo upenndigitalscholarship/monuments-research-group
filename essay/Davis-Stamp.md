@@ -8,9 +8,9 @@ topic: 'Newspapers, Cities, and Individual Authors'
 ---
 In 1960, a proposal was put forward to issue a postage stamp honoring CSA president Jefferson Davis. The _New Journal and Guide_ (Norfolk, VA) published a sharply critical response by local Episcopalian priest (and future bishop) Rev. Dr. Richard B. Martin.
 
-Martin began by pointing out that Davis "wanted slavery everywhere." Even before Secession, he wrote, as a freshman senator, Davis "fought to have all of the territories opened to slavery."\[^1] According to Martin, Davis was also a "man of severe blunders" and "was not a good judge of men and was constantly hampered by blunders in handling people."\[^2] Overall, he wrote, "Davis was a man controlled by strong pride and prejudice."\[^3]
+Martin began by pointing out that Davis "wanted slavery everywhere." Even before Secession, he wrote, as a freshman senator, Davis "fought to have all of the territories opened to slavery."[^1] According to Martin, Davis was also a "man of severe blunders" and "was not a good judge of men and was constantly hampered by blunders in handling people."[^2] Overall, he wrote, "Davis was a man controlled by strong pride and prejudice."[^3]
 
-Martin went on to discuss Davis's treason—his being "twice indicted" but never convicted. "After General Lee," the article asserted, "Jeff Davis is probably the second idiot in the minds of political leaders in the South."\[^4] Martin also expressed his frustration with the various "commemorative Davis markers and monuments in several states and numerous cities across the South."\[^5] Martin's concluding line expressed his deep hostility to Confederate commemoration, whether in monumental or postage stamp form: "In the drama of the crucifixion of the Carpenter of Nazareth," he observed, "there are names like Judas and Pontius Pilate, but we don't bother to name churches in their memory."
+Martin went on to discuss Davis's treason—his being "twice indicted" but never convicted. "After General Lee," the article asserted, "Jeff Davis is probably the second idiot in the minds of political leaders in the South."[^4] Martin also expressed his frustration with the various "commemorative Davis markers and monuments in several states and numerous cities across the South."[^5] Martin's concluding line expressed his deep hostility to Confederate commemoration, whether in monumental or postage stamp form: "In the drama of the crucifixion of the Carpenter of Nazareth," he observed, "there are names like Judas and Pontius Pilate, but we don't bother to name churches in their memory."
 
 _Justin Seward_
 
@@ -20,12 +20,12 @@ _Justin Seward_
 
 Martin, Richard B. "Jeff Davis' Picture On U.S. Postage Stamps?" _New Journal and Guide_, June 18, 1960, 8.
 
-\[^1]: Martin, Richard B., "Jeff Davis' Picture On U.S. Postage Stamps?"
+[^1]: Martin, Richard B., "Jeff Davis' Picture On U.S. Postage Stamps?"
 
-\[^2]: Martin, Richard B., "Jeff Davis' Picture On U.S. Postage Stamps?"
+[^2]: Martin, Richard B., "Jeff Davis' Picture On U.S. Postage Stamps?"
 
-\[^3]: Martin, Richard B., "Jeff Davis' Picture On U.S. Postage Stamps?"
+[^3]: Martin, Richard B., "Jeff Davis' Picture On U.S. Postage Stamps?"
 
-\[^4]: Martin, Richard B., "Jeff Davis' Picture On U.S. Postage Stamps?"
+[^4]: Martin, Richard B., "Jeff Davis' Picture On U.S. Postage Stamps?"
 
-\[^5]: Martin, Richard B., "Jeff Davis' Picture On U.S. Postage Stamps?"
+[^5]: Martin, Richard B., "Jeff Davis' Picture On U.S. Postage Stamps?"

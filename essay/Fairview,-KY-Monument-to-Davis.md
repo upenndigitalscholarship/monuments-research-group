@@ -4,9 +4,9 @@ lat: 36.841781
 long: -87.3025959
 topic: Monuments and Locations
 ---
-In 1909, the settlement of Fairview, KY dedicated a park to CSA President Jefferson Davis. The park commemorated Davis on "the 101^st^ anniversary of \[his] birth... at his birthplace," according to an article covering the event in the _Richmond Planet_.\[^1] A monument was designed and finally completed in 1924, which at the time was believed to be "the second highest shaft in the United States" at 361 feet, falling short only of the Washington Monument in D.C.\[^2]
+In 1909, the settlement of Fairview, KY dedicated a park to CSA President Jefferson Davis. The park commemorated Davis on "the 101^st^ anniversary of \[his\] birth... at his birthplace," according to an article covering the event in the _Richmond Planet_.[^1] A monument was designed and finally completed in 1924, which at the time was believed to be "the second highest shaft in the United States" at 361 feet, falling short only of the Washington Monument in D.C.[^2]
 
-When the monument came up, the _Chicago Defender_ published a column by [Roscoe Simmons](https://falseimage.pennds.org/essay/Roscoe-Simmons), a Black journalist and activist—known as a powerful orator—describing his encounter with the obelisk, which he referred to as "that reminder of a great intellect, a lost cause, the weakness of human judgment, the hand of God."\[^3]
+When the monument came up, the _Chicago Defender_ published a column by [Roscoe Simmons](https://falseimage.pennds.org/essay/Roscoe-Simmons), a Black journalist and activist—known as a powerful orator—describing his encounter with the obelisk, which he referred to as "that reminder of a great intellect, a lost cause, the weakness of human judgment, the hand of God."[^3]
 
 Simmons described how he had traveled with a group of Black intellectuals to Attucks High School to discuss the state of Black education. This was the prompt for him to reflect:
 
@@ -26,8 +26,8 @@ _St. Paul Recorder_. "Roscoe Simmons, Orator Par Excellence." _St. Paul Recorder
 
 _Chicago Defender_. "The Davis Monument." _Chicago Defender_, June 14, 1924
 
-\[^1]: _Richmond Planet_, "Jefferson Davis Memorial."
+[^1]: _Richmond Planet_, "Jefferson Davis Memorial."
 
-\[^2]: _Chicago Defender_, "The Davis Monument."
+[^2]: _Chicago Defender_, "The Davis Monument."
 
-\[^3]: _St. Paul Recorder_, "Roscoe Simmons, Orator Par Excellence."
+[^3]: _St. Paul Recorder_, "Roscoe Simmons, Orator Par Excellence."
