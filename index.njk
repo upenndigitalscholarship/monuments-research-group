@@ -216,6 +216,7 @@ layout: base.njk
 let adjustFilterbox = () => {
     let filterbox = document.querySelector('#filter-box');
     filterbox.style.top = map._container.offsetTop + 120 + 'px';
+    filterbox.style.left = map._container.offsetLeft + 20 + 'px';
 }    
 adjustFilterbox();
 map.on('resize', adjustFilterbox);
