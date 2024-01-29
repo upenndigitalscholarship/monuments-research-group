@@ -28,6 +28,12 @@ blockquote{
   margin-right: 4rem !important;
 }
 
+img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
 .content-warning{
   background-color: lightyellow;
   margin: 2rem;
@@ -46,6 +52,11 @@ blockquote{
 
 .navbar-brand{
   white-space: normal;
+}
+
+.list-group-item{
+  border: none;
+  text-align: center;
 }
 
 .no-bullets {
