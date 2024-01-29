@@ -6,11 +6,11 @@ topic: Statuary Hall in the Capitol
 ---
 During the Jim Crow era, the state of Mississippi chose CSA president Jefferson Davis as one of two Mississippians to be honored in Statuary Hall at the United States Capitol. The statue was sculpted by Augustus Lukeman (who had [briefly been contracted to work on Stone Mountain](https://falseimage.pennds.org/essay/Let-Stone-Mountain-Alone)) and finished in 1931.
 
-The campaign to place a Davis statue in the Capitol did not go unremarked by Black journalists. In a 1914 article, the _Appeal_ (St. Paul, MN) roundly condemned the effort. The unsigned opinion piece highlighted Davis's role in the perpetuation of racial injustice. Davis, the article stated, was "the arch traitor who tried to disrupt the Union in order that human slavery should be preserved and extended."\[^1] The article criticized the state which had submitted Davis—"the more or less grand old Commonwealth of Mississippi"—for disenfranchising Black Americans and "contribut\[ing] to the world the greatest number of lynchings which have taken place in any state in the Union."\[^2]
+The campaign to place a Davis statue in the Capitol did not go unremarked by Black journalists. In a 1914 article, the _Appeal_ (St. Paul, MN) roundly condemned the effort. The unsigned opinion piece highlighted Davis's role in the perpetuation of racial injustice. Davis, the article stated, was "the arch traitor who tried to disrupt the Union in order that human slavery should be preserved and extended."[^1] The article criticized the state which had submitted Davis—"the more or less grand old Commonwealth of Mississippi"—for disenfranchising Black Americans and "contribut\[ing\] to the world the greatest number of lynchings which have taken place in any state in the Union."[^2]
 
 The article concluded with a stirring indictment linking contemporary anti-Black violence and discrimination to the heritage of the Confederacy:
 
-> What is to be the end of a Nation which permits its citizens to be murdered by mobs; accepts as Senators men who openly boast in the Senate Chamber of the murder of their fellows; a Nation which attempts to degrade some of its citizenry by discriminatory laws and allows the segregation as lepers of men and women who have won their places after severe test; and in spite of the prejudice against them? A statue of Jeff Davis in the Capitol at Washington! God preserve our Nation!\[^3]
+> What is to be the end of a Nation which permits its citizens to be murdered by mobs; accepts as Senators men who openly boast in the Senate Chamber of the murder of their fellows; a Nation which attempts to degrade some of its citizenry by discriminatory laws and allows the segregation as lepers of men and women who have won their places after severe test; and in spite of the prejudice against them? A statue of Jeff Davis in the Capitol at Washington! God preserve our Nation![^3]
 
 Mississippi's Davis statue remains in Statuary Hall as of the time of this writing in 2024.
 
@@ -22,8 +22,8 @@ _Justin Seward_
 
 _Appeal_. "Jeff Davis in the Capitol." _Appeal_, April 11, 1914, 2.
 
-\[^1]: _Appeal_, "Jeff Davis in the Capitol."
+[^1]: _Appeal_, "Jeff Davis in the Capitol."
 
-\[^2]: _Appeal_, "Jeff Davis in the Capitol."
+[^2]: _Appeal_, "Jeff Davis in the Capitol."
 
-\[^3]: _Appeal_, "Jeff Davis in the Capitol."
+[^3]: _Appeal_, "Jeff Davis in the Capitol."
