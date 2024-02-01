@@ -12,7 +12,7 @@ Begun at the University of Pennsylvania in 2022, this project set out to build a
 
 Generous funding and support were provided by a number of sources, including the [Center for Undergraduate Research and Fellowships](https://curf.upenn.edu/), the [Center for the Study of Race, Ethnicity, and Immigration](https://cseri.sas.upenn.edu/), and the [Price Lab for Digital Humanities](https://pricelab.sas.upenn.edu/).
 
-This project documents racism and oppression and contains disturbing images, language, and references to historical events.
+
 
 # People
 
