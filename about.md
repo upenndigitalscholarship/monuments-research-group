@@ -20,7 +20,7 @@ Generous funding and support were provided by a number of sources, including the
 
 ## People
 
-### Donovan Schaefer
+#### Donovan Schaefer
 
 <img src="/assets/media/2b.jpg" class="img-fluid" style="width:200px" alt="Picture of Donovan Schaefer">
 
@@ -28,7 +28,7 @@ Donovan Schaefer is an associate professor in the Department of Religious Studie
 
 <br style="clear:both" />
 
-### Olivia Haynie
+#### Olivia Haynie
 
 <img src="/assets/media/olivia-haynie-photo.jpg" class="img-fluid" style="width:200px" alt="Picture of Olivia Haynie">
 
@@ -38,7 +38,7 @@ Olivia Haynie is a member of the Class of 2024 in the College of Arts and Scienc
 
 <br style="clear:both" />
 
-### Justin J. Seward
+#### Justin J. Seward
 
 <img src="/assets/media/justin-seward-photo.jpg" class="img-fluid" style="width:200px" alt="Picture of Justin J. Seward">
 
