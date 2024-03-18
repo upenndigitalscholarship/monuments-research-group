@@ -46,6 +46,8 @@ Justin J. Seward is a student in the College of Arts and Sciences at the Univers
 
 *Confederate monuments are not just symbols of hatred and white supremacy, they are perpetuators of it. Lynchings, cross burnings, and KKK rituals are rudimentary parts of the existence of Confederate monuments, where they were not passive symbols but active sites promoting white supremacy. Beyond individual instances of racism, their collective existence is a monument to the spirit of white supremacy and the systemic racism that continues to grip this country and its history. As white people debated whether the monuments reflected history or treason, Black people called out their true nature.* - Justin Seward
 
+<br style="clear:both" />
+
 #### Liv McClary
 
 Liv McClary is a senior in the College of Arts and Sciences (Class of 2024). Pursuing a degree in History and Religious Studies, she is the Editor-in-Chief of the Penn History Review, a member of the History Undergraduate Advisory Board, and an RA in Lauder College House. 
