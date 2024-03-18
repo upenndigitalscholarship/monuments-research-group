@@ -2,6 +2,8 @@
 title: Introduction
 layout: base.njk
 ---
+<br><br>
+
 ## "To Perpetuate a False Image of History"
 
 ### Perspectives on Confederate Commemoration from the Black Press
