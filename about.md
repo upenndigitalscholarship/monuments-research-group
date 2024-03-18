@@ -24,6 +24,8 @@ Generous funding and support were provided by a number of sources, including the
 
 Donovan Schaefer is an associate professor in the Department of Religious Studies at the University of Pennsylvania. After completing his doctorate in Religion at Syracuse University in 2012, he took up a two-year Mellon Postdoctoral Fellowship at Haverford College. He then moved to the University of Oxford, where he served from 2014 to 2017 as Departmental Lecturer in Science and Religion. He began working at Penn in 2017. His research interests include a range of topics related to the politics of feeling/affect/emotion and their links with science, religion, secularism, and material culture. His published works include the books *Religious Affects: Animality, Evolution, and Power* (Duke 2015), *The Evolution of Affect Theory: The Humanities, The Sciences, and the Study of Power* (Cambridge 2019), and *Wild Experiment: Feeling Science and Secularism after Darwin* (Duke 2022), as well as journal articles in *Cultural Critique*, *GLQ*, *Hypatia*, and *Angelaki*, among others. His current research considers the affects and politics of public material culture, especially Confederate commemoration.
 
+<br style="clear:both" />
+
 ## Olivia Haynie
 
 <img src="/assets/media/olivia-haynie-photo.jpg" class="img-fluid" style="width:200px" alt="Picture of Olivia Haynie">
@@ -31,6 +33,8 @@ Donovan Schaefer is an associate professor in the Department of Religious Studie
 Olivia Haynie is a member of the Class of 2024 in the College of Arts and Sciences at the University of Pennsylvania. She is majoring in Sociology and minoring in Religious Studies. Her research interests center around identity formation, race, religion, and nationalism. She has been a part of this project since the Summer of 2022. She is a member of the 2022–2025 Cohort of the Center for Advancing Multimodal Research and Arts Fellowship at Penn.
 
 *Many of the articles presented Confederate monument controversy as only affecting Blacks and as a symbolic issue alone. However, the erection of these Confederate monuments was spurred by institutional racism, which affects everyone in the United States regardless of race. Additionally, the problem is not just the monuments’ existence but that people wanted them up in the first place and why. Further investigation into how language places people within this issue—or removes them from it—could shed light on why the Confederate monument controvery has been drawn out for over a century.* - Olivia Haynie
+
+<br style="clear:both" />
 
 ## Justin J. Seward
 
