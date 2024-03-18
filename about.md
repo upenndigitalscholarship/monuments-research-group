@@ -10,15 +10,15 @@ layout: base.njk
 
 </div>
 
-# About
+## About
 
 Begun at the University of Pennsylvania in 2022, this project set out to build a database of responses to Confederate commemoration from the Black press. The database eventually grew to include over 2000 articles from over 150 Black newspapers dating as far back as 1869. Our student researchers wrote over 30 articles offering windows into the stories told by this collection. The [Price Lab for Digital Humanities](https://pricelab.sas.upenn.edu/) and the [Center for Research Data and Digital Scholarship](https://www.library.upenn.edu/rdds) built this website.
 
 Generous funding and support were provided by a number of sources, including the [Center for Undergraduate Research and Fellowships](https://curf.upenn.edu/), the [Center for the Study of Race, Ethnicity, and Immigration](https://cseri.sas.upenn.edu/), and the [Price Lab for Digital Humanities](https://pricelab.sas.upenn.edu/).
 
-# People
+## People
 
-## Donovan Schaefer
+### Donovan Schaefer
 
 <img src="/assets/media/2b.jpg" class="img-fluid" style="width:200px" alt="Picture of Donovan Schaefer">
 
@@ -26,7 +26,7 @@ Donovan Schaefer is an associate professor in the Department of Religious Studie
 
 <br style="clear:both" />
 
-## Olivia Haynie
+### Olivia Haynie
 
 <img src="/assets/media/olivia-haynie-photo.jpg" class="img-fluid" style="width:200px" alt="Picture of Olivia Haynie">
 
@@ -36,7 +36,7 @@ Olivia Haynie is a member of the Class of 2024 in the College of Arts and Scienc
 
 <br style="clear:both" />
 
-## Justin J. Seward
+### Justin J. Seward
 
 <img src="/assets/media/justin-seward-photo.jpg" class="img-fluid" style="width:200px" alt="Picture of Justin J. Seward">
 
@@ -44,7 +44,7 @@ Justin J. Seward is a student in the College of Arts and Sciences at the Univers
 
 *Confederate monuments are not just symbols of hatred and white supremacy, they are perpetuators of it. Lynchings, cross burnings, and KKK rituals are rudimentary parts of the existence of Confederate monuments, where they were not passive symbols but active sites promoting white supremacy. Beyond individual instances of racism, their collective existence is a monument to the spirit of white supremacy and the systemic racism that continues to grip this country and its history. As white people debated whether the monuments reflected history or treason, Black people called out their true nature.* - Justin Seward
 
-## Liv McClary
+### Liv McClary
 
 Liv McClary is a senior in the College of Arts and Sciences (Class of 2024). Pursuing a degree in History and Religious Studies, she is the Editor-in-Chief of the Penn History Review, a member of the History Undergraduate Advisory Board, and an RA in Lauder College House. 
 
