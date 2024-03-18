@@ -10,13 +10,13 @@ Begun at the University of Pennsylvania in 2022, this project set out to build a
 
 Generous funding and support were provided by a number of sources, including the [Center for Undergraduate Research and Fellowships](https://curf.upenn.edu/), the [Center for the Study of Race, Ethnicity, and Immigration](https://cseri.sas.upenn.edu/), and the [Price Lab for Digital Humanities](https://pricelab.sas.upenn.edu/).
 
-
-
 <div class="content-warning">
 
 *Black journalists in the post-Reconstruction era unflinchingly documented the white supremacist violence, both physical and psychological, inflicted on Black people during this period. Wherever possible, we have used the language and descriptions presented in these materials to faithfully convey the pain and sense of urgency of their moment. Readers can expect to find offensive language and references to violent episodes in these articles.*
 
 </div>
+
+<hr>
 
 ## People
 
