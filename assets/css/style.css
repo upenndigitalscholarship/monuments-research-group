@@ -1,31 +1,44 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Gentium+Book+Plus&display=swap');
 
 :root {
-  --bs-gutter-x: 10rem !important;
+  --bs-gutter-x: 30vw !important;
 }
 
 body {
-  font-family: 'Gentium Book Plus', serif;
+  font-family: 'Helvetica', sans-serif;
+}
+
+p a {
+  color: black;
+  background-color: blanchedalmond;
+}
+
+.leaflet-container a {
+  color: black !important;
 }
 
 p {
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 1.2rem;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 1rem;
   line-height: 1.5;
 }
 h1 {
-  font-family: 'Gentium Book Plus', serif;
+  font-family: 'Avenir', sans-serif;
   font-size: 2.5rem;
   line-height: 1.5;
 }
 
 h1, h2, h3, h4{
   text-align: center;
+  font-family: 'Avenir', sans-serif;
 }
 
 blockquote{
-  margin-left: 4rem !important;
+  margin-left: 2rem !important;
   margin-right: 4rem !important;
+  padding-left: 2rem !important;
+  border-left: 7px solid #ffd89d;
+  font-style: italic;
 }
 
 img{
@@ -34,14 +47,53 @@ img{
   display: block;
 }
 
+.footnotes{
+  background-color: #e9e9e9;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.btn:hover {
+  border-color:#fff2df ;
+  background-color: #fff2df;
+}
+
+.btn-dark:hover{
+  background-color: darkgray !important;
+}
+
+.img-fluid{
+  float: left;
+  padding: 20px;
+}
+
+.essay-link{
+/*  text-decoration:underline 2px #ffd89d;
+*/
+  text-decoration: none;
+  font-style: italic;
+}
+.essay-link:hover{
+/*  background-color: lightyellow;
+*/  text-decoration:underline 2px #ffd89d;
+}
+
 .content-warning{
-  background-color: lightyellow;
-  margin: 2rem;
-  padding: 2rem;
+  background-color: #fff2df;
+/*  margin: 1rem;
+*/  padding: 1rem;
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .container-fluid {
-  --bs-gutter-x: 10rem !important;
+  --bs-gutter-x: 30vw !important;
+
+}
+
+.navbar > .container-fluid {
+  --bs-gutter-x: 0px !important;
 
 }
 
@@ -77,13 +129,13 @@ img{
 	-moz-transition: -moz-stroke-dashoffset 0.3s ease-out, -moz-stroke-opacity 0.3s ease-in;
 	-o-transition: -o-stroke-dashoffset 0.3s ease-out, -o-stroke-opacity 0.3s ease-in;
 	transition: stroke-dashoffset 0.3s ease-out, stroke-opacity 0.3s ease-in;
-  color: aliceblue;
+  color: white;
 }
 
-.marker-cluster-small div {
-  background-color: rgba(240, 194, 12, 0.6);
+.marker-cluster-small div, .marker-cluster-medium div, .marker-cluster-small, .marker-cluster-medium {
+  background-color: rgba(255,255,255, 0.6) !important;
 }
 
 .leaflet-container a {
-  color: #070707;
+  color: white;
 }

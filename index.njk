@@ -3,31 +3,41 @@ title: Main
 layout: base.njk
 ---
 
-<div class="card">
-    <div class="card-body">
-        <h3>Welcome to the Perspectives on Confederate Commemoration from the Black Press project!</h3>
 
-        <p>The articles gathered here tell the stories of how Black journalists from the late nineteenth century to the present viewed efforts by white Southerners to celebrate the Confederacy in the long aftermath of the US Civil War.</p>
-
-        <p>Read an <a href="introduction">introduction to the project here</a> or <a href="essays">start browsing.</a></p>
-        
-        <div class="content-warning">
-        <em>Black journalists in the post-Reconstruction era unflinchingly documented the white supremacist violence, both physical and psychological, inflicted on Black people during this period. Wherever possible, we have used the language and descriptions presented in these materials to faithfully convey the pain and sense of urgency of their moment. Readers can expect to find offensive language and references to violent episodes in these articles.</em>
-        </div>
-    </div>
-</div>
 
 <div id="filter-box">
+    <div class="card" style="border:none">
+    <div class="card-body" style="margin:12px; padding: 12px; border: 1px black solid">
+<!--         <h3>Welcome to the Perspectives on Confederate Commemoration from the Black Press project!</h3>
+ -->
+        <p style="font-size:0.9rem; line-height:1.1">The articles gathered here tell the stories of how Black journalists from the late nineteenth century to the present viewed efforts by white Southerners to celebrate the Confederacy in the long aftermath of the US Civil War.</p>
+
+        <p style="font-size:0.9rem; line-height:1.1">Read an <a href="introduction">introduction to the project here</a> or <a href="essays">start browsing.</a></p>
+        
+        <hr>
+
+                    <div class="content-warning">
+                        
+        <p style="font-size:0.9em; line-height:1.1">
+        <b>Content warning</b>
+        <em>Black journalists in the post-Reconstruction era unflinchingly documented the white supremacist violence, both physical and psychological, inflicted on Black people during this period. Wherever possible, we have used the language and descriptions presented in these materials to faithfully convey the pain and sense of urgency of their moment. Readers can expect to find offensive language and references to violent episodes in these articles.</em>
+    </p>
+
+    </div>
+
+        </div>
+    
+</div>
     {# for each unique lable in collections.essays , add a button #}
     <script>
         let colors = [
-                '#ff0000',
-                '#00ff00',
-                '#0000ff',
-                '#ffff00',
-                '#00ffff',
-                '#ff00ff',
-                '#ffffff'
+                '#66c2a5',
+                '#fc8d62',
+                '#8da0cb',
+                '#e78ac3',
+                '#a6d854',
+                '#ffd92f',
+                '#e5c494'
             ]
             let colorLookup = {}
             {% for essay in collections.essays %}
@@ -43,10 +53,10 @@ layout: base.njk
                 {% endif %}
             {% endfor %}
     </script>
-    <div class="card bg-black" style="width: 18rem;">
+    <div class="card bg-light" style="border:none">
 
     {% for topic in collections.essays | getUniqueTopics %}
-        <button type="button" class="btn btn-dark filter-button" data-label="{{ topic | slugify }}">{{ topic }}</button><br>
+        <button style="max-width:90%" type="button" class="btn btn-light filter-button" data-label="{{ topic | slugify }}">{{ topic }}</button><br>
         {# add event to button on click #}
         <script>
             
@@ -88,7 +98,7 @@ layout: base.njk
                 });
             document
                 .querySelector('[data-label="{{ topic | slugify }}"]')
-                .insertAdjacentHTML('beforeend', `&nbsp;&nbsp;<svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['{{ topic | slugify }}']}" /></svg>`)
+                .insertAdjacentHTML('beforeend', `&nbsp;&nbsp;<svg style="float:right" width="20" height="20"><circle cx="10" cy="10" r="10" fill="${colorLookup['{{ topic | slugify }}']}" /></svg>`)
         </script>
         
     {% endfor %}
@@ -133,25 +143,34 @@ layout: base.njk
 </div>
 
 <style>
+    .container-fluid{
+        --bs-gutter-x: 0px !important;
+        margin-top: 0px !important;
+    }
     #map {
-        height: 70vh;
+        height: 90vh;
+        width: 69vw;
+        display: inline-block;
         border-radius: 5px;
     }
 
     #filter-box {
-        position: absolute;
-        top: 40vh;
-        left: 20px;
+        vertical-align: top;
+        height: 100%;
+        width: 29vw;
+        display: inline-block;
         z-index: 999;
     }
 
     .filter-button {
-        margin-bottom: 10px;
+        margin-bottom: 5px;
+        font-size: 0.9rem;
     }
 </style>
 
 <div id="map"></div>
 
+</div>
 
 
 
@@ -213,12 +232,12 @@ layout: base.njk
         }
     }
 
-let adjustFilterbox = () => {
-    let filterbox = document.querySelector('#filter-box');
-    filterbox.style.top = map._container.offsetTop + 120 + 'px';
-    filterbox.style.left = map._container.offsetLeft + 20 + 'px';
-}    
-adjustFilterbox();
-map.on('resize', adjustFilterbox);
+// let adjustFilterbox = () => {
+//     let filterbox = document.querySelector('#filter-box');
+//     filterbox.style.top = map._container.offsetTop + 120 + 'px';
+//     filterbox.style.left = map._container.offsetLeft + 20 + 'px';
+// }    
+// adjustFilterbox();
+// map.on('resize', adjustFilterbox);
 
 </script>

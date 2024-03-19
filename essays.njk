@@ -10,11 +10,11 @@ layout: base.njk
   <p></p>
   <ul class="list no-bullets list-group">
     {% for topic in collections.essays | getUniqueTopics %}
-    <li class="list-group-item"><h3>{{ topic }}</h3></li>
+    <li class="list-group-item"><h3 style="background-color:#e9e9e9; padding:5px">{{ topic }}</h3></li>
       {% for essay in collections.essays %}
         {% if essay.data.topic == topic %}
           <li class="list-group-item">
-            <a href="/essay/{{ essay.fileSlug }}">
+            <a class="essay-link" href="/essay/{{ essay.fileSlug }}">
               <h6 class="title" style="color:black;">{{ essay.data.title }}</h6>
             </a>
           </li>
