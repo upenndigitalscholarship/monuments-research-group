@@ -116,9 +116,13 @@ collections:
       - label: "Latitude"
         name: "lat"
         widget: "number"
+        value_type: "float"
+        step: 0
       - label: "Longitude"
         name: "long"
         widget: "number"
+        value_type: "float"
+        step: 0
       # Text
       - label: "Text" 
         name: "body" 
