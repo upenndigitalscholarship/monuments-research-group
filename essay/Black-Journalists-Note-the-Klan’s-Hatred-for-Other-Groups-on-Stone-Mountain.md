@@ -16,9 +16,11 @@ Eleven months later, the *[Weekly Review](https://www.newspapers.com/paper/the-w
 
 *Justin Seward*
 
-*<br><br>*
+*<br>*
 
 *<hr>*
+
+*<br>*
 
 **References**
 
