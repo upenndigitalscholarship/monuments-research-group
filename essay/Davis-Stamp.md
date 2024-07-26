@@ -17,6 +17,8 @@ Martin went on to discuss Davis's treason—his being "twice indicted" but never
 
 *<hr>*
 
+*<br>*
+
 **References**
 
 Martin, Richard B. "[Jeff Davis' Picture On U.S. Postage Stamps?](https://www.proquest.com/docview/568598550/EF376D4E7914EB5PQ/84?accountid=14707&sourcetype=Historical%20Newspapers)" *New Journal and Guide*, June 18, 1960, 8.
