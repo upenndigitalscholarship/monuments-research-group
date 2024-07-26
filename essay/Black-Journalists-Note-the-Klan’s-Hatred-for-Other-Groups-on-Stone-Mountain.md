@@ -16,17 +16,13 @@ Eleven months later, the *[Weekly Review](https://www.newspapers.com/paper/the-w
 
 *Justin Seward*
 
-
-
 **References**
 
-1. Bigart, Homer. "[99 Years of Ku Klux Klan: It All Started Innocently...](https://www.newspapers.com/paper/tampa-bay-times/5744/)," *Tampa Bay Times*, March 28, 1965, 60.
-2. *New York Age*. "[Ku Klux Klan Missionaries](https://www.newspapers.com/paper/the-new-york-age/893/?locale=en-US)," October 30, 1920.
-3. *Detroit Tribune*. "[The Klan Girds Again](https://www.newspapers.com/paper/the-detroit-tribune/23929/)," October 27, 1945.
-4. *Detroit Tribune*. "[The Klan Girds Again](https://www.newspapers.com/paper/the-detroit-tribune/23929/)," October 27, 1945.
-5. Scarr, Bernice. "[Ku Klux Klan Still Is Real Danger to Negroes Catholics Jews and Labor](https://www.newspapers.com/paper/the-weekly-review/18428/)," *Weekly Review*, January 6, 1945.
-6. Rice, C.W. "[No Fear of KKK](https://www.newspapers.com/paper/the-weekly-review/18428/)," *Weekly Review*, December 8, 1945.
-7. Rice, C.W. "[No Fear of KKK](https://www.newspapers.com/paper/the-weekly-review/18428/)," *Weekly Review*, December 8, 1945.
+* Bigart, Homer. "[99 Years of Ku Klux Klan: It All Started Innocently...](https://www.newspapers.com/paper/tampa-bay-times/5744/)," *Tampa Bay Times*, March 28, 1965, 60.
+* *Detroit Tribune*. "[The Klan Girds Again](https://www.newspapers.com/paper/the-detroit-tribune/23929/)," October 27, 1945.
+* *New York Age*. "[Ku Klux Klan Missionaries](https://www.newspapers.com/paper/the-new-york-age/893/?locale=en-US)," October 30, 1920.
+* Rice, C.W. "[No Fear of KKK](https://www.newspapers.com/paper/the-weekly-review/18428/)," *Weekly Review*, December 8, 1945.
+* Scarr, Bernice. "[Ku Klux Klan Still Is Real Danger to Negroes Catholics Jews and Labor](https://www.newspapers.com/paper/the-weekly-review/18428/)," *Weekly Review*, January 6, 1945.
 
 [^1]: Bigart, Homer. "[99 Years of Ku Klux Klan: It All Started Innocently...](https://www.newspapers.com/paper/tampa-bay-times/5744/)"
 [^2]: *New York Age*. "[Ku Klux Klan Missionaries](https://www.newspapers.com/paper/the-new-york-age/893/?locale=en-US)"
