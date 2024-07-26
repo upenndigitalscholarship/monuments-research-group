@@ -4,7 +4,7 @@ lat: 33.805423
 long: -84.1634489
 topic: Stone Mountain and the Klan
 ---
-Although formed as a violent reaction against Black enfranchisement during Reconstruction, the Ku Klux Klan also supported nativism, anti-Catholicism, and antisemitism. When the [second Klan emerged on Stone Mountain in 1915](https://falseimage.pennds.org/essay/Fiery-Crosses-Symbolize-a-Revival-on-Stone-Mountain), the rebirthed organization formally adopted these tenets.[^1](Bigart, "99 Years of Ku Klux Klan: It All Started Innocently...,") Stone Mountain at that time was nothing more than a mammoth block of granite, but it had already been envisioned as the site of a future Confederate monument and so came to serve as a driver of Klan organizing. Black reporters were keenly aware that they were not alone in being targeted by the Klan's hatred. They frequently reminded their readers of the scope of the Klan's hostilities, painting the Klan as a fringe hate group that threatened wide swathes of US society.
+Although formed as a violent reaction against Black enfranchisement during Reconstruction, the Ku Klux Klan also supported nativism, anti-Catholicism, and antisemitism. When the [second Klan emerged on Stone Mountain in 1915](https://falseimage.pennds.org/essay/Fiery-Crosses-Symbolize-a-Revival-on-Stone-Mountain), the rebirthed organization formally adopted these tenets.[[^1]](Bigart, "99 Years of Ku Klux Klan: It All Started Innocently...,") Stone Mountain at that time was nothing more than a mammoth block of granite, but it had already been envisioned as the site of a future Confederate monument and so came to serve as a driver of Klan organizing. Black reporters were keenly aware that they were not alone in being targeted by the Klan's hatred. They frequently reminded their readers of the scope of the Klan's hostilities, painting the Klan as a fringe hate group that threatened wide swathes of US society.
 
 In 1920, the *[New York Age](https://www.newspapers.com/paper/the-new-york-age/893/?locale=en-US)* noted the Klan's membership requirements as follows: "\[It is stated that] no one not born in the United States is eligible to membership and that no Catholic or Jew can become a member," before adding "this is a discreditable reflection on native Americans and a badge of distinction for Catholics and Jews."[^2]
 
@@ -42,6 +42,6 @@ Scarr, Bernice. "[Ku Klux Klan Still Is Real Danger to Negroes Catholics Jews an
 
 [^4]: *Detroit Tribune*, "[The Klan Girds Again](https://www.newspapers.com/paper/the-detroit-tribune/23929/)."
 
-[^6]: Rice, "[No Fear of KKK](https://www.newspapers.com/paper/the-weekly-review/18428/)"
+[^6]: Rice, "[No Fear of KKK](https://www.newspapers.com/paper/the-weekly-review/18428/)."
 
-[^7]: Rice, "[No Fear of KKK](https://www.newspapers.com/paper/the-weekly-review/18428/)"
+[^7]: Rice, "[No Fear of KKK](https://www.newspapers.com/paper/the-weekly-review/18428/)."
