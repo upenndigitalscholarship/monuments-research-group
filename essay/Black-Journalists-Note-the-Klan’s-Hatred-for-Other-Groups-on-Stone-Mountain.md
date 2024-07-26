@@ -16,6 +16,8 @@ Eleven months later, the *[Weekly Review](https://www.newspapers.com/paper/the-w
 
 *Justin Seward*
 
+
+
 **References**
 
 1. Bigart, Homer. "[99 Years of Ku Klux Klan: It All Started Innocently...](https://www.newspapers.com/paper/tampa-bay-times/5744/)," *Tampa Bay Times*, March 28, 1965, 60.
