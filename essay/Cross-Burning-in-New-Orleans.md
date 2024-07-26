@@ -12,6 +12,10 @@ In 1956, the *[California Eagle](https://www.newspapers.com/paper/california-eag
 
 *Justin Seward*
 
+*<br>*
+
+*<hr>*
+
 **References**
 
 *Arizona Sun*. "[New Appearance of Old Symbol](https://www.newspapers.com/paper/arizona-sun/30420/)." March 8, 1956, 7.
