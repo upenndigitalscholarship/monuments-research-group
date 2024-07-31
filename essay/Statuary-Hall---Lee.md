@@ -27,8 +27,6 @@ In 2020, the Commonwealth of Virginia voluntarily removed the Lee bronze in Stat
 
 *Justin Seward*
 
-*Photograph courtesy of Donovan Schaefer*
-
 *<br>*
 
 *<hr>*
