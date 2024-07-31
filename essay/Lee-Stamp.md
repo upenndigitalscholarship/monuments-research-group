@@ -36,7 +36,7 @@ Rogers, J.A. "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.n
 
 [^1]: Rogers, J.A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
 
-[^2]: There is no record of a stamp printed on April 15^th^ of Lee alone. Mystic Stamp Company, "1937 4c Army and Navy."
+[^2]: There is no record of a stamp printed on April 15<sup>th</sup> of Lee alone. Mystic Stamp Company, "1937 4c Army and Navy."
 
 [^3]: Rogers, J.A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
 
