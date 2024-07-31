@@ -5,8 +5,7 @@ lat: 37.55382
 long: -77.460236
 topic: Monument Avenue in Richmond
 ---
-In 1890, the district that would become Richmond's Monument Avenue was still largely rural. But changes began that year with the placing of Monument Avenue's first and largest statue. Antonin Mercié's colossal figure of Robert E. Lee on horseback towered over the wide avenue of the newborn whites-only suburb of the former capital of the Confederacy. The Lee monument was also the last Confederate sculpture on Monument Avenue
-to be removed—in September 2021—amid a national movement against racial injustice after the murder of George Floyd.[^1] 
+In 1890, the district that would become Richmond's Monument Avenue was still largely rural. But changes began that year with the placing of Monument Avenue's first and largest statue. Antonin Mercié's colossal figure of Robert E. Lee on horseback towered over the wide avenue of the newborn whites-only suburb of the former capital of the Confederacy. The Lee monument was also the last Confederate sculpture on Monument Avenue to be removed—in September 2021—amid a national movement against racial injustice after the murder of George Floyd.[^1] 
 
 But criticism of the monument was not new. Black reporters covered the monument campaign from the mid-1880s through to its unveiling, mostly expressing sharp criticism of the decision to commemorate Lee, though an 1887 piece from the *Huntsville Gazette* merely reported on some correspondence surrounding the cornerstone-laying and remarked that "Arrangements have been projected for making the laying of the cornerstone of the Lee monument an interesting event."[^2]
 
