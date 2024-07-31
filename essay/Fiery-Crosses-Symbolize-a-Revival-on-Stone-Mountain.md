@@ -18,6 +18,12 @@ The *[Cleveland Call](https://www.proquest.com/docview/184164600/F0CF95FFA3324C8
 
 > More than 700 white-sheeted Georgia Crackers assembled last week atop historic Stone Mountain near here to herald the rebirth of the notorious Ku Klux Klan, dedicated to 'white supremacy.' The bigoted bed-sheeters held a 2-hour, torch-lighted celebration a few hundred yards from the Confederate memorial which never should have been built.[^13]
 
+<br>
+
+<hr>
+
+<br>
+
 **References**
 
 *Cleveland Call*. "[Ku Klux Burns Fiery Crosses to Signal Rebirth in Dixie](https://www.proquest.com/docview/184164600/F0CF95FFA3324C82PQ/254?accountid=14707&sourcetype=Historical%20Newspapers)." May 18, 1946, 12B.
