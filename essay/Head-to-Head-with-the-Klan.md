@@ -18,6 +18,12 @@ Pearson contended that the Confederate heroes idolized by the Klan would be asha
 
 *Justin Seward*
 
+*<br>*
+
+*<hr>*
+
+*<br>*
+
 **References**
 
 Pearson, Drew. "[Hitlerian Diseases in USA Year After Germany's Defeat](https://www.newspapers.com/paper/tampa-bay-times/5744/)." *Tampa Bay Times,* May 8, 1946.
