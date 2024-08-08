@@ -45,15 +45,15 @@ McCann, Mac. “Written in Stone.” \*Austin Chronicle\*. May 29, 2015. <https:
 \*Dallas Express\*, “\[Henry Lincoln Johnson Make Visit to Georgia and Speaks to Large Crowd](https://www.loc.gov/item/sn83025779/1921-02-05/ed-1/).” February 5, 1921.
 
 
-\[1] Library of Congress. “The Dallas Express (Dallas, Tex.) 1893-1970.”
-\[2] Simek. “The Real Story Behind the \*Dallas Express\*.” \*D Magazine\*.
-\[3] \*Dallas Express\*. “\[A Memorial to All Southern Men](https://www.loc.gov/item/sn83025779/1919-05-10/ed-1/).”
-\[4] \*Dallas Express\*. “\[Ku Klux Klan Begins Operations in Virginia](https://www.loc.gov/item/sn83025779/1920-10-09/ed-1/).”
-\[5] \*Dallas Express\*. “\[Money for U.S. History](https://www.loc.gov/item/sn83025779/1921-01-15/ed-1/).”
-\[6] \*Dallas Express\*. “\[Money for U.S. History](https://www.loc.gov/item/sn83025779/1921-01-15/ed-1/).”
-\[7] \*Dallas Express\*. “\[Money for U.S. History](https://www.loc.gov/item/sn83025779/1921-01-15/ed-1/).”
-\[8] Bromwich. “University of Texas at Austin Removes Confederate Statues in Overnight Operation.” \*New York Times\*; McCann. “Written in Stone.” \*Austin Chronicle\*.
-\[9] \*Dallas Express\*, “\[Henry Lincoln Johnson Make Visit to Georgia and Speaks to Large Crowd](https://www.loc.gov/item/sn83025779/1921-02-05/ed-1/).”
-\[10] \*Dallas Express\*, “\[Henry Lincoln Johnson Make Visit to Georgia and Speaks to Large Crowd](https://www.loc.gov/item/sn83025779/1921-02-05/ed-1/).”
-\[11] \*Dallas Express\*, “\[Henry Lincoln Johnson Make Visit to Georgia and Speaks to Large Crowd](https://www.loc.gov/item/sn83025779/1921-02-05/ed-1/).”
-\[12] \*Dallas Express\*, “\[Henry Lincoln Johnson Make Visit to Georgia and Speaks to Large Crowd](https://www.loc.gov/item/sn83025779/1921-02-05/ed-1/).”
+[^1] Library of Congress. “The Dallas Express (Dallas, Tex.) 1893-1970.”
+[^2] Simek. “The Real Story Behind the \*Dallas Express\*.” \*D Magazine\*.
+[^3] \*Dallas Express\*. “\[A Memorial to All Southern Men](https://www.loc.gov/item/sn83025779/1919-05-10/ed-1/).”
+[^4] \*Dallas Express\*. “\[Ku Klux Klan Begins Operations in Virginia](https://www.loc.gov/item/sn83025779/1920-10-09/ed-1/).”
+[^5] \*Dallas Express\*. “\[Money for U.S. History](https://www.loc.gov/item/sn83025779/1921-01-15/ed-1/).”
+[^6] \*Dallas Express\*. “\[Money for U.S. History](https://www.loc.gov/item/sn83025779/1921-01-15/ed-1/).”
+[^7] \*Dallas Express\*. “\[Money for U.S. History](https://www.loc.gov/item/sn83025779/1921-01-15/ed-1/).”
+[^8] Bromwich. “University of Texas at Austin Removes Confederate Statues in Overnight Operation.” \*New York Times\*; McCann. “Written in Stone.” \*Austin Chronicle\*.
+[^9] \*Dallas Express\*, “\[Henry Lincoln Johnson Make Visit to Georgia and Speaks to Large Crowd](https://www.loc.gov/item/sn83025779/1921-02-05/ed-1/).”
+[^10] \*Dallas Express\*, “\[Henry Lincoln Johnson Make Visit to Georgia and Speaks to Large Crowd](https://www.loc.gov/item/sn83025779/1921-02-05/ed-1/).”
+[^11] \*Dallas Express\*, “\[Henry Lincoln Johnson Make Visit to Georgia and Speaks to Large Crowd](https://www.loc.gov/item/sn83025779/1921-02-05/ed-1/).”
+[^12] \*Dallas Express\*, “\[Henry Lincoln Johnson Make Visit to Georgia and Speaks to Large Crowd](https://www.loc.gov/item/sn83025779/1921-02-05/ed-1/).”
