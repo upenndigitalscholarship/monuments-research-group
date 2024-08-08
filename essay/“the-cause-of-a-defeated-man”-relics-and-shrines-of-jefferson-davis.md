@@ -32,27 +32,27 @@ The same Star of Zion article also commented on the racism of post-Reconstructio
 
 **References**
 
-American. “In Memory of Jefferson Davis,” Apr 23, 1898. 
+American. “[In Memory of Jefferson Davis](https://infoweb-newsbank-com.proxy.library.upenn.edu/apps/readex/doc?p=EANX&t=pubname%3A12B7C30EE42F4288%21American/year%3A1898%211898/mody%3A0423%21April%2B23&year=1898&docref=image/v2%3A12B7C30EE42F4288%40EANX-12CC851967A68EF8%402414403-12CBE90E98DE7480%400),” Apr 23, 1898. 
 
-American. “Winnie Davis’ Successor,” October 1, 1898. 
+American. “[Winnie Davis’ Successor](https://infoweb-newsbank-com.proxy.library.upenn.edu/apps/readex/doc?p=EANX&t=pubname%3A12B7C30EE42F4288%21American/year%3A1898%211898/mody%3A1001%21October%2B01&year=1898&docref=image/v2%3A12B7C30EE42F4288%40EANX-12CC854FEEA41BF8%402414564-12CBE90ECA558200%400),” October 1, 1898. 
 
-Broad Ax (Chicago). “Winnie Davis is Remembered,” November 18, 1899. 
+Broad Ax (Chicago). “[Winnie Davis is Remembered](https://infoweb-newsbank-com.proxy.library.upenn.edu/apps/readex/doc?p=EANX&t=pubname%3A13364E8FB5DF2117%21Broad%2BAx/year%3A1899%211899/mody%3A1118%21November%2B18&year=1899&docref=image/v2%3A13364E8FB5DF2117%40EANX-12BC7212890639F8%402414977-12BC10DFC9EFB380%400),” November 18, 1899. 
 
-Broad Ax (Salt Lake City). “A Window to Davis,” July 2, 1898. 
+Broad Ax (Salt Lake City). “[A Window to Davis](https://infoweb-newsbank-com.proxy.library.upenn.edu/apps/readex/doc?p=EANX&t=pubname%3A13321BB646867BE1%21Broad%2BAx/year%3A1898%211898/mody%3A0702%21July%2B02&year=1898&docref=image/v2%3A13321BB646867BE1%40EANX-12BC716EF7C0C420%402414473-12BC10DEB39041A0%400),” July 2, 1898. 
 
 Collins, Donald E. The Death and Resurrection of Jefferson Davis. Lanham, MD: Rowman & Littlefield Publishers, 2005. http://archive.org/details/deathresurrectio0000coll.
 
-Huntsville Gazette. “The Jefferson Davis Mansion,” May 3, 1890. 
+Huntsville Gazette. “[The Jefferson Davis Mansion](https://www.loc.gov/item/sn84020151/1890-05-03/ed-1/),” May 3, 1890. 
 
-Langston City Herald. “Jeff Davis’ Desk,” December 14, 1895.
+Langston City Herald. “[Jeff Davis’ Desk](https://www.loc.gov/item/sn83025050/1895-12-14/ed-1/),” December 14, 1895.
 
-Kansas City Son. “Mrs. Davis Wept,” February 21, 1902. 
+Kansas City Son. “[Mrs. Davis Wept](https://www.newspapers.com/paper/the-kansas-city-sun/1385/?locale=en-US),” February 21, 1902. 
 
-Kansas City Sun. “Final Resting Place,” June 2, 1893.
+Kansas City Sun. “[Final Resting Place](https://www.newspapers.com/paper/the-kansas-city-sun/1385/?locale=en-US),” June 2, 1893.
 
 Sullivan, Jane K. “The History of Beauvoir.” Beauvoir. Accessed July 19, 2024. https://www.visitbeauvoir.org/about-beauvoir.
 
-Star of Zion. “Editorial Correspondence \[Richmond],” January 28, 1915. 
+Star of Zion. “[Editorial Correspondence \[Richmond]](https://web-p-ebscohost-com.proxy.library.upenn.edu/ehost/results?vid=1&sid=d78ca104-d8d8-4af5-901b-0777fa7a1c08%40redis&bquery=JN+%22Star+of+Zion%22+AND+DT+19150128+NOT+PM+AOP&bdata=JmRiPWg3aSZ0eXBlPTEmc2VhcmNoTW9kZT1BbmQmc2l0ZT1laG9zdC1saXZl),” January 28, 1915. 
 
 [^1]: Collins. The Death and Resurrection of Jefferson Davis, 87–89.
 
@@ -94,7 +94,7 @@ Star of Zion. “Editorial Correspondence \[Richmond],” January 28, 1915.
 
 [^20]: Broad Ax (Salt Lake City). “[A Window to Davis](https://infoweb-newsbank-com.proxy.library.upenn.edu/apps/readex/doc?p=EANX&t=pubname%3A13321BB646867BE1%21Broad%2BAx/year%3A1898%211898/mody%3A0702%21July%2B02&year=1898&docref=image/v2%3A13321BB646867BE1%40EANX-12BC716EF7C0C420%402414473-12BC10DEB39041A0%400).”
 
-[^21]: Star of Zion. “[Editorial Correspondence \[Richmond]](https://web-p-ebscohost-com.proxy.library.upenn.edu/ehost/results?vid=1&sid=d78ca104-d8d8-4af5-901b-0777fa7a1c08%40redis&bquery=JN+%22Star+of+Zion%22+AND+DT+19150128+NOT+PM+AOP&bdata=JmRiPWg3aSZ0eXBlPTEmc2VhcmNoTW9kZT1BbmQmc2l0ZT1laG9zdC1saXZl).”
+[^21]: Star of Zion. “\[Editorial Correspondence [Richmond]](https://web-p-ebscohost-com.proxy.library.upenn.edu/ehost/results?vid=1&sid=d78ca104-d8d8-4af5-901b-0777fa7a1c08%40redis&bquery=JN+%22Star+of+Zion%22+AND+DT+19150128+NOT+PM+AOP&bdata=JmRiPWg3aSZ0eXBlPTEmc2VhcmNoTW9kZT1BbmQmc2l0ZT1laG9zdC1saXZl).”
 
 [^22]: Star of Zion. “\[Editorial Correspondence [Richmond]](https://web-p-ebscohost-com.proxy.library.upenn.edu/ehost/results?vid=1&sid=d78ca104-d8d8-4af5-901b-0777fa7a1c08%40redis&bquery=JN+%22Star+of+Zion%22+AND+DT+19150128+NOT+PM+AOP&bdata=JmRiPWg3aSZ0eXBlPTEmc2VhcmNoTW9kZT1BbmQmc2l0ZT1laG9zdC1saXZl).”
 
