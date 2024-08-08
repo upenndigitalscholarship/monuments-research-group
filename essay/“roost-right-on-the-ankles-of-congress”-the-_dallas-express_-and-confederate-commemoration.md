@@ -29,14 +29,14 @@ The article linked the Ku Klux Klan’s activities in Georgia to the group’s 1
 
 **References**
 
-Library of Congress, “The Dallas Express (Dallas, Tex.) 1893-1970.” .
-Simek, Peter. “The Real Story Behind the *Dallas Express*.” *D Magazine*. June 11, 2021. https://www.dmagazine.com/publications/d-magazine/2021/june/the-real-story-behind-the-dallas-express/.
+Library of Congress, “The Dallas Express (Dallas, Tex.) 1893-1970.” <https://www.loc.gov/item/sn83025779>.
+Simek, Peter. “The Real Story Behind the *Dallas Express*.” *D Magazine*. June 11, 2021. <https://www.dmagazine.com/publications/d-magazine/2021/june/the-real-story-behind-the-dallas-express/>.
 *Dallas Express*. “[A Memorial to All Southern Men](https://www.loc.gov/item/sn83025779/1919-05-10/ed-1/).” May 10, 1919.
 *Dallas Express*. “[Ku Klux Klan Begins Operations in Virginia](https://www.loc.gov/item/sn83025779/1920-10-09/ed-1/).” October 9, 1920.
 *Dallas Express*. “[Money for U.S. History](https://www.loc.gov/item/sn83025779/1921-01-15/ed-1/).” January 15, 1921.
 Bromwich, Jonah Engel. “University of Texas at Austin Removes Confederate Statues in Overnight
-Operation.” *New York Times*. August 21, 2017. https://www.nytimes.com/2017/08/21/us/texas-austin-confederate-statues.html.
-McCann, Mac. “Written in Stone.” *Austin Chronicle*. May 29, 2015. https://www.austinchronicle.com/news/2015-05-29/written-in-stone/.
+Operation.” *New York Times*. August 21, 2017. <https://www.nytimes.com/2017/08/21/us/texas-austin-confederate-statues.html>.
+McCann, Mac. “Written in Stone.” *Austin Chronicle*. May 29, 2015. <https://www.austinchronicle.com/news/2015-05-29/written-in-stone/>.
 *Dallas Express*, “[Henry Lincoln Johnson Make Visit to Georgia and Speaks to Large Crowd](https://www.loc.gov/item/sn83025779/1921-02-05/ed-1/).” February 5, 1921.
 [^1]: Library of Congress. “The Dallas Express (Dallas, Tex.) 1893-1970.”
 [^2]: Simek. “The Real Story Behind the *Dallas Express*.” *D Magazine*.
