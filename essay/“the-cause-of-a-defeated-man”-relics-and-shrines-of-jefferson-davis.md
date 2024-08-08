@@ -96,7 +96,7 @@ Star of Zion. “[Editorial Correspondence \[Richmond]](https://web-p-ebscohost-
 
 [^21]: Star of Zion. “\[Editorial Correspondence [Richmond]](https://web-p-ebscohost-com.proxy.library.upenn.edu/ehost/results?vid=1&sid=d78ca104-d8d8-4af5-901b-0777fa7a1c08%40redis&bquery=JN+%22Star+of+Zion%22+AND+DT+19150128+NOT+PM+AOP&bdata=JmRiPWg3aSZ0eXBlPTEmc2VhcmNoTW9kZT1BbmQmc2l0ZT1laG9zdC1saXZl).”
 
-[^22]: Star of Zion. “\[Editorial Correspondence [Richmond]](https://web-p-ebscohost-com.proxy.library.upenn.edu/ehost/results?vid=1&sid=d78ca104-d8d8-4af5-901b-0777fa7a1c08%40redis&bquery=JN+%22Star+of+Zion%22+AND+DT+19150128+NOT+PM+AOP&bdata=JmRiPWg3aSZ0eXBlPTEmc2VhcmNoTW9kZT1BbmQmc2l0ZT1laG9zdC1saXZl).”
+[^22]: Star of Zion. “[Editorial Correspondence \[Richmond\]](https://web-p-ebscohost-com.proxy.library.upenn.edu/ehost/results?vid=1&sid=d78ca104-d8d8-4af5-901b-0777fa7a1c08%40redis&bquery=JN+%22Star+of+Zion%22+AND+DT+19150128+NOT+PM+AOP&bdata=JmRiPWg3aSZ0eXBlPTEmc2VhcmNoTW9kZT1BbmQmc2l0ZT1laG9zdC1saXZl).”
 
 [^23]: Star of Zion. “\[Editorial Correspondence [Richmond]](https://web-p-ebscohost-com.proxy.library.upenn.edu/ehost/results?vid=1&sid=d78ca104-d8d8-4af5-901b-0777fa7a1c08%40redis&bquery=JN+%22Star+of+Zion%22+AND+DT+19150128+NOT+PM+AOP&bdata=JmRiPWg3aSZ0eXBlPTEmc2VhcmNoTW9kZT1BbmQmc2l0ZT1laG9zdC1saXZl).”
 
