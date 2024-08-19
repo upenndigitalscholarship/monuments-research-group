@@ -1,7 +1,7 @@
 ---
 title: "“A Table of Brass Will Last”: Complex Views from the Colorado Statesman"
 lat: 39.7392
-long: 104.9903
+long: -104.9903
 topic: Newspapers, Cities, and Individual Authors
 ---
 The *Colorado Statesman*, which was published from 1895 to 1961, offered ample commentary in the early decades of the 1900’s on a raft of proposed monuments to enslaved Blacks who remained loyal to their masters during the Civil War. The *Statesman* occupied a unique position in the field of commentary on Confederate commemoration among Black journalists. [Unlike other Black papers of the era](https://falseimage.pennds.org/essay/harper's-ferry-monument-to-loyal-negroes/), never outright condemned proposals to build “loyal slave monuments”—although they did repudiate the white-washing of enslavement that may be implied by these dedications.
