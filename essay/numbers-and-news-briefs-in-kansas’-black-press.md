@@ -2,6 +2,7 @@
 title: Numbers and News Briefs in Kansas’ Black Press
 lat: 39.0119
 long: -98.4842
+topic: Newspapers, Cities, and Individual Authors
 ---
 Of 92 Black press newspapers researched in Kansas for our database, 31 had articles pertaining to Confederate commemoration. This made Kansas the state with the most newspapers publishing about Confederate commemoration, with Illinois in second place with 12 publications—most related to the *Chicago Defender*. Kansas newspapers, however, only produced 118 articles in total—low in comparison to Pennsylvania’s 501 and North Carolina’s 232. These newspapers also tended not to last especially long.
 
