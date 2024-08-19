@@ -1,6 +1,6 @@
 ---
-title: "“Equivalent to Flying the Flag of Adolf Hitler over Israel”: The
-  Confederate Battle Flag atop Alabama’s Capitol"
+title: "“Equivalent to Flying the Flag of Adolf Hitler Over Israel”: The
+  Confederate Battle Flag Atop Alabama’s Capitol"
 lat: 32.3774
 long: -86.3005
 topic: Flag Politics
