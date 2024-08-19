@@ -69,6 +69,6 @@ Perry, La’Shance. “Rebels met with revolution: The 1970s battle for change a
 
 [^12]: Perry, “[Rebels met with revolution: The 1970s battle for change at Francis T. Nicholls Senior High School](https://veritenews.org/2023/02/03/the-1970s-rebellion-at-francis-t-nicholls-high-school/).” 
 
-[^13]: *Carolina Times.* “[Black Students \[sic] Right to Oppose Inequality Upheld by ACLUF](https://newspapers.digitalnc.org/lccn/sn83045120/1971-02-06/ed-1/seq-12/).”
+[^13]: *Carolina Times.* “[Black Students \[sic\] Right to Oppose Inequality Upheld by ACLUF](https://newspapers.digitalnc.org/lccn/sn83045120/1971-02-06/ed-1/seq-12/).”
 
 [^14]: DigitalNC. “[The Carolina Times (Durham, N.C.)](https://www.digitalnc.org/newspapers/carolina-times-durham-nc/?news_year=2020).”
