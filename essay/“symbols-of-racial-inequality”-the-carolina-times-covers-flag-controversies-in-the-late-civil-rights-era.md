@@ -33,13 +33,13 @@ The *[Carolina Times](https://www.digitalnc.org/newspapers/carolina-times-durham
 
 *Carolina Times*. “Charges Discrimination in Covington, La.” May 30, 1970.
 
-*Carolina Times*. “Displaying Flags Of Our Former Enemies.” September 8, 1951.
+*Carolina Times*. “[Displaying Flags Of Our Former Enemies](https://newspapers.digitalnc.org/lccn/2020258288/1951-09-08/ed-1/seq-2/).” September 8, 1951.
 
-*Carolina Times*. “Fayetteville’s Old Slave Market.” October 31, 1953.
+*Carolina Times*. “[Fayetteville’s Old Slave Market](https://newspapers.digitalnc.org/lccn/sn83045120/1953-10-31/ed-1/seq-2/#words=FAYETTEVILLE+Fayetteville+market+old+slave).” October 31, 1953.
 
-*Carolina Times*. “School Supt. Settles Nichols School Spat.” November 14, 1970.
+*Carolina Times*. “[School Supt. Settles Nichols School Spat](https://newspapers.digitalnc.org/lccn/sn83045120/1970-11-14/ed-1/seq-13/).” November 14, 1970.
 
-*Carolina Times*. “Why the South Celebrates Its Defeat.” July 29, 1961.
+*Carolina Times*. “[Why the South Celebrates Its Defeat](https://newspapers.digitalnc.org/lccn/sn83045120/1961-07-29/ed-1/seq-2/).” July 29, 1961.
 
 DigitalNC. “The Carolina Times (Durham, N.C.).” *digitalnc.org*. https://www.digitalnc.org/newspapers/carolina-times-durham-nc/?news_year=2020#.
 
@@ -69,6 +69,6 @@ Perry, La’Shance. “Rebels met with revolution: The 1970s battle for change a
 
 [^12]: Perry, “[Rebels met with revolution: The 1970s battle for change at Francis T. Nicholls Senior High School](https://veritenews.org/2023/02/03/the-1970s-rebellion-at-francis-t-nicholls-high-school/).” 
 
-[^13]: *Carolina Times.* “[Black Students \[sic\] Right to Oppose Inequality Upheld by ACLUF](https://newspapers.digitalnc.org/lccn/sn83045120/1971-02-06/ed-1/seq-12/).”
+[^13]: *Carolina Times.* “[Black Students \[sic] Right to Oppose Inequality Upheld by ACLUF](https://newspapers.digitalnc.org/lccn/sn83045120/1971-02-06/ed-1/seq-12/).”
 
 [^14]: DigitalNC. “[The Carolina Times (Durham, N.C.)](https://www.digitalnc.org/newspapers/carolina-times-durham-nc/?news_year=2020).”
