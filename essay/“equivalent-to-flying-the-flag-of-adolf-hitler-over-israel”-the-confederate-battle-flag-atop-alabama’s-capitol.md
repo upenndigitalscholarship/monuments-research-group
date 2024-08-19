@@ -1,8 +1,8 @@
 ---
 title: "“Equivalent to Flying the Flag of Adolf Hitler over Israel”: The
   Confederate Battle Flag atop Alabama’s Capitol"
-lat: 32.3792
-long: -86.3077
+lat: 32.3774
+long: -86.3005
 topic: Flag Politics
 ---
 Like its neighbors [Georgia](https://falseimage.pennds.org/essay/georgia-state-flag-controversy/) and Mississippi, Alabama in the late twentieth century found itself confronted by a movement led by Black activists and lawmakers to remove the Confederate flag from its state capitol.
