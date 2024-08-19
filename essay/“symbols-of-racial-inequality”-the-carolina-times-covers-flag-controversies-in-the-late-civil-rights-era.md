@@ -29,9 +29,9 @@ The *[Carolina Times](https://www.digitalnc.org/newspapers/carolina-times-durham
 
 **References**
 
-*Carolina Times*. “Black Students \[sic] Right to Oppose Inequality Upheld by ACLUF.” February 6, 1971.
+*Carolina Times*. “[Black Students \[sic] Right to Oppose Inequality Upheld by ACLUF](https://newspapers.digitalnc.org/lccn/sn83045120/1971-02-06/ed-1/seq-12/).” February 6, 1971.
 
-*Carolina Times*. “Charges Discrimination in Covington, La.” May 30, 1970.
+*Carolina Times*. “[Charges Discrimination in Covington, La.](https://newspapers.digitalnc.org/lccn/sn83045120/1970-05-30/ed-1/seq-15/)” May 30, 1970.
 
 *Carolina Times*. “[Displaying Flags Of Our Former Enemies](https://newspapers.digitalnc.org/lccn/2020258288/1951-09-08/ed-1/seq-2/).” September 8, 1951.
 
