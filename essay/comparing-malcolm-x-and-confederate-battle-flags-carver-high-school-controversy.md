@@ -3,6 +3,7 @@ title: "Comparing Malcolm X and Confederate Battle Flags: Carver High School
   Controversy"
 lat: 36.1342
 long: -80.2071
+topic: Flag Politics
 ---
 In 1993, the brandishing of the Confederate battle flag at Carver High School in Winston-Salem, NC, exposed significant racial tension in the local community.
 
