@@ -50,15 +50,18 @@ The *Philadelphia Tribune* noted that the statue would be moved from Monument Av
 The Ashe statue was unveiled on Monument Avenue on July 10, 1996. In June of 2020, during the protest movement that brought down Confederate monuments around the US, the statue was targeted by a vandal who tagged it with the slogan "White Lives Matter."
 
 *Justin Seward*
+
 <br>
----
-<br>
+
+<hr>
 Please cite as: 
-Seward, Justin. "'I Don't Think the Confederate Heroes Have a Sacred Place on Monument Avenue': The Arthur Ashe Statue in Richmond." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/arthur-ashe-on-monument-avenue/.
+Seward, Justin. "'I Don't Think the Confederate Heroes Have a Sacred Place on Monument Avenue': The Arthur Ashe Statue in Richmond." \*False Image of History: Perspectives on Confederate Commemoration from the Black Press\* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/arthur-ashe-on-monument-avenue/.
+
+<hr>
+
 <br>
----
-<br>
-**References**
+
+\*\*References\*\*
 
 Colvin, Leonard E. "Richmond Council Challenged by Ashe's Widow to Reconsider." *New Journal and* Guide, January 10, 1996, 1.
 
