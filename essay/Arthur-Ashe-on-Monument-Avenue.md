@@ -69,7 +69,7 @@ Seward, Justin. "'I Don't Think the Confederate Heroes Have a Sacred Place on Mo
 
 <br>
 
-\*\*References\*\*
+**References**
 
 Colvin, Leonard E. "Richmond Council Challenged by Ashe's Widow to Reconsider." *New Journal and* Guide, January 10, 1996, 1.
 
