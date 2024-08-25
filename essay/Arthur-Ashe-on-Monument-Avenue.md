@@ -61,7 +61,7 @@ Please cite as:
 
 <br>
 
-Seward, Justin. "'I Don't Think the Confederate Heroes Have a Sacred Place on Monument Avenue': The Arthur Ashe Statue in Richmond." \*False Image of History: Perspectives on Confederate Commemoration from the Black Press\* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/arthur-ashe-on-monument-avenue/.
+Seward, Justin. "'I Don't Think the Confederate Heroes Have a Sacred Place on Monument Avenue': The Arthur Ashe Statue in Richmond." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/arthur-ashe-on-monument-avenue/.
 
 <br>
 
