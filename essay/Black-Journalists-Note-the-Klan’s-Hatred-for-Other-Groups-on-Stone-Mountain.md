@@ -16,11 +16,23 @@ Eleven months later, the *[Weekly Review](https://www.newspapers.com/paper/the-w
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+Please cite as: 
+
+<br>
+
+Seward, Justin. "Black Journalists Note the Klan's Hatred for Other Groups." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/black-journalists-note-the-klan%E2%80%99s-hatred-for-other-groups-on-stone-mountain/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
