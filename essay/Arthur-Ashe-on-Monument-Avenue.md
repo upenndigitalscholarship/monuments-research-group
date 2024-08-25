@@ -1,7 +1,6 @@
 ---
-title: >-
-  "I Don't Think the Confederate Heroes Have a Sacred Place on Monument Avenue":
-  The Arthur Ashe Statue in Richmond
+title: "\"I Don't Think the Confederate Heroes Have a Sacred Place on Monument
+  Avenue\": The Arthur Ashe Statue in Richmond"
 lat: 37.5651631
 long: -77.4816436
 topic: Monument Avenue in Richmond
@@ -10,7 +9,7 @@ Arthur Ashe was a Black professional tennis player who won multiple globally pre
 
 In the early 1990s, a proposal was advanced to erect a statue in Ashe's honor on [Richmond's Monument Avenue](https://falseimage.pennds.org/essay/Lee-in-Richmond-Forging-Heavier-Chains)—the first non-Confederate figure to be included. The bronze sculpture, dedicated in 1996, featured Ashe holding a raised tennis racket in one hand and books in the other. Reflecting his commitment to education, figures of four children were seated around him.
 
-The Ashe statue did not arrive without controversy, primarily over the choice of location on Monument Avenue. Black journalists took special interest in probing the resistance to the new monument. In 1995, for instance, the _Philadelphia Tribune_ reported on a small protest at the sculpture's dedication ceremony. The demonstrators explicitly invoked the Confederacy in affirming their opposition to the statue:
+The Ashe statue did not arrive without controversy, primarily over the choice of location on Monument Avenue. Black journalists took special interest in probing the resistance to the new monument. In 1995, for instance, the *Philadelphia Tribune* reported on a small protest at the sculpture's dedication ceremony. The demonstrators explicitly invoked the Confederacy in affirming their opposition to the statue:
 
 > About a dozen protesters carried Confederate battle flags and watched quietly as ground was broken for a statue of Arthur Ashe along a Richmond boulevard dedicated to icons of the Old South. The protesters, some of whom sweltered in gray, woolen Confederate military uniforms, were a colorful minority in a crowd of about 600 who gathered on Monument Avenue.[^3]
 
@@ -25,20 +24,20 @@ Another source of controversy stemmed from the comments made by Ashe's widow, Je
 > has been overlooked. I am afraid that a statue of Arthur Ashe on
 > Monument Avenue honors Richmond, Virginia, more than it does its son,
 > his legacy, and his life's work.[^7]
-Rather than a statue, Moutoussamy-Ashe suggested constructing an African-American Sports Hall of Fame—a project Ashe was working on prior to his death. If the statue must be erected, she suggested putting it in front of that facility instead of with the Confederates.[^8]
+> Rather than a statue, Moutoussamy-Ashe suggested constructing an African-American Sports Hall of Fame—a project Ashe was working on prior to his death. If the statue must be erected, she suggested putting it in front of that facility instead of with the Confederates.[^8]
 
 Richmond's City Council took this request seriously and opened a period of public comment on a possible relocation of the Ashe statue. Ashe's widow was not the only family member to speak up, however. Ashe's siblings pleaded their case for having the statue remain on Monument Avenue to Richmond's mayor, Leonidas B. Young, a Black Baptist minister. The article stated that he was persuaded in their direction.[^9]
 
-A day after the article was published in the _New Journal and Guide_, the _Winston-Salem Chronicle_ published a different version of the story, claiming that Young had actually sided with Ashe's widow. This rival account quoted Young as saying there "should be no problem raising the $20 million or so needed to build the hall with the help of Ms. Moutoussamy-Ashe" and that "The focus is to be on the individuals who struggled, who found it hard to achieve."[^10] The reason for the conflicting reports is not clear.
+A day after the article was published in the *New Journal and Guide*, the *Winston-Salem Chronicle* published a different version of the story, claiming that Young had actually sided with Ashe's widow. This rival account quoted Young as saying there "should be no problem raising the $20 million or so needed to build the hall with the help of Ms. Moutoussamy-Ashe" and that "The focus is to be on the individuals who struggled, who found it hard to achieve."[^10] The reason for the conflicting reports is not clear.
 
-Several other articles focused on the public hearing. In a 1995 article by Anne Gearan of the _Associated Press_ republished in the _Philadelphia Tribune_, Ashe's brother was quoted as saying: "I am elated, first because the city of Richmond had the chance to move forward, and second because Arthur will be honored."[^11] Around 100 people spoke at the hearing, all of them in agreement that Ashe _should _be honored, but in discord as to where his statue should be placed. One speaker made a strong argument in favor of the existing location on Monument Avenue: "Richmond needs to move on and get away from the Civil War legacy. I don't think the Confederate heroes have a sacred place on Monument Avenue. I feel strongly there's a need for some balance and some justice."[^12] 
+Several other articles focused on the public hearing. In a 1995 article by Anne Gearan of the *Associated Press* republished in the *Philadelphia Tribune*, Ashe's brother was quoted as saying: "I am elated, first because the city of Richmond had the chance to move forward, and second because Arthur will be honored."[^11] Around 100 people spoke at the hearing, all of them in agreement that Ashe _should _be honored, but in discord as to where his statue should be placed. One speaker made a strong argument in favor of the existing location on Monument Avenue: "Richmond needs to move on and get away from the Civil War legacy. I don't think the Confederate heroes have a sacred place on Monument Avenue. I feel strongly there's a need for some balance and some justice."[^12] 
 
 But Raymond H. Boone, the editor of the Black-run
-_Richmond Free Press_, took an opposing view, on the grounds that the city needed to move away from the reverential attitude toward Monument Avenue altogether. "I believe that Council did what it thought was right," he proposed, "but in the process \[they\] unwittingly gave credence to the false proposition that the Confederate statues represent heroes."[^13]
+*Richmond Free Press*, took an opposing view, on the grounds that the city needed to move away from the reverential attitude toward Monument Avenue altogether. "I believe that Council did what it thought was right," he proposed, "but in the process \[they] unwittingly gave credence to the false proposition that the Confederate statues represent heroes."[^13]
 
-The _National Newspaper Publishers Association_, a Black wire service, published an article titled "Ashe Statue Rejected by Richmond City Council," which was picked up by the _Winston-Salem Chronicle_. The article's finding was actually the opposite of its title—the Richmond City Council voted to approve the statue's original location for a second time following the initial debate and hearing. However, it was an extremely divided decision. The statue was approved "despite objections from the city's vice mayor and the other opponents that the statue's design is not high enough quality to be place\[d\] there."[^14]
+The *National Newspaper Publishers Association*, a Black wire service, published an article titled "Ashe Statue Rejected by Richmond City Council," which was picked up by the *Winston-Salem Chronicle*. The article's finding was actually the opposite of its title—the Richmond City Council voted to approve the statue's original location for a second time following the initial debate and hearing. However, it was an extremely divided decision. The statue was approved "despite objections from the city's vice mayor and the other opponents that the statue's design is not high enough quality to be place\[d] there."[^14]
 
-By April of 1996, the controversy had gone to court, the _Philadelphia Tribune_ was reporting on efforts by private citizens to use legal means to prevent the erection of the Ashe monument. One Edward J. Willis, II, petitioned through the circuit court to block the Ashe monument from going up:
+By April of 1996, the controversy had gone to court, the *Philadelphia Tribune* was reporting on efforts by private citizens to use legal means to prevent the erection of the Ashe monument. One Edward J. Willis, II, petitioned through the circuit court to block the Ashe monument from going up:
 
 > He contends the city is failing to protect historic property. Willis
 > argues that the monument site is within the street's historic district
@@ -46,33 +45,40 @@ By April of 1996, the controversy had gone to court, the _Philadelphia Tribune_ 
 > of defense during the Civil War. He says the modern statue also
 > violates the city code and will harm tourism.[^15]
 
-The _Philadelphia Tribune_ noted that the statue would be moved from Monument Avenue to the Hard Road to Glory Sports Hall of Fame "when and if the hall is built."[^16] If the statue is moved, the article stated that there would be "an international competition for a statue of another Black hero to go to Monument Avenue."[^17]
+The *Philadelphia Tribune* noted that the statue would be moved from Monument Avenue to the Hard Road to Glory Sports Hall of Fame "when and if the hall is built."[^16] If the statue is moved, the article stated that there would be "an international competition for a statue of another Black hero to go to Monument Avenue."[^17]
 
 The Ashe statue was unveiled on Monument Avenue on July 10, 1996. In June of 2020, during the protest movement that brought down Confederate monuments around the US, the statue was targeted by a vandal who tagged it with the slogan "White Lives Matter."
 
-_Justin Seward_
-
+*Justin Seward*
+<br>
+---
+<br>
+Please cite as: 
+Seward, Justin. "'I Don't Think the Confederate Heroes Have a Sacred Place on Monument Avenue': The Arthur Ashe Statue in Richmond." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/arthur-ashe-on-monument-avenue/.
+<br>
+---
+<br>
 **References**
 
-Colvin, Leonard E. "Richmond Council Challenged by Ashe's Widow to Reconsider." _New Journal and_ Guide, January 10, 1996, 1.
+Colvin, Leonard E. "Richmond Council Challenged by Ashe's Widow to Reconsider." *New Journal and* Guide, January 10, 1996, 1.
 
-Daniel, Douglass. "Placement of Ashe Statue Causes Delay in Richmond." _Philadelphia Tribune_, July 7, 1995, 2B.
+Daniel, Douglass. "Placement of Ashe Statue Causes Delay in Richmond." *Philadelphia Tribune*, July 7, 1995, 2B.
 
-Garcia, Sandra E. "Arthur Ashe Statue in Virginia Vandalized with 'White Lives Matter.'" _New York Times_, June 17, 2020.
+Garcia, Sandra E. "Arthur Ashe Statue in Virginia Vandalized with 'White Lives Matter.'" *New York Times*, June 17, 2020.
 
-Gearan, Anne. "Feelings Mixed on Ashe Statue Location." _Philadelphia Tribune_, July 25, 1995, 6C.
+Gearan, Anne. "Feelings Mixed on Ashe Statue Location." *Philadelphia Tribune*, July 25, 1995, 6C.
 
-Lassiter, Darryl D. "Arthur Ashe Remembered." _Atlanta Daily World_, Oct. 19, 1997, 8.
+Lassiter, Darryl D. "Arthur Ashe Remembered." *Atlanta Daily World*, Oct. 19, 1997, 8.
 
-_National Newspaper Publishers Association_. "Ashe Statue Rejected by Richmond City Council." _Winston-Salem Chronicle_, March 21, 1996.
+*National Newspaper Publishers Association*. "Ashe Statue Rejected by Richmond City Council." *Winston-Salem Chronicle*, March 21, 1996.
 
-_Philadelphia Tribune_. "Ashe Statue Controversy Going to Court." April 5, 1996, 5B.
+*Philadelphia Tribune*. "Ashe Statue Controversy Going to Court." April 5, 1996, 5B.
 
-_Philadelphia Tribune_. "Only a Few Protest at Ashe Ceremony." August 22, 1995, 6C.
+*Philadelphia Tribune*. "Only a Few Protest at Ashe Ceremony." August 22, 1995, 6C.
 
-Slud, Martha. "Arthur Ashe Statue Planned for Confederate Row in Va." _Philadelphia Tribune_, June 27, 1995, 6C.
+Slud, Martha. "Arthur Ashe Statue Planned for Confederate Row in Va." *Philadelphia Tribune*, June 27, 1995, 6C.
 
-_Winston-Salem Chronicle_. "Mayor Wants Arthur Ashe Monument in Sports Hall of Fame." January 11, 1996.
+*Winston-Salem Chronicle*. "Mayor Wants Arthur Ashe Monument in Sports Hall of Fame." January 11, 1996.
 
 [^1]: Slud, "Arthur Ashe Statue Planned for Confederate Row in Va.," 6C.
 
