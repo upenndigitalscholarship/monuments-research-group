@@ -51,7 +51,7 @@ Of further frustration to the authors, was a complacency they felt was taking ov
 
 <br>
 
-Haynie, Olivia. "'KEEP YOUR EYES ON THOSE CONFEDERATE FLAGS!': The Baltimore Afro-American as Critic of Confederate Commemoration ." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/%E2%80%9Ckeep-your-eyes-on-those-confederate-flags-%E2%80%9D-the-baltimore-afro-american-as-critic-of-confederate-commemoration/.
+Haynie, Olivia. "'KEEP YOUR EYES ON THOSE CONFEDERATE FLAGS!': The Baltimore Afro-American as Critic of Confederate Commemoration." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/%E2%80%9Ckeep-your-eyes-on-those-confederate-flags-%E2%80%9D-the-baltimore-afro-american-as-critic-of-confederate-commemoration/.
 
 <br>
 
