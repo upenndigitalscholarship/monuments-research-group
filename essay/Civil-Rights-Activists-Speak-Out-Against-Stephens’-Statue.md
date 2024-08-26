@@ -36,7 +36,7 @@ Georgia, Terrell argued, had "added insult to injury" through the act of "giving
 
 <br>
 
-Please cite as: 
+*Please cite as*: 
 
 <br>
 
