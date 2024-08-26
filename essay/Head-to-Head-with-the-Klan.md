@@ -4,9 +4,9 @@ lat: 33.7492908
 long: -84.3904149
 topic: Stone Mountain and the Klan
 ---
-In 1946, Drew Pearson, a popular white radio talk show host, went head-to-head with the Klan. This took place shortly after the [revitalization of the third Klan at the summit of Stone Mountain](https://falseimage.pennds.org/essay/Fiery-Crosses-Symbolize-a-Revival-on-Stone-Mountain). Calling the Klan a "Hitlerian disease," he warned that Nazism was seeping into the United States through religious intolerance, "creeping into our national bloodstream."[^1] 
+In 1946, Drew Pearson, a popular white radio talk show host, went head-to-head with the Klan. This took place shortly after the [revitalization of the third Klan at the summit of Stone Mountain](https://falseimage.pennds.org/essay/Fiery-Crosses-Symbolize-a-Revival-on-Stone-Mountain). Calling the Klan a "Hitlerian disease," he warned that Nazism was seeping into the United States through religious intolerance, "creeping into our national bloodstream."[^1](Pearson, "\[Hitlerian Diseases in USA Year After Germany's Defeat](https\://www.newspapers.com/paper/tampa-bay-times/5744/).") 
 
-Pearson continued his reporting on the "fly-by-night" activities of the Klan, provoking a barrage of "letters threatening all sorts of dire punishment." Pearson responded defiantly to these letters, writing "So long as this typewriter has a ribbon, it will continue to expose the nightshirt boys despite threats to bump off the operator."[^2] With this, he enraged the Klan even more.
+Pearson continued his reporting on the "fly-by-night" activities of the Klan, provoking a barrage of "letters threatening all sorts of dire punishment." Pearson responded defiantly to these letters, writing "So long as this typewriter has a ribbon, it will continue to expose the nightshirt boys despite threats to bump off the operator."[^2](Pearson, "\[Pearson Lists Klan Activities Despite Threatening Letters](https\://www.newspapers.com/paper/tampa-bay-times/5744/).") With this, he enraged the Klan even more.
 
 One piece of hate mail, reported by Pearson in the *[Weekly Review](https://www.newspapers.com/paper/the-weekly-review/18428/)*, "challenges me to come to Stone Mountain where 'We will have a killing time.'" To this Pearson responded with an audacious plan: to bring his popular nationwide broadcast to Stone Mountain itself. "I don't like to disappoint anybody," he wrote, "not even the Klan, so I will come to Stone Mountain... and I will broadcast from Stone Mountain what I think of an order which peddles Hitler hate which is afraid to show its face in public. They can show their faces at Stone Mountain if they dare."[^3]
 
@@ -18,11 +18,23 @@ Pearson contended that the Confederate heroes idolized by the Klan would be asha
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "'Hitlerian Disease': Taking the Fight against the Klan to Stone Mountain." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/head-to-head-with-the-klan/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
@@ -35,10 +47,6 @@ Pearson, Drew. "[Pearson Lists Klan Activities Despite Threatening Letters](http
 *Tampa Bay Times*, "[Drew Pearson Says He Can't Use Mountain](https://www.newspapers.com/paper/tampa-bay-times/5744/)." June 17, 1946.
 
 *Weekly Review*, "[Klan's Challenge Accepted By Daring Radio Commentator](https://www.newspapers.com/paper/the-weekly-review/18428/)." June 22, 1946.
-
-[^1]: Pearson, "[Hitlerian Diseases in USA Year After Germany's Defeat](https://www.newspapers.com/paper/tampa-bay-times/5744/)."
-
-[^2]: Pearson, "[Pearson Lists Klan Activities Despite Threatening Letters](https://www.newspapers.com/paper/tampa-bay-times/5744/)."
 
 [^3]: *Weekly Review*, "[Klan's Challenge Accepted By Daring Radio Commentator](https://www.newspapers.com/paper/the-weekly-review/18428/)."
 
