@@ -41,19 +41,31 @@ In [June 2015](https://www.cbsnews.com/news/confederate-flags-alabama-capitol/),
 
 *Olivia Haynie*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Haynie, Olivia. "'Equivalent to Flying the Flag of Adolf Hitler Over Israel': The Confederate Battle Flag Atop Alabama’s Capitol." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/%E2%80%9Cequivalent-to-flying-the-flag-of-adolf-hitler-over-israel%E2%80%9D-the-confederate-battle-flag-atop-alabama%E2%80%99s-capitol/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
-Afro-American (Baltimore, MD). “Confederate Flag Floats Over The Alabama Capitol.” February 17, 1922.
+Afro-American (Baltimore, MD). “[Confederate Flag Floats Over The Alabama Capitol](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/45589?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y25$23Dec+25,+2010).” February 17, 1922.
 
 Alabama Journal. ”[Chamber calls for Stars and Bars](https://www.newspapers.com/image/467044728/?match=1&terms=alabama%20chamber%20of%20commerce%20flag).” July 31, 1992.
 
-Associated Press. “Alabama won’t fly rebel flag.” Philadelphia Tribune, June 16, 1995.
+Associated Press. “[Alabama won’t fly rebel flag](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010).” Philadelphia Tribune, June 16, 1995.
 
 Associated Press. “Chamber of Commerce Wants Confederate Battle Flag Off Alabama State Capitol.” New Pittsburgh Courier, August 22, 1992.
 
@@ -63,13 +75,13 @@ Carlson, Morgan. “History of the Confederate flag on Alabama Capitol grounds.�
 
 CBS. “Confederate flags taken down from Alabama capitol.” June 24, 2015, https://www.cbsnews.com/news/confederate-flags-alabama-capitol/
 
-New Journal and Guide (Norfolk, VA). “‘Ray of Hope’ in Alabama dispute.” February 3, 1988.
+New Journal and Guide (Norfolk, VA). “[‘Ray of Hope’ in Alabama dispute](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46472?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010).” February 3, 1988.
 
-Philadelphia Tribune. “Alabama legislators say Confederate flag ‘insult’ to Blacks.” April 29, 1988.
+Philadelphia Tribune. “[Alabama legislators say Confederate flag ‘insult’ to Blacks](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010).” April 29, 1988.
 
 Rawls, Phillip. “[Alabama’s New Governor Removes Confederate Battle Flag](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/?&xid=4508&utm_source=Google&utm_medium=cpc&utm_campaign=NCOM+Publications&utm_keyword=pittsburgh%20courier%20archives&gad_source=1&gbraid=0AAAAADtl_1CtiJpEdmj8zi3gQNYEpY0tr&gclid=CjwKCAjwzIK1BhAuEiwAHQmU3jmgum7WvDWBEZco8A67WyzG-TcMwC5vUSMtsPkSqggqKacE-7osLxoCrQIQAvD_BwE&gclsrc=aw.ds).” New Pittsburgh Courier, May 22, 1993.
 
-United Press International. “Rebel Flag Flying in Alabama.” New Journal and Guide (Norfolk, VA), August 16, 1975.
+United Press International. “[Rebel Flag Flying in Alabama](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46472?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010).” New Journal and Guide (Norfolk, VA), August 16, 1975.
 
 Weaver, Kendal. “Confederate flag stolen from Alabama Capitol.” Philadelphia Tribune, October 9, 1990.
 
@@ -81,27 +93,27 @@ Wikipedia. “Thomas Reed (Alabama politician).” Accessed June 25, 2024, https
 
 [^1]: *Wikipedia*. “[Alabama State Capitol](https://en.wikipedia.org/wiki/Alabama_State_Capitol#Confederate_Memorial_Monument).”
 
-[^2]: *Afro-American* (Baltimore, MD). “Confederate Flag Floats Over The Alabama Capitol.” This article is not currently available online.
+[^2]: *Afro-American* (Baltimore, MD). “[Confederate Flag Floats Over The Alabama Capitol](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/45589?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y25$23Dec+25,+2010).” This article is not currently available online.
 
 [^3]: *Wikipedia*. “[Alabama State Capitol](https://en.wikipedia.org/wiki/Alabama_State_Capitol#Confederate_Memorial_Monument).”
 
-[^4]: *United Press International*. “Rebel Flag Flying in Alabama.” New Journal and Guide (Norfolk, VA). This article is not currently available online.
+[^4]: *United Press International*. “[Rebel Flag Flying in Alabama](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46472?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010).” New Journal and Guide (Norfolk, VA). 
 
-[^5]: *United Press International*. “Rebel Flag Flying in Alabama.” New Journal and Guide (Norfolk, VA). This article is not currently available online.
+[^5]: *United Press International*. “[Rebel Flag Flying in Alabama](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46472?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010).” New Journal and Guide (Norfolk, VA). 
 
 [^6]: *Associated Press*. “[NAACP wants remnants of Confederacy out of South’s flags](https://newspapers.digitalnc.org/lccn/sn85042324/1987-12-31/ed-1/seq-1/#words=NAACP).” Winston-Salem Chronicle.
 
-[^7]: *New Journal and Guide* (Norfolk, VA), “‘Ray of Hope’ in Alabama dispute.” This article is not currently available online.
+[^7]: *New Journal and Guide* (Norfolk, VA), “[‘Ray of Hope’ in Alabama dispute](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46472?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010).” 
 
-[^8]: *Philadelphia Tribune*, “Alabama legislators say Confederate flag ‘insult’ to Blacks.” This article is not currently available online.
+[^8]: *Philadelphia Tribune*, “[Alabama legislators say Confederate flag ‘insult’ to Blacks](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010).” 
 
 [^9]: *Wikipedia.* “[Thomas Reed (Alabama politician)](https://en.wikipedia.org/wiki/Thomas_Reed_(Alabama_politician)#References).”
 
-[^10]: *Philadelphia Tribune*, “Alabama legislators say Confederate flag ‘insult’ to Blacks.” This article is not currently available online.
+[^10]: *Philadelphia Tribune*, “[Alabama legislators say Confederate flag ‘insult’ to Blacks](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010).” 
 
-[^11]: *Philadelphia Tribune*, “Alabama legislators say Confederate flag ‘insult’ to Blacks.” This article is not currently available online.
+[^11]: *Philadelphia Tribune*, “[Alabama legislators say Confederate flag ‘insult’ to Blacks](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010).” 
 
-[^12]: Weaver, “Confederate flag stolen from Alabama Capitol.” *Philadelphia Tribune*. This article is not currently available online.
+[^12]: Weaver, “[Confederate flag stolen from Alabama Capitol](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010).” *Philadelphia Tribune*. 
 
 [^13]: *Alabama Journal*. ”[Chamber calls for Stars and Bars](https://www.newspapers.com/image/467044728/?match=1&terms=alabama%20chamber%20of%20commerce%20flag).” Not a Black news source.
 
@@ -109,7 +121,7 @@ Wikipedia. “Thomas Reed (Alabama politician).” Accessed June 25, 2024, https
 
 [^15]: Carlson, “[History of the Confederate flag on Alabama Capitol grounds](https://www.wsfa.com/story/29380544/history-of-the-confederate-flag-on-alabama-capitol-grounds/).” *WSFA*.
 
-[^16]: *Associated Press*, “Alabama won’t fly rebel flag.” *Philadelphia Tribune*. This article is not currently available online.
+[^16]: *Associated Press*, “[Alabama won’t fly rebel flag](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010).” *Philadelphia Tribune*. 
 
 [^17]: *Wikipedia*. “[Guy Hunt](https://en.wikipedia.org/wiki/H._Guy_Hunt).”
 
