@@ -22,7 +22,7 @@ Eleven months later, the *[Weekly Review](https://www.newspapers.com/paper/the-w
 
 <br>
 
-Please cite as: 
+*Please cite as*: 
 
 <br>
 
