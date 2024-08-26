@@ -40,6 +40,18 @@ As in the May, 1914 article, the authors emphasized the need for a permanent rem
 
 <br>
 
+*Please cite as*: 
+
+<br>
+
+Haynie, Olivia. "'A Table of Brass Will Last': Complex Views from the Colorado Statesman." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/%E2%80%9Ca-table-of-brass-will-last%E2%80%9D-complex-views-from-the-colorado-statesman/.
+
+<br>
+
+<hr>
+
+<br>
+
 **References**
 
 *Colorado Statesman.* “[Afro-American Cullings](https://chroniclingamerica.loc.gov/lccn/sn83025514/1914-07-04/ed-1/seq-1/).” July 4, 1914.
