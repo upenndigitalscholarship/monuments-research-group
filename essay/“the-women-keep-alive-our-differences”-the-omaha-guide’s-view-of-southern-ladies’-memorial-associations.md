@@ -13,11 +13,23 @@ These articles highlighted the role of the UDC in driving the agenda of Confeder
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "'The Women Keep Alive Our Differences': The Omaha Guide’s View of Southern Ladies’ Memorial Associations." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/%E2%80%9Cthe-women-keep-alive-our-differences%E2%80%9D-the-omaha-guide%E2%80%99s-view-of-southern-ladies%E2%80%99-memorial-associations/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
