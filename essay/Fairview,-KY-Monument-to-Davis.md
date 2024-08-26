@@ -16,11 +16,23 @@ Simmons' criticisms of Davis were measured—perhaps a reflection of the difficu
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "'The Weakness of Human Judgement': The Jefferson Davis Monument in Kentucky." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/fairview,-ky-monument-to-davis/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
