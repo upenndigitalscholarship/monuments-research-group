@@ -27,9 +27,21 @@ The *[Carolina Times](https://www.digitalnc.org/newspapers/carolina-times-durham
 
 <br>
 
+*Please cite as*: 
+
+<br>
+
+Haynie, Olivia. "'Symbols of Racial Inequality': The Carolina Times Covers Flag Controversies in the Late Civil Rights Era." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/%E2%80%9Csymbols-of-racial-inequality%E2%80%9D-the-carolina-times-covers-flag-controversies-in-the-late-civil-rights-era/.
+
+<br>
+
+<hr>
+
+<br>
+
 **References**
 
-*Carolina Times*. “[Black Students \[sic\] Right to Oppose Inequality Upheld by ACLUF](https://newspapers.digitalnc.org/lccn/sn83045120/1971-02-06/ed-1/seq-12/).” February 6, 1971.
+*Carolina Times*. “[Black Students \[sic] Right to Oppose Inequality Upheld by ACLUF](https://newspapers.digitalnc.org/lccn/sn83045120/1971-02-06/ed-1/seq-12/).” February 6, 1971.
 
 *Carolina Times*. “[Charges Discrimination in Covington, La.](https://newspapers.digitalnc.org/lccn/sn83045120/1970-05-30/ed-1/seq-15/)” May 30, 1970.
 
@@ -69,6 +81,6 @@ Perry, La’Shance. “Rebels met with revolution: The 1970s battle for change a
 
 [^12]: Perry, “[Rebels met with revolution: The 1970s battle for change at Francis T. Nicholls Senior High School](https://veritenews.org/2023/02/03/the-1970s-rebellion-at-francis-t-nicholls-high-school/).” 
 
-[^13]: *Carolina Times.* “[Black Students \[sic\] Right to Oppose Inequality Upheld by ACLUF](https://newspapers.digitalnc.org/lccn/sn83045120/1971-02-06/ed-1/seq-12/).”
+[^13]: *Carolina Times.* “[Black Students \[sic] Right to Oppose Inequality Upheld by ACLUF](https://newspapers.digitalnc.org/lccn/sn83045120/1971-02-06/ed-1/seq-12/).”
 
 [^14]: DigitalNC. “[The Carolina Times (Durham, N.C.)](https://www.digitalnc.org/newspapers/carolina-times-durham-nc/?news_year=2020).”
