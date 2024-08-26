@@ -14,11 +14,23 @@ It seems that the *[Bystander](https://www.loc.gov/resource/sn83025186/1907-06-0
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "Black Journalists Uninterested in the Davis Monument on Monument Avenue." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/monument-ave---davis/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
