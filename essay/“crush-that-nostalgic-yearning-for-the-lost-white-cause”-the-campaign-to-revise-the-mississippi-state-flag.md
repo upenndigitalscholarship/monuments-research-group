@@ -63,6 +63,18 @@ On June 28, 2020 the state legislature passed a bill to change the state flag an
 
 <br>
 
+*Please cite as*: 
+
+<br>
+
+Haynie, Olivia. "'Crush that Nostalgic Yearning for the Lost White Cause': The Campaign to Revise the Mississippi State Flag." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/%E2%80%9Ccrush-that-nostalgic-yearning-for-the-lost-white-cause%E2%80%9D-the-campaign-to-revise-the-mississippi-state-flag/.
+
+<br>
+
+<hr>
+
+<br>
+
 **References**
 
 *Afro-American* (Baltimore, MD). “[Mississippi lawmaker wants flag changed](https://afro.com/archives/).” January 9, 1988.
@@ -71,11 +83,11 @@ On June 28, 2020 the state legislature passed a bill to change the state flag an
 
 Curry, Constance. “[Aaron Henry: A Civil Rights Leader of the 20th Century](http://mshistorynow.madah.ms.gov/).” *Mississippi History Now*. mshistorynow.madah.ms.gov, February, 2011.
 
-Editorial Staff of the national office of The National Newspaper Publishers Association. “T[ake Mississippi Flag Down](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/historical-newspapers/take-mississippi-flag-down/docview/491819737/se-2?accountid=14707).” *Atlanta Daily World*, May 10, 2001.
+Editorial Staff of the national office of The National Newspaper Publishers Association. “[Take Mississippi Flag Down](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/historical-newspapers/take-mississippi-flag-down/docview/491819737/se-2?accountid=14707).” *Atlanta Daily World*, May 10, 2001.
 
 Gallant, Jacob. “NCAA bans Mississippi from holding any championships over state flag.” *WLBT.com*, June 19, 2020. https://www.wlbt.com/2020/06/19/ncaa-bans-mississippi-hold-any-championships-over-state-flag/.
 
-Holland, Gina. “Commission faces vote on Mississippi’s state flag.” *Philadelphia Tribune*, November 17, 2000.
+Holland, Gina. “[Commission faces vote on Mississippi’s state flag](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010).” *Philadelphia Tribune*, November 17, 2000.
 
 Hutchinson, Earl Ofari. “[Why many blacks backed the Confederate flag](https://newspapers.digitalnc.org/lccn/sn85042324/2001-04-26/ed-1/seq-7/#words=back+backed+backs+Black+black+blacks+Confederate+flag+many+Why+why).” *Winston-Salem Chronicle*, April 26, 2001.
 
@@ -87,11 +99,11 @@ NNPA Newswire. “[Mississippi black leaders disappointed but not surprised by v
 
 Ratliff, Christopher. “[NCAA/BCA pushes for expansion of Confederate flag ban](https://newspapers.digitalnc.org/lccn/2015236574/2007-04-16/ed-1/seq-5/#words=Confederate+NCAA+NCAA%27s).” *Winston-Salem State University Student Newspaper*, April 16, 2007.
 
-Ross, Loretta J. “Not much has changed in Mississippi.” *New Journal and Guide*, June 13, 2001.
+Ross, Loretta J. “[Not much has changed in Mississippi](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46472?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010).” *New Journal and Guide*, June 13, 2001.
 
-Russo, Ralph D. “NCAA rules Mississippi can’t hold championship events.” *Philadelphia Tribune*, May 1, 2001.
+Russo, Ralph D. “[NCAA rules Mississippi can’t hold championship events](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010).” *Philadelphia Tribune*, May 1, 2001.
 
-Wagster, Emily. “Mississippi flag keeps Confederate emblem.” *Philadelphia Tribune*, April 20, 2001
+Wagster, Emily. “[Mississippi flag keeps Confederate emblem](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010).” *Philadelphia Tribune*, April 20, 2001
 
 Wagster, Emily. “[Mississippi’s Flag Election Shapes Up as Internal Battle](https://www.proquest.com/docview/565765374/92F3A2142ED4E58PQ/1?accountid=14707&sourcetype=Historical%20Newspapers).” *Los Angeles Sentinel,* April 12, 2001.
 
@@ -103,9 +115,9 @@ Wikipedia. “Flag of Mississippi.” https://en.wikipedia.org/wiki/Flag_of_Miss
 
 [^3]: Curry. “[Aaron Henry: A Civil Rights Leader of the 20th Century](http://mshistorynow.madah.ms.gov/).” *Mississippi History Now*.
 
-[^4]: Wagster. “Mississippi flag keeps Confederate emblem.” *Philadelphia Tribune*.
+[^4]: Wagster. “[Mississippi flag keeps Confederate emblem](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010).” *Philadelphia Tribune*.
 
-[^5]: Holland. “Commission faces vote on Mississippi’s state flag.” *Philadelphia Tribune*.
+[^5]: Holland. “[Commission faces vote on Mississippi’s state flag](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010).” *Philadelphia Tribune*.
 
 [^6]: *New Pittsburgh Courier*. “[Mississippi flag](<New Pittsburgh Courier, “Mississippi flag.”>).”
 
@@ -113,7 +125,7 @@ Wikipedia. “Flag of Mississippi.” https://en.wikipedia.org/wiki/Flag_of_Miss
 
 [^8]: *Atlanta Daily World*. “[Not All Blacks Want To Replace Mississippi Flag](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/historical-newspapers/not-all-blacks-want-replace-mississippi-flag/docview/491817569/se-2?accountid=14707).”
 
-[^9]: Wagster. “Mississippi flag keeps Confederate emblem.” *Philadelphia Tribune*.
+[^9]: Wagster. “[Mississippi flag keeps Confederate emblem](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010).” *Philadelphia Tribune*.
 
 [^10]: *National Newspaper Publishers Association*. https://nnpa.org
 
@@ -125,9 +137,9 @@ Wikipedia. “Flag of Mississippi.” https://en.wikipedia.org/wiki/Flag_of_Miss
 
 [^14]: Martin. “[NAACP Condemns Mississippi Flag](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/historical-newspapers/naacp-condemns-mississippi-flag/docview/491818031/se-2?accountid=14707).” *Atlanta Daily World*.
 
-[^15]: Ross. “Not much has changed in Mississippi.” *New Journal and Guide*.
+[^15]: Ross. “[Not much has changed in Mississippi](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46472?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010).” *New Journal and Guide*.
 
-[^16]: Editorial Staff of the national office of The National Newspaper Publishers Association. “T[ake Mississippi Flag Down](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/historical-newspapers/take-mississippi-flag-down/docview/491819737/se-2?accountid=14707).” *Atlanta Daily World*.
+[^16]: Editorial Staff of the national office of The National Newspaper Publishers Association. “[Take Mississippi Flag Down](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/historical-newspapers/take-mississippi-flag-down/docview/491819737/se-2?accountid=14707).” *Atlanta Daily World*.
 
 [^17]: Hutchinson. “[Why many blacks backed the Confederate flag](https://newspapers.digitalnc.org/lccn/sn85042324/2001-04-26/ed-1/seq-7/#words=back+backed+backs+Black+black+blacks+Confederate+flag+many+Why+why).” *Winston-Salem Chronicle*.
 
@@ -137,7 +149,7 @@ Wikipedia. “Flag of Mississippi.” https://en.wikipedia.org/wiki/Flag_of_Miss
 
 [^20]: Hutchinson. “[Why many blacks backed the Confederate flag](https://newspapers.digitalnc.org/lccn/sn85042324/2001-04-26/ed-1/seq-7/#words=back+backed+backs+Black+black+blacks+Confederate+flag+many+Why+why).” *Winston-Salem Chronicle*.
 
-[^21]: Russo. “NCAA rules Mississippi can’t hold championship events.” *Philadelphia Tribune*.
+[^21]: Russo. “[NCAA rules Mississippi can’t hold championship events](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010).” *Philadelphia Tribune*.
 
 [^22]: Ratliff. “[NCAA/BCA pushes for expansion of Confederate flag ban](https://newspapers.digitalnc.org/lccn/2015236574/2007-04-16/ed-1/seq-5/#words=Confederate+NCAA+NCAA%27s).” *Winston-Salem State University Student Newspaper*.
 
