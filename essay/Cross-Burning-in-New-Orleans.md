@@ -18,7 +18,7 @@ In 1956, the *[California Eagle](https://www.newspapers.com/paper/california-eag
 
 <br>
 
-Please cite as: 
+*Please cite as*: 
 
 <br>
 
