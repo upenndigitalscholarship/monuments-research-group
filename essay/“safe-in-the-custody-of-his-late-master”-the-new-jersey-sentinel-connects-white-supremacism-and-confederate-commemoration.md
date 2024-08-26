@@ -23,6 +23,18 @@ The *Sentinel* offered a straightforward diagnosis of the link between white sup
 
 <br>
 
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "'Safe in the Custody of His Late Master': The New Jersey Sentinel Connects White Supremacism and Confederate Commemoration." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/%E2%80%9Csafe-in-the-custody-of-his-late-master%E2%80%9D-the-new-jersey-sentinel-connects-white-supremacism-and-confederate-commemoration/.
+
+<br>
+
+<hr>
+
+<br>
+
 References
 
 *Associated Press*. “Confederate General’s Remains Moved to Virginia Hometown.” Accessed August 9, 2024. https://apnews.com/article/politics-richmond-virginia-horses-035f89128ca4268d50356fd1f103a4fc.
