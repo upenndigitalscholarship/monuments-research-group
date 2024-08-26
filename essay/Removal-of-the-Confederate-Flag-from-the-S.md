@@ -85,7 +85,7 @@ Rogers, Ron. "[Untitled](https://www.digitalnc.org/newspapers/winston-salem-chro
 
 [^1]: Adcox, et al., "[S.C. Governor Calls on Removal of Confederate Flag From Statehouse Grounds](https://www.digitalnc.org/newspapers/winston-salem-chronicle-winston-salem-n-c/)," *Winston-Salem Chronicle*.
 
-[^2]: (Adams, "Stand Against Evil Acts Of Violence and Hate,")
+[^2]: Adams, "[Stand Against Evil Acts Of Violence and Hate](https://www.digitalnc.org/newspapers/winston-salem-chronicle-winston-salem-n-c/)."
 
 [^3]: Ewers, "[The Killings in South Carolina are a setback in American race relations](https://www.digitalnc.org/newspapers/winston-salem-chronicle-winston-salem-n-c/)," *Winston-Salem Chronicle*.
 
