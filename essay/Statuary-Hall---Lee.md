@@ -27,11 +27,23 @@ In 2020, the Commonwealth of Virginia voluntarily removed the Lee bronze in Stat
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "'Glorifying Our Worst Enemies': The Lee Statue in the Capitol." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/statuary-hall---lee/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
