@@ -10,7 +10,7 @@ The original Klan was formed by Confederate veterans in Pulaski, TN in the years
 
 Even before the beginning of [the engraving work that would create the Confederate memorial on the mountain's face in the mid-1920s](https://falseimage.pennds.org/essay/Let-Stone-Mountain-Alone), the Klan was reborn at the mountain's summit. The second Klan was inaugurated there in 1915 and grew rapidly as the circle of targets for hatred expanded to include Jews, Catholics, and immigrants, as well as Black Americans. The second Klan was a spent force by the late 1930s, but after the Second World War, a new iteration of the Klan emerged—[once again using Stone Mountain as a backdrop](https://falseimage.pennds.org/essay/Fiery-Crosses-Symbolize-a-Revival-on-Stone-Mountain).[^1]
 
-Black reporters saw the Klan and Stone Mountain as inextricable. In 1945, C.W. Rice, the editor of the *Negro Labor News*, was quoted by the *[Weekly Review](https://www.newspapers.com/paper/the-weekly-review/18428/)* (AL) speaking of Stone Mountain as "where the huge burning cross was lighted a few nights ago," though he also noted that their intimidation efforts had not impeded Black advancement: "in Georgia, the birthplace of the Klan, Negroes have made the greatest progress."[^2] He went on to talk about how the Klan's ambitions were a "losing battle" and that "despite all this race hating propaganda, the white people of the South are changing their minds in favor of helping the Negro to find his place beside other citizens."[^3]
+Black reporters saw the Klan and Stone Mountain as inextricable. In 1945, C.W. Rice, the editor of the *Negro Labor News*, was quoted by the *[Weekly Review](https://www.newspapers.com/paper/the-weekly-review/18428/)* (AL) speaking of Stone Mountain as "where the huge burning cross was lighted a few nights ago," though he also noted that their intimidation efforts had not impeded Black advancement: "in Georgia, the birthplace of the Klan, Negroes have made the greatest progress."[^2] He went on to talk about how the Klan's ambitions were a "losing battle" and that "despite all this race hating propaganda, the white people of the South are changing their minds in favor of helping the Negro to find his place beside other citizens."[^3](Rice, "\[No Fear of K.K.K.](https\://www.newspapers.com/paper/the-weekly-review/18428/)")
 
 The *[Detroit Tribune](https://www.loc.gov/item/sn92063852/1945-10-27/ed-1/)* also observed the Klan cross-burning that year, reporting that "not many nights ago, on the summit of Stone Mountain over-looking Atlanta, the lurid glare of a fiery cross pierced the darkness for miles around. It had been placed there by the Klan... \[The Klan] is reorganizing in Georgia, the home of its birth, just as it did after World War I."[^4] The article went on to say that the Klan "has no right to exist."[^5] Despite the historic origins of the Klan in Tennessee, these Black reporters identified Georgia as the "mother" of the Klan—and Stone Mountain as its cradle.[^6]
 
@@ -20,11 +20,23 @@ Likewise, an editorial in the *[California Eagle](https://www.newspapers.com/pap
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "Stone Mountain and the Resurrection of the Klan." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/statuary-hall---lee/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
@@ -43,8 +55,6 @@ Rice, C.W. "[No Fear of K.K.K.](https://www.newspapers.com/paper/the-weekly-revi
 [^1]: (Bigart, "[99 Years of Ku Klux Klan: It All Started Innocently...](https://www.newspapers.com/paper/tampa-bay-times/5744/)," *Tampa Bay Times*, 60.)
 
 [^2]: Rice, "[No Fear of K.K.K.](https://www.newspapers.com/paper/the-weekly-review/18428/)*"*
-
-[^3]: Rice, "[No Fear of K.K.K.](https://www.newspapers.com/paper/the-weekly-review/18428/)"
 
 [^4]: *Tampa Bay Times*, "[Revived Klan Burns Fiery Crosses On Stone
     Mountain](https://www.newspapers.com/paper/tampa-bay-times/5744/)."
