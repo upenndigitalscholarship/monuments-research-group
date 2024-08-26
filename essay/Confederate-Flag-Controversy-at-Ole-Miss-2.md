@@ -45,7 +45,7 @@ As of 2023, Ole Miss sports teams are still using the label "the Rebels."[^21](*
 
 <br>
 
-Please cite as: 
+*Please cite as*: 
 
 <br>
 
