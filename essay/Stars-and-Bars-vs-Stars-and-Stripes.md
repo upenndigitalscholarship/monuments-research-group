@@ -5,7 +5,7 @@ lat: 41.8182867
 long: -87.6523552
 topic: Flag Politics
 ---
-Since the end of Reconstruction, Black journalists have frequently criticized the display of Confederate flags—especially, but not solely, the Confederate Battle Flag—in public, particularly in official government capacities. A number of editorials published in the Black press during this period stressed that Confederate flags were unpatriotic and a threat to the sanctity of the Union flag. The language used in these editorials reflects the deep frustration of Black Americans toward the Confederate flags.
+ce the end of Reconstruction, Black journalists have frequently criticized the display of Confederate flags—especially, but not solely, the Confederate Battle Flag—in public, particularly in official government capacities. A number of editorials published in the Black press during this period stressed that Confederate flags were unpatriotic and a threat to the sanctity of the Union flag. The language used in these editorials reflects the deep frustration of Black Americans toward the Confederate flags.
 
 In 1890, the *State Capital* published an editorial (later reprinted by the renowned *[Richmond Planet](https://www.newspapers.com/paper/richmond-planet/1796/)*) condemning the displaying of the Confederate Battle Flag at the [dedication ceremony of the prominent Robert E. Lee monument in Richmond](https://falseimage.pennds.org/essay/Lee-in-Richmond-Forging-Heavier-Chains). While they did not take issue with the monument itself—they stated that General Lee "had many virtues worthy of emulation"—they referred to the flag as an "ensign of treason" and its display as a "shameful disregard for the flag of the Union."[^1] They concluded the article by stating "we, as an American citizen, offer our solemn protest and demand in the name of our fathers, in the name of the constitution and in the name of every patriotic impulse that such things not be tolerated."[^2]
 
@@ -64,7 +64,3 @@ Pious, R. S. "[Will It Replace The Stars and Stripes At the Convention?](https:/
 [^7]: *New York Amsterdam News*, "[Seeds of Treason](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/40377?accountid=14707&decadeSelected=1930+-+1939&yearSelected=1938&monthSelected=08&issueNameSelected=01938Y08Y27$23Aug+27,+1938)."
 
 [^8]: Pious, "[Will It Replace The Stars and Stripes At the Convention?](https://www.digitalnc.org/newspapers/carolina-times-durham-nc/)"
-
-```
-*Carolina Times* (Durham).
-```
