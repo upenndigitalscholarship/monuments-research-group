@@ -49,11 +49,23 @@ But although the *[Planet](https://www.newspapers.com/paper/richmond-planet/1796
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "'Forging Heavier Chains with Which to Be Bound': The Lee Statue on Monument Avenue." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/lee-in-richmond-forging-heavier-chains/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
