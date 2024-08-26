@@ -12,11 +12,23 @@ In 1956, the *[California Eagle](https://www.newspapers.com/paper/california-eag
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+Please cite as: 
+
+<br>
+
+Seward, Justin. "Cross-Burning in New Orleans near Davis Monument." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/cross-burning-in-new-orleans/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
