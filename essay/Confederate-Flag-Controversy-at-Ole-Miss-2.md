@@ -11,7 +11,7 @@ In the early 1980s, the University of Mississippi (Ole Miss) was embroiled in co
 
 While the Confederate Battle Flag was not an official school symbol, it was in regular use as an unofficial one. Hawkings' refusal to wave it was the first incident in what became a larger confrontation between Black students and the university the following spring.[^2] According to the Black journalist organization *United Press International*, the school's Black Student Union presented university officials with a petition of 13 demands, including "removal of 'all racist symbols' such as the Rebel flag, the Colonel Rebel mascot and the song 'Dixie' at school events. They also called for more Black faculty, counselors, Black Studies classes and job placement programs for Blacks."[^3] It is unclear if these requests were made public by the Black Student Union or if they were leaked to the student body by word of mouth.
 
-But when the broader, predominantly white student population found out about the demand to remove the flag from school events, the result was a face-off between white and Black students. The *Atlanta Daily World*, the *Carolina Times*, and the *Afro-American* published reports by UPI detailing the controversy. The UPI reported that on Monday, April 18th, 1983, "hundreds of white students gathered on campus...singing 'Dixie' and chanting 'Save the Flag.'"[^4] The students then protested in front of the house of Chancellor Porter Fortune before moving on to the school's only Black fraternity house at the time, home of Phi Beta Sigma.[^5]
+But when the broader, predominantly white student population found out about the demand to remove the flag from school events, the result was a face-off between white and Black students. The *[Atlanta Daily World](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46353?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)*, the *[Carolina Times](https://www.digitalnc.org/newspapers/carolina-times-durham-nc/)*, and the *[Afro-American](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/45589?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y25$23Dec+25,+2010)* published reports by UPI detailing the controversy. The UPI reported that on Monday, April 18th, 1983, "hundreds of white students gathered on campus...singing 'Dixie' and chanting 'Save the Flag.'"[^4] The students then protested in front of the house of Chancellor Porter Fortune before moving on to the school's only Black fraternity house at the time, home of Phi Beta Sigma.[^5]
 
 While reports from UPI conveyed the bare facts of the event, it was a series of op-eds that captured the emotional depth of the stand-off. The UPI report on the April 18th protests, for instance, only stated "there were no incidents,"[^6] a phrasing that conveyed no physical injury, without documenting the psychological and traumatic effects of the events. Leon Daniel, a UPI reporter, authored his own op-eds to publicize the emotional response to the stand-off. In his reporting on the April 18th demonstration, he interviewed a member of the Black fraternity that was the site of the protests: "'I was afraid,' said \[Danny] Love, who described how he and several other brothers huddled inside the only fraternity house for Blacks at Ole Miss, listening to the mob outside scream 'nigger.'... 'We knew they were capable of breaking into the house.'"[^7](Daniel, "2 decades after Ole Miss riot Stars and Bars still wave,") Love's account, Daniel pointed out, stands in stark contrast to the characterization of Ed Meek, Ole Miss' director of the university's department of public relations, who claimed "It was nothing but a spring pep rally."[^8]
 
@@ -39,52 +39,70 @@ As of 2023, Ole Miss sports teams are still using the label "the Rebels."[^21](*
 
 *Olivia Haynie*
 
+<br>
+
+<hr>
+
+<br>
+
+Please cite as: 
+
+<br>
+
+Haynie, Olivia. "'Fear Is What This Story Is All About': Confederate Flag Controversy at Ole Miss." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/confederate-flag-controversy-at-ole-miss-2/.
+
+<br>
+
+<hr>
+
+<br>
+
 **References**
 
-Associated Press. "Ole Miss denies impeding students' rights." *Philadelphia Tribune*, Nov 12, 1991.
+Associated Press. "[Ole Miss denies impeding students' rights](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010)." *Philadelphia Tribune*, Nov 12, 1991.
 
-*Atlanta Daily World*. "Miss. Students Against Waving Confederate Flag." Oct 31, 1997.
+*Atlanta Daily World*. "[Miss. Students Against Waving Confederate Flag](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46353?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)." Oct 31, 1997.
 
-Daniel, Leon. "2 decades after Ole Miss riot Stars and Bars still wave." *Afro-American* (Baltimore, MD), May 14 1983.
+Daniel, Leon. "[2 decades after Ole Miss riot Stars and Bars still wave](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/45589?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y25$23Dec+25,+2010)." *Afro-American* (Baltimore, MD), May 14 1983.
 
 *Olemisssports.com*. "Ole Miss Athletics." Accessed June 20, 2023. Available at https://olemisssports.com.
 
-United Press International. "Black Students Protest Rebel Flag At Ole Miss." *Atlanta Daily World*, Apr 22, 1983.
+United Press International. "[Black Students Protest Rebel Flag At Ole Miss](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46353?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)." *Atlanta Daily World*, Apr 22, 1983.
 
-United Press International. "Oxford, Miss." *Carolina Times* (Durham, NC), Sep 18, 1982.
+United Press International. "[Oxford, Miss](https://www.digitalnc.org/newspapers/carolina-times-durham-nc/)." *Carolina Times* (Durham, NC), Sep 18, 1982.
 
-United Press International. "Use of rebel flag stirs dispute at Ole Miss." *Afro-American* (Baltimore, MD), Apr 30, 1983.
+United Press International. "[Use of rebel flag stirs dispute at Ole Miss](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/45589?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y25$23Dec+25,+2010)." *Afro-American* (Baltimore, MD), Apr 30, 1983.
 
-[^1]: United Press International, "Oxford, Miss," *Carolina Times* (Durham).
+[^1]: United Press International, "[Oxford, Miss](https://www.digitalnc.org/newspapers/carolina-times-durham-nc/)," *Carolina Times* (Durham).
 
-[^2]: United Press International, "Use of rebel flag stirs dispute at Ole Miss," *Afro-American* (Baltimore, MD).
+[^2]: United Press International, "[Use of rebel flag stirs dispute at Ole Miss](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/45589?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y25$23Dec+25,+2010)," *Afro-American* (Baltimore, MD).
 
-[^3]: United Press International, "Black Students Protest Rebel Flag At Ole Miss," *Atlanta Daily World*.
+[^3]: United Press International, "[Black Students Protest Rebel Flag At Ole Miss](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46353?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)," *Atlanta Daily World*.
 
-[^4]: United Press International, "Black Students Protest Rebel Flag At Ole Miss," *Atlanta Daily World*.
+[^4]: United Press International, "[Black Students Protest Rebel Flag At Ole Miss](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46353?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)," *Atlanta Daily World*.
 
-[^5]: United Press International, "Black Students Protest Rebel Flag At Ole Miss," *Atlanta Daily World*.
+[^5]: United Press International, "[Black Students Protest Rebel Flag At Ole Miss](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46353?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)," *Atlanta Daily World*.
 
-[^6]: United Press International, "Black Students Protest Rebel Flag At Ole Miss," *Atlanta Daily World*.
+[^6]: United Press International, "[Black Students Protest Rebel Flag At Ole Miss](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46353?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)," *Atlanta Daily World*.
 
-[^10]: Daniel, "2 decades after Ole Miss riot Stars and Bars still wave," *Afro-American* (Baltimore, MD).
+[^10]: Daniel, "[2 decades after Ole Miss riot Stars and Bars still wave](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/45589?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y25$23Dec+25,+2010)," *Afro-American* (Baltimore, MD).
 
-[^11]: Daniel, "2 decades after Ole Miss riot Stars and Bars still wave," *Afro-American* (Baltimore, MD).
+[^11]: Daniel, "[2 decades after Ole Miss riot Stars and Bars still wave](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/45589?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y25$23Dec+25,+2010)," *Afro-American* (Baltimore, MD).
 
-[^12]: United Press International, "Black Students Protest Rebel Flag At Ole Miss," *Atlanta Daily World*.
+[^12]: United Press International, "[Black Students Protest Rebel Flag At Ole Miss](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46353?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)," *Atlanta Daily World*.
 
-[^13]: Daniel, "2 decades after Ole Miss riot Stars and Bars still wave," *Afro-American* (Baltimore, MD).
+[^13]: Daniel, "[2 decades after Ole Miss riot Stars and Bars still wave](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/45589?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y25$23Dec+25,+2010)," *Afro-American* (Baltimore, MD).
 
-[^14]: United Press International, "Black Students Protest Rebel Flag At Ole Miss," *Atlanta Daily World*.
+[^14]: United Press International, "[Black Students Protest Rebel Flag At Ole Miss](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46353?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)," *Atlanta Daily World*.
 
-[^15]: United Press International, "Black Students Protest Rebel Flag At Ole Miss," *Atlanta Daily World*.
+[^15]: United Press International, "[Black Students Protest Rebel Flag At Ole Miss](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46353?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)," *Atlanta Daily World*.
 
-[^16]: United Press International, "Use of rebel flag stirs dispute at Ole Miss," *Afro-American* (Baltimore, MD).
+[^16]: United Press International, "[Use of rebel flag stirs dispute at Ole Miss](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/45589?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y25$23Dec+25,+2010)," *Afro-American* (Baltimore, MD).
 
-[^17]: Associated Press, "Ole Miss denies impeding students' rights," *Philadelphia Tribune*.
+[^17]: Associated Press, "[Ole Miss denies impeding students' rights](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010)," *Philadelphia Tribune*.
 
-[^18]: Associated Press, "Ole Miss denies impeding students' rights," *Philadelphia Tribune*.
+[^18]: Associated Press, "[Ole Miss denies impeding students' rights](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010)," *Philadelphia Tribune*.
 
-[^19]: Associated Press, "Ole Miss denies impeding students' rights," *Philadelphia Tribune*.
+[^19]: Associated Press, "[Ole Miss denies impeding students' rights](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46478?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y31$23Dec+31,+2010)," *Philadelphia Tribune*.
 
-[^20]: *Atlanta Daily World*, "Miss. Students Against Waving Confederate Flag."
+[^20]: *Atlanta Daily World*, "[Miss. Students Against Waving Confederate Flag](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46353?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)."
