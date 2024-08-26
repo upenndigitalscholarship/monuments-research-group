@@ -12,11 +12,23 @@ Black journalists investigating the Klan documented both the interstate networks
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "Black Journalists Challenge Klan Claims to Be a 'Local' Organization." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/klan-claims-to-be-a-local-organization/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
