@@ -18,6 +18,20 @@ The *[Cleveland Call](https://www.proquest.com/docview/184164600/F0CF95FFA3324C8
 
 > More than 700 white-sheeted Georgia Crackers assembled last week atop historic Stone Mountain near here to herald the rebirth of the notorious Ku Klux Klan, dedicated to 'white supremacy.' The bigoted bed-sheeters held a 2-hour, torch-lighted celebration a few hundred yards from the Confederate memorial which never should have been built.[^13]
 
+*Justin Seward*
+
+<br>
+
+<hr>
+
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "'Bigoted Bed-Sheeters': Fiery Crosses Symbolize a Revival on Stone Mountain." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/fairview,-ky-monument-to-davis/.
+
 <br>
 
 <hr>
