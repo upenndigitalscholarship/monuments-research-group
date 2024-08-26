@@ -27,6 +27,18 @@ The article linked the Ku Klux Klan’s activities in Georgia to the group’s 1
 
 <br>
 
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "'Roost Right on the Ankles of Congress': The Dallas Express and Confederate Commemoration." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/%E2%80%9Croost-right-on-the-ankles-of-congress%E2%80%9D-the-\_dallas-express\_-and-confederate-commemoration/.
+
+<br>
+
+<hr>
+
+<br>
+
 **References**
 
 Library of Congress, “The Dallas Express (Dallas, Tex.) 1893-1970.” <https://www.loc.gov/item/sn83025779>.
