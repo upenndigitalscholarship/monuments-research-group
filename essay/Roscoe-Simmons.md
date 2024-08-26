@@ -1,5 +1,5 @@
 ---
-title: '"Suppose You Really Knew Your Story?" Roscoe Simmons, Evocative Critic
+title: '"Suppose You Really Knew Your Story?": Roscoe Simmons, Evocative Critic
   of Confederate Commemoration'
 lat: 41.8317803
 long: -87.6937208
@@ -59,11 +59,23 @@ Simmons' writing was evocative and distinctive. The delivery of his arguments wa
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "'Suppose You Really Knew Your Story?': Roscoe Simmons, Evocative Critic of Confederate Commemoration." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/roscoe-simmons/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
