@@ -44,6 +44,18 @@ However, these plans never came to fruition. It would not be until 1998 that a m
 
 <br>
 
+*Please cite as*: 
+
+<br>
+
+Haynie, Olivia. "Early Commentary on Confederate Commemoration." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/early-commentary-on-confederate-commemoration/.
+
+<br>
+
+<hr>
+
+<br>
+
 **References**
 
 African-American Civil War Memorial and Museum. “About the Museum.” Afroamcivilwar.org. Accessed July 26, 2024, https://afroamcivilwar.org/aacwm-history/.
