@@ -5,7 +5,7 @@ lat: 38.889943
 long: -77.0116254
 topic: Statuary Hall in the Capitol
 ---
-In April 1926, the *New York Amsterdam News*[^1] and the *Pittsburgh Courier*[^2] simultaneously printed a letter authored by Neval Thomas, a civil rights activist then serving as president of the Washington, D.C. branch of the NAACP.
+In April 1926, the *[New York Amsterdam News](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/40377?accountid=14707&decadeSelected=1930+-+1939&yearSelected=1938&monthSelected=08&issueNameSelected=01938Y08Y27$23Aug+27,+1938)*[^1] and the *[Pittsburgh Courier](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/28476?accountid=14707&decadeSelected=1950+-+1959&yearSelected=1950&monthSelected=08&issueNameSelected=01950Y08Y12$23Aug+12,+1950)*[^2] simultaneously printed a letter authored by Neval Thomas, a civil rights activist then serving as president of the Washington, D.C. branch of the NAACP.
 
 Thomas's letter criticized plans to erect a statue to Alexander Stephens, vice-president of the CSA, in the National Statuary Hall of the Capitol Building. The letter was addressed to the Architect of the Capitol, arguing that Stephens "wears the stain of helping to found the only government in the history of the world whose sole purpose was the perpetuation of slavery."[^3] Thomas connected the Stephens monument to specific injustices in the long struggle against racism, proclaiming that Stephens
 
@@ -20,7 +20,7 @@ Thomas also drew a clear line between the myth of the Lost Cause and the evocati
 
 The federal government ignored these arguments, and a statue of Stephens—a gift from the state of Georgia—was placed in Statuary Hall in 1927.
 
-After the statue was installed, another nationally renowned civil rights leader, Mary Church Terrell, wrote an op-ed for the *New Journal and Guide* condemning the statue. She noted that
+After the statue was installed, another nationally renowned civil rights leader, Mary Church Terrell, wrote an op-ed for the *[New Journal and Guide](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46472?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)* condemning the statue. She noted that
 
 > In no other country in the wide world would such a scene be possible as was witnessed in the Capitol a few days ago, when the statue of a man who had tried to destroy his government was received with gratitude and praise by one of its highest representatives![^6]
 
@@ -50,33 +50,33 @@ Haynie, Olivia. "'Cold Marble Can Proclaim Its Cause': The Alexander Stephens St
 
 **References**
 
-Mary Church Terrell. "Up-To-Date: Vice President of Confederacy Lauded."
+Mary Church Terrell. "[Up-To-Date: Vice President of Confederacy Lauded](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46472?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)."
 *New Journal and Guide* (Norfolk, VA). December 24, 1927.
 
-*New York Amsterdam News*. "Neval Thomas Opposes Statue to Confederate Leader in Statuary Hall." April 7, 1926.
+*New York Amsterdam News*. "[Neval Thomas Opposes Statue to Confederate Leader in Statuary Hall](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/40377?accountid=14707&decadeSelected=1930+-+1939&yearSelected=1938&monthSelected=08&issueNameSelected=01938Y08Y27$23Aug+27,+1938)." April 7, 1926.
 
-*Pittsburgh Courier*. "Neval Thomas Fights Statue For Stephens." April 10, 1926.
+*Pittsburgh Courier*. "[Neval Thomas Fights Statue For Stephens](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/28476?accountid=14707&decadeSelected=1950+-+1959&yearSelected=1950&monthSelected=08&issueNameSelected=01950Y08Y12$23Aug+12,+1950)." April 10, 1926.
 
-[^1]: *New York Amsterdam News*, "Neval Thomas Opposes Statue to
-    Confederate Leader in Statuary Hall."
+[^1]: *New York Amsterdam News*, "[Neval Thomas Opposes Statue to
+    Confederate Leader in Statuary Hall](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/40377?accountid=14707&decadeSelected=1930+-+1939&yearSelected=1938&monthSelected=08&issueNameSelected=01938Y08Y27$23Aug+27,+1938)."
 
-[^2]: *Pittsburgh Courier*, "Neval Thomas Fights Statue For
-    Stephens."
+[^2]: *Pittsburgh Courier*, "[Neval Thomas Fights Statue For
+    Stephens](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/28476?accountid=14707&decadeSelected=1950+-+1959&yearSelected=1950&monthSelected=08&issueNameSelected=01950Y08Y12$23Aug+12,+1950)."
 
-[^3]: *New York Amsterdam News*, "Neval Thomas Opposes Statue to
-    Confederate Leader in Statuary Hall."
+[^3]: *New York Amsterdam News*, "[Neval Thomas Opposes Statue to
+    Confederate Leader in Statuary Hall](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/40377?accountid=14707&decadeSelected=1930+-+1939&yearSelected=1938&monthSelected=08&issueNameSelected=01938Y08Y27$23Aug+27,+1938)."
 
-[^4]: *New York Amsterdam News*, "Neval Thomas Opposes Statue to
-    Confederate Leader in Statuary Hall."
+[^4]: *New York Amsterdam News*, "[Neval Thomas Opposes Statue to
+    Confederate Leader in Statuary Hall](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/40377?accountid=14707&decadeSelected=1930+-+1939&yearSelected=1938&monthSelected=08&issueNameSelected=01938Y08Y27$23Aug+27,+1938)."
 
-[^5]: *New York Amsterdam News*, "Neval Thomas Opposes Statue to
-    Confederate Leader in Statuary Hall."
+[^5]: *New York Amsterdam News*, "[Neval Thomas Opposes Statue to
+    Confederate Leader in Statuary Hall](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/40377?accountid=14707&decadeSelected=1930+-+1939&yearSelected=1938&monthSelected=08&issueNameSelected=01938Y08Y27$23Aug+27,+1938)."
 
-[^6]: Terrell, "Up-To-Date: Vice President of Confederacy Lauded." *New
+[^6]: Terrell, "[Up-To-Date: Vice President of Confederacy Lauded](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46472?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)." *New
     Journal and Guide*.
 
-[^7]: Terrell, "Up-To-Date: Vice President of Confederacy Lauded." *New
+[^7]: Terrell, "[Up-To-Date: Vice President of Confederacy Lauded](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46472?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)." *New
     Journal and Guide*.
 
-[^8]: Terrell, "Up-To-Date: Vice President of Confederacy Lauded." *New
+[^8]: Terrell, "[Up-To-Date: Vice President of Confederacy Lauded](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/46472?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y30$23Dec+30,+2010)." *New
     Journal and Guide*.
