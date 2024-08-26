@@ -32,7 +32,7 @@ English's labeling of Benson's protest as "ridiculous" reveals that Americans we
 
 <br>
 
-Please cite as: 
+*Please cite as*: 
 
 <br>
 
