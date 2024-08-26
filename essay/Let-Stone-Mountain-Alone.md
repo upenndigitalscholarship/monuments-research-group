@@ -20,9 +20,9 @@ Black newspapers frequently denounced the monument even in its very early days. 
 
 The *[Chicago Defender](https://www.proquest.com/publication/46913?OpenUrlRefId=info:xri/sid:primo&parentSessionId=DuN6Hr3sRTFlPNZkj%2FS3RXQHkzORoP%2B5yCxOqjsW7YU%3D&accountid=14707&decadeSelected=1960%20-%201969&yearSelected=1924&monthSelected=08&issueNameSelected=01924Y08Y23%2423Aug%2B23%2C%2B1924)* published an article discussing the construction of the memorial in 1923:
 
-> Gutzen \[sic] Borglum, noted sculptor, promises to draw on the side of Stone Mountain in Georgia a tribute to the Confederate soldiers that will overshadow every other memorial in the world... The memorial will extend a thousand feet and more across the face of the mountain. Lee and Jackson will be seen standing reviewing the Confederate armies. Jefferson Davis will be carved looking down on his two heroes.[^11]
+> Gutzen \[sic] Borglum, noted sculptor, promises to draw on the side of Stone Mountain in Georgia a tribute to the Confederate soldiers that will overshadow every other memorial in the world... The memorial will extend a thousand feet and more across the face of the mountain. Lee and Jackson will be seen standing reviewing the Confederate armies. Jefferson Davis will be carved looking down on his two heroes.[^11](Simmons, "\[The Week](https\://www.proquest.com/publication/46913?OpenUrlRefId=info:xri/sid:primo&parentSessionId=DuN6Hr3sRTFlPNZkj%2FS3RXQHkzORoP%2B5yCxOqjsW7YU%3D&accountid=14707&decadeSelected=1960%20-%201969&yearSelected=1924&monthSelected=08&issueNameSelected=01924Y08Y23%2423Aug%2B23%2C%2B1924).")
 
-The *[Defender](https://www.proquest.com/publication/46913?OpenUrlRefId=info:xri/sid:primo&parentSessionId=DuN6Hr3sRTFlPNZkj%2FS3RXQHkzORoP%2B5yCxOqjsW7YU%3D&accountid=14707&decadeSelected=1960%20-%201969&yearSelected=1924&monthSelected=08&issueNameSelected=01924Y08Y23%2423Aug%2B23%2C%2B1924)* editors wryly added: "Very pretty, but don't let that worry you. Whatever may be written on the side of Stone Mountain will not disturb the Emancipation Proclamation."[^12] They also attacked what they saw as the corrupt culture responsible for the monument: "The South, home of determined unforgetting, unforgiving people, is behind this monument to the Lost Cause."[^13]
+The *[Defender](https://www.proquest.com/publication/46913?OpenUrlRefId=info:xri/sid:primo&parentSessionId=DuN6Hr3sRTFlPNZkj%2FS3RXQHkzORoP%2B5yCxOqjsW7YU%3D&accountid=14707&decadeSelected=1960%20-%201969&yearSelected=1924&monthSelected=08&issueNameSelected=01924Y08Y23%2423Aug%2B23%2C%2B1924)* editors wryly added: "Very pretty, but don't let that worry you. Whatever may be written on the side of Stone Mountain will not disturb the Emancipation Proclamation."[^12](Simmons, "\[The Week](https\://www.proquest.com/publication/46913?OpenUrlRefId=info:xri/sid:primo&parentSessionId=DuN6Hr3sRTFlPNZkj%2FS3RXQHkzORoP%2B5yCxOqjsW7YU%3D&accountid=14707&decadeSelected=1960%20-%201969&yearSelected=1924&monthSelected=08&issueNameSelected=01924Y08Y23%2423Aug%2B23%2C%2B1924).") They also attacked what they saw as the corrupt culture responsible for the monument: "The South, home of determined unforgetting, unforgiving people, is behind this monument to the Lost Cause."[^13](Simmons, "\[The Week](https\://www.proquest.com/publication/46913?OpenUrlRefId=info:xri/sid:primo&parentSessionId=DuN6Hr3sRTFlPNZkj%2FS3RXQHkzORoP%2B5yCxOqjsW7YU%3D&accountid=14707&decadeSelected=1960%20-%201969&yearSelected=1924&monthSelected=08&issueNameSelected=01924Y08Y23%2423Aug%2B23%2C%2B1924).")
 
 Similarly, the *[Pittsburgh Courier](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)* published an article in 1925 decrying the Stone Mountain memorial:
 
@@ -32,11 +32,23 @@ The article concluded with a blunt prescription: "Just enough work has been done
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "'The South Believes in Human Slavery': Black Journalists Criticize Stone Mountain Confederate Monument." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/let-stone-mountain-alone/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
@@ -95,11 +107,5 @@ Simmons, Roscoe. "[The Week](https://www.proquest.com/publication/46913?OpenUrlR
 [^9]: *Chicago Defender*, "[Rebel Image on Mountain Criticized](https://www.proquest.com/publication/46913?OpenUrlRefId=info:xri/sid:primo&parentSessionId=DuN6Hr3sRTFlPNZkj%2FS3RXQHkzORoP%2B5yCxOqjsW7YU%3D&accountid=14707&decadeSelected=1960%20-%201969&yearSelected=1924&monthSelected=08&issueNameSelected=01924Y08Y23%2423Aug%2B23%2C%2B1924)."
 
 [^10]: *Chicago Defender*, "[Rebel Image on Mountain Criticized](https://www.proquest.com/publication/46913?OpenUrlRefId=info:xri/sid:primo&parentSessionId=DuN6Hr3sRTFlPNZkj%2FS3RXQHkzORoP%2B5yCxOqjsW7YU%3D&accountid=14707&decadeSelected=1960%20-%201969&yearSelected=1924&monthSelected=08&issueNameSelected=01924Y08Y23%2423Aug%2B23%2C%2B1924)."
-
-[^11]: Simmons, "[The Week](https://www.proquest.com/publication/46913?OpenUrlRefId=info:xri/sid:primo&parentSessionId=DuN6Hr3sRTFlPNZkj%2FS3RXQHkzORoP%2B5yCxOqjsW7YU%3D&accountid=14707&decadeSelected=1960%20-%201969&yearSelected=1924&monthSelected=08&issueNameSelected=01924Y08Y23%2423Aug%2B23%2C%2B1924)."
-
-[^12]: Simmons, "[The Week](https://www.proquest.com/publication/46913?OpenUrlRefId=info:xri/sid:primo&parentSessionId=DuN6Hr3sRTFlPNZkj%2FS3RXQHkzORoP%2B5yCxOqjsW7YU%3D&accountid=14707&decadeSelected=1960%20-%201969&yearSelected=1924&monthSelected=08&issueNameSelected=01924Y08Y23%2423Aug%2B23%2C%2B1924)."
-
-[^13]: Simmons, "[The Week](https://www.proquest.com/publication/46913?OpenUrlRefId=info:xri/sid:primo&parentSessionId=DuN6Hr3sRTFlPNZkj%2FS3RXQHkzORoP%2B5yCxOqjsW7YU%3D&accountid=14707&decadeSelected=1960%20-%201969&yearSelected=1924&monthSelected=08&issueNameSelected=01924Y08Y23%2423Aug%2B23%2C%2B1924)."
 
 [^14]: *Pittsburgh Courier*, "[Let Stone Mountain Alone](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
