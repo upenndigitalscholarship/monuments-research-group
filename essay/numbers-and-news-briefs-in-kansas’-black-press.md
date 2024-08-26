@@ -22,6 +22,18 @@ This genre of short news briefs observing, but not commenting on Confederate com
 
 <br>
 
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "Numbers and News Briefs in Kansas’ Black Press." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/numbers-and-news-briefs-in-kansas%E2%80%99-black-press/.
+
+<br>
+
+<hr>
+
+<br>
+
 **References**
 
 *Advocate* (Coffeyville, KS). “[Vets Plant Memorial Trees](https://infoweb-newsbank-com.proxy.library.upenn.edu/apps/readex/publication-browse?p=EANAAA&t=pubname%3A12AE42418574BA80%21Advocate&year=1926).” September 25, 1925.
