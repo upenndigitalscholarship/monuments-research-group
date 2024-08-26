@@ -13,11 +13,23 @@ Martin went on to discuss Davis's treason—his being "twice indicted" but never
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "No Churches for Judas and Pilate: Richard B. Martin on the 1960 Jefferson Davis Postage Stamp Proposal." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/davis-stamp/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
