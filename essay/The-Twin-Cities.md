@@ -31,11 +31,23 @@ In a 1961 article, the *Minneapolis Spokesman*/*St. Paul Recorder* recorded psyc
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "'Nothing Quite So Dead as an Idea Tried and Found Wanting': Criticisms of Confederate Commemoration from the Twin Cities." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/the-twin-cities/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
