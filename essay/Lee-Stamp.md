@@ -22,11 +22,23 @@ Rogers offered, as an alternative, a stamp commemorating Black soldiers, whom he
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "'The Foremost Apostle of Slavery': J.A. Rogers on the 1937 Lee Stamps." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/lee-stamp/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
