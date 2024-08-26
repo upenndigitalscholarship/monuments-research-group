@@ -57,7 +57,7 @@ The Ashe statue was unveiled on Monument Avenue on July 10, 1996. In June of 202
 
 <br>
 
-Please cite as: 
+*Please cite as*: 
 
 <br>
 
