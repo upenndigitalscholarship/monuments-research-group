@@ -41,6 +41,18 @@ Whether any change in the school environment came from the forum or the sensitiv
 
 <br>
 
+*Please cite as*: 
+
+<br>
+
+Haynie, Olivia. "Comparing Malcolm X and Confederate Battle Flags: Carver High School Controversy." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/comparing-malcolm-x-and-confederate-battle-flags-carver-high-school-controversy/.
+
+<br>
+
+<hr>
+
+<br>
+
 **References**
 
 Hannon, Karen M. “[Confederate Flag-waving Sparks Carver Fight: Students Say They Felt Tensions Rise](https://newspapers.digitalnc.org/lccn/sn85042324/1993-03-18/ed-1/seq-1/#words=Carver+Confederate+Fight+fight+flag+waving+flag-waving+Flag-waving+Sparks).” *Winston-Salem Chronicle*, March 18, 1993.
