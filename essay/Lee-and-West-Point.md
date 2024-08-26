@@ -8,7 +8,7 @@ Robert E. Lee's military career began at West Point Military Academy, where he g
 
 But after Virginia's secession from the Union, Lee defected from the United States to the Confederacy, where he eventually rose to become the supreme Southern military chief. This left a complicated legacy at West Point: Lee was an illustrious leader known for skilled generalship, but also a traitor who fought against the United States. Black journalists were particularly interested in exposing West Point's efforts to whitewash Lee's betrayal.
 
-In 1931, the *[Afro-American](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/45589?accountid=14707&decadeSelected=1930+-+1939&yearSelected=1933&monthSelected=09&issueNameSelected=01933Y09Y30$23Sep+30,+1933)* published an article on the United Daughters of the Confederacy's donation of a painting of Lee to West Point, in which they connected the receipt of the gift to existing patterns of racism at the institution: "There is so much of the spirit of this rebel general and of the Confederacy in West Point," they wrote, that Black students have a difficult time getting admitted and "find it impossible after graduation to secure assignments with troops."[^3]
+In 1931, the *[Afro-American](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/45589?accountid=14707&decadeSelected=1930+-+1939&yearSelected=1933&monthSelected=09&issueNameSelected=01933Y09Y30$23Sep+30,+1933)* published an article on the United Daughters of the Confederacy's donation of a painting of Lee to West Point, in which they connected the receipt of the gift to existing patterns of racism at the institution: "There is so much of the spirit of this rebel general and of the Confederacy in West Point," they wrote, that Black students have a difficult time getting admitted and "find it impossible after graduation to secure assignments with troops."[^3](*Afro-American*, "\[Lee Sneaks into West Point](https\://proxy.library.upenn.edu/login?url=https\://www.proquest.com/publication/45589?accountid=14707&decadeSelected=1930+-+1939&yearSelected=1933&monthSelected=09&issueNameSelected=01933Y09Y30$23Sep+30,+1933).")
 
 The article pointed out the absurdity of hanging a portrait of a rebel leader at a military institution:
 
@@ -22,11 +22,23 @@ In a 1933 article by the *[Pittsburgh Courier](https://www.newspapers.com/paper/
 
 *Justin Seward*
 
-*<br>*
+<br>
 
-*<hr>*
+<hr>
 
-*<br>*
+<br>
+
+*Please cite as*: 
+
+<br>
+
+Seward, Justin. "Grasping at Will-o'-Wisps at West Point." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/lee-and-west-point/.
+
+<br>
+
+<hr>
+
+<br>
 
 **References**
 
@@ -44,8 +56,6 @@ In a 1933 article by the *[Pittsburgh Courier](https://www.newspapers.com/paper/
 [^1]: *Public Broadcasting Service*, "Biography: General Robert E. Lee."
 
 [^2]: *Public Broadcasting Service*, "The Life of Robert E. Lee."
-
-[^3]: *Afro-American*, "[Lee Sneaks into West Point](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/45589?accountid=14707&decadeSelected=1930+-+1939&yearSelected=1933&monthSelected=09&issueNameSelected=01933Y09Y30$23Sep+30,+1933)."
 
 [^4]: *Pittsburgh Courier*, "[Awarding Lee Sword to West Point cadet Attacked by G.A.R.](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)"
 
