@@ -12,6 +12,14 @@ Generous funding and support were provided by a number of sources, including the
 
 [Comments and corrections](https://rels.sas.upenn.edu/people/donovan-schaefer) on this student-faculty collaborative project are welcome! 
 
+Follow us on our social media feeds!
+
+**Facebook[](https://www.facebook.com/falseimageofhistory/)**
+
+**[Instagram](https://www.instagram.com/falseimageofhistory/)**[](https://www.instagram.com/falseimageofhistory/)
+
+**[Bluesky](https://bsky.app/profile/falseimage.bsky.social)**[](https://bsky.app/profile/falseimage.bsky.social)
+
 *A note about links: Some hyperlinks on this site direct to private digital repositories that are not publicly accessible. Public online resources are also changing constantly and may become unavailable over time. We apologize in advance for any links that don't work as intended.*
 
 <div class="content-warning">
