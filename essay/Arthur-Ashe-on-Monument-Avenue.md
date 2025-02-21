@@ -49,8 +49,6 @@ The *Philadelphia Tribune* noted that the statue would be moved from Monument Av
 
 The Ashe statue was unveiled on Monument Avenue on July 10, 1996. In June of 2020, during the protest movement that brought down Confederate monuments around the US, the statue was targeted by a vandal who tagged it with the slogan "White Lives Matter."
 
-Test
-
 *Justin Seward*
 
 <br>
