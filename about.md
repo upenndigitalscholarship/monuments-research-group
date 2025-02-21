@@ -10,6 +10,10 @@ Begun at the University of Pennsylvania in 2022, this project set out to build a
 
 Generous funding and support were provided by a number of sources, including the [Center for Undergraduate Research and Fellowships](https://curf.upenn.edu/), the [Center for the Study of Race, Ethnicity, and Immigration](https://cseri.sas.upenn.edu/), and the [Price Lab for Digital Humanities](https://pricelab.sas.upenn.edu/).
 
+[Comments and corrections](https://rels.sas.upenn.edu/people/donovan-schaefer) on this student-faculty collaborative project are welcome! 
+
+*Please note that some hyperlinks on this site direct to private digital repositories that are not publicly accessible.*
+
 <div class="content-warning">
 
 *Black journalists in the post-Reconstruction era unflinchingly documented the white supremacist violence, both physical and psychological, inflicted on Black people during this period. Wherever possible, we have used the language and descriptions presented in these materials to faithfully convey the pain and sense of urgency of their moment. Readers can expect to find offensive language and references to violent episodes in these articles.*
@@ -36,6 +40,8 @@ Olivia Haynie is a member of the Class of 2024 in the College of Arts and Scienc
 
 *Many of the articles presented Confederate monument controversy as only affecting Blacks and as a symbolic issue alone. However, the erection of these Confederate monuments was spurred by institutional racism, which affects everyone in the United States regardless of race. Additionally, the problem is not just the monuments’ existence but that people wanted them up in the first place and why. Further investigation into how language places people within this issue—or removes them from it—could shed light on why the Confederate monument controvery has been drawn out for over a century.* - Olivia Haynie
 
+Here's Olivia Haynie [discussing some of her main takeaways](https://www.instagram.com/p/DGLtyNgJNXQ/) from this project.
+
 <br style="clear:both" />
 
 #### Justin J. Seward
@@ -45,6 +51,8 @@ Olivia Haynie is a member of the Class of 2024 in the College of Arts and Scienc
 Justin J. Seward is a student in the College of Arts and Sciences at the University of Pennsylvania, set to graduate in the Class of 2025. He is pursuing a major in Sociology and a minor in Religious Studies, with a specific focus on the intersection of religion and the public sphere. He has been working on this project since summer 2022. Justin is a Penn Civic Scholar, Benjamin Franklin Scholar, and Penn Social Equity and Community Fellow where he is deeply committed to public and community engaged scholarship. He intends to go to graduate school for a PhD in Sociology after completing his undergraduate degree and receive a Masters of Divinity in the future.
 
 *Confederate monuments are not just symbols of hatred and white supremacy, they are perpetuators of it. Lynchings, cross burnings, and KKK rituals are rudimentary parts of the existence of Confederate monuments, where they were not passive symbols but active sites promoting white supremacy. Beyond individual instances of racism, their collective existence is a monument to the spirit of white supremacy and the systemic racism that continues to grip this country and its history. As white people debated whether the monuments reflected history or treason, Black people called out their true nature.* - Justin Seward
+
+Here's Justin Seward [discussing some of his main takeaways](https://www.instagram.com/p/DGQ6UIYMc51/) from this project.
 
 <br style="clear:both" />
 
