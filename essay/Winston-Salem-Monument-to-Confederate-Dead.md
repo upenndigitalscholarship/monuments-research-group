@@ -1,6 +1,6 @@
 ---
-title: '"A Symbol of Enslavement and Secession": The Winston-Salem Monument to
-  Confederate Dead'
+title: '"Show the White Supremacist that We Will Not Stand for It": The
+  Winston-Salem Monument to Confederate Dead'
 lat: 36.0969323
 long: -80.2437619
 topic: Monuments and Locations
@@ -19,7 +19,9 @@ In 2017, the monument was the site of a protest conducted by the group Indivisib
 
 On the day of the demonstration, the members of Indivisible Piedmont were met by over a dozen residents armed with guns, who claimed to be there to protect the statue. The *Chronicle* spoke to two of these citizens, both of whom declined to offer their last names. One man, John, asserted he and his compatriots were not part of any hate group and that their agenda was simply to preserve history "no matter good or bad."[^7] The other man, Rodney, insisted that the KKK and neo-Nazis had hijacked the symbols of the Confederacy. He stated. "We don't support the KKK... it has nothing to do with the Civil War or what Robert Lee represented at all. A lot of people are misinformed on why they're taking these \[monuments] down."[^8]
 
-The monument was removed in 2019 and placed into city storage. In late 2022, the North Carolina Supreme Court dismissed the UDC's attempts to challenge the removal as the monument was on private property.[^9]
+Conversely, the *Chronicle* also interviewed Bishop Todd Fulton of The Minsters’ Conference of Winston-Salem and Vicinity, whose organization sponsored a vigil at the monument. Fulton insisted that "we have to stand up against all forms of hate and show the white supremacist that we will not stand for it anymore."[^9]
+
+The monument was removed in 2019 and placed into city storage. In late 2022, the North Carolina Supreme Court dismissed the UDC's attempts to challenge the removal as the monument was on private property.[^10]
 
 *Olivia Haynie*
 
@@ -65,6 +67,8 @@ Stinson, Tevin. "[Protesters and others protecting Confederate monument meet dow
 
 [^7]: Stinson, "[Protesters and others protecting Confederate monument meet downtown](https://www.digitalnc.org/newspapers/winston-salem-chronicle-winston-salem-n-c/)," *Winston-Salem Chronicle*.
 
-[^8]: Stinson, "[Protesters and others protecting Confederate monument meet downtown](https://www.digitalnc.org/newspapers/winston-salem-chronicle-winston-salem-n-c/)," *Winston-Salem Chronicle*.
+[^8]: Stinson, "[Protesters and others protecting Confederate monument meet downtown](<>)," *Winston-Salem Chronicle*.
 
-[^9]: Schoenbaum, "NC Supreme Court dismisses suit to return Confederate statue," *apnews.com*
+[^9]: Stinson, "[Protesters and others protecting Confederate monument meet downtown](https://www.digitalnc.org/newspapers/winston-salem-chronicle-winston-salem-n-c/)," *Winston-Salem Chronicle*.
+
+[^10]: Schoenbaum, "NC Supreme Court dismisses suit to return Confederate statue," *apnews.com*
