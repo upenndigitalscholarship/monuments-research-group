@@ -1,5 +1,5 @@
 ---
-title: '"The Foremost Apostle of Slavery": J.A. Rogers on the 1937 Lee Stamps'
+title: '"The Foremost Apostle of Slavery": J. A. Rogers on the 1937 Lee Stamps'
 lat: 40.4295644
 long: -80.2855788
 topic: Newspapers, Cities, and Individual Authors
