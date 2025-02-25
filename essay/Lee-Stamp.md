@@ -4,7 +4,7 @@ lat: 40.4295644
 long: -80.2855788
 topic: Newspapers, Cities, and Individual Authors
 ---
-In 1937, the *[Pittsburgh Courier](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)* published an editorial written by staff correspondent J.A. Rogers concerning stamps honoring Confederate General Robert E. Lee.[^1] Although the article refers to April 15, 1937, as the day the "postage stamp \[was] struck in honor" of Lee, it seems more likely that it referred to a stamp printed several weeks prior on March 23, 1937 depicting both Lee and Stonewall Jackson.[^2] Rogers offered an extensive argument criticizing the choice to honor Lee on the stamp.
+In 1937, the *[Pittsburgh Courier](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)* published an editorial written by staff correspondent J. A. Rogers concerning stamps honoring Confederate General Robert E. Lee.[^1] Although the article refers to April 15, 1937, as the day the "postage stamp \[was] struck in honor" of Lee, it seems more likely that it referred to a stamp printed several weeks prior on March 23, 1937 depicting both Lee and Stonewall Jackson.[^2] Rogers offered an extensive argument criticizing the choice to honor Lee on the stamp.
 
 Rogers believed that Lee was the "greatest of all the champions of slavery," and that white Southerners had thus imagined him as a far more majestic figure than he actually was. He was also a traitor. "Had Lee succeeded," wrote Rogers, "the United States would now be two separate nations."[^3] Striking a patriotic note, Rogers favorably compared the "great, rich peaceful nation" of the United States to the situation of a number of conflict-riven states in South and Latin America, contending that this would have been the US's fate if Lee had triumphed.
 
@@ -44,24 +44,24 @@ Seward, Justin. "'The Foremost Apostle of Slavery': J.A. Rogers on the 1937 Lee 
 
 *Mystic Stamp Company*. "1937 4c Army and Navy: Lee and Jackson, Stratford Hall." https://www.mysticstamp.com/Products/United-States/788/USA/.
 
-Rogers, J.A. "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)." *Pittsburgh Courier*, April 17, 1937, 14.
+Rogers, J. A. "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)." *Pittsburgh Courier*, April 17, 1937, 14.
 
-[^1]: Rogers, J.A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
+[^1]: Rogers, J. A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
 
 [^2]: There is no record of a stamp printed on April 15<sup>th</sup> of Lee alone. Mystic Stamp Company, "1937 4c Army and Navy."
 
-[^3]: Rogers, J.A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
+[^3]: Rogers, J. A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
 
-[^4]: Rogers, J.A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
+[^4]: Rogers, J. A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
 
 [^5]: Rogers, J.A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
 
-[^6]: Rogers, J.A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
+[^6]: Rogers, J. A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
 
-[^7]: Rogers, J.A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
+[^7]: Rogers, J. A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
 
-[^8]: Rogers, J.A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
+[^8]: Rogers, J. A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
 
-[^9]: Rogers, J.A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
+[^9]: Rogers, J. A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
 
-[^10]: Rogers, J.A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
+[^10]: Rogers, J. A., "[Rogers Denounces 'The Robert E. Lee' Postage Stamp](https://www.newspapers.com/paper/new-pittsburgh-courier/13418/)."
