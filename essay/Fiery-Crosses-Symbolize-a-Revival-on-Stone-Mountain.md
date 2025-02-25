@@ -4,6 +4,8 @@ lat: 33.812371
 long: -84.1714439
 topic: Stone Mountain and the Klan
 ---
+*Black journalists have unflinchingly documented the white supremacist violence, both physical and psychological, inflicted on Black people. Wherever possible, we have used the language and descriptions presented in these materials to faithfully convey the pain and sense of urgency of their moment. Readers can expect to find offensive language in this article.*
+
 In 1945 and 1946 alone, at least five crosses were burned atop Stone Mountain, the largest Confederate Monument in existence.[^1] These cross-burnings signaled an attempt to jump-start both the third iteration of the Ku Klux Klan—with the second Klan having been inaugurated on Stone Mountain thirty years previous—and the stalled effort to complete the carvings on the mountain face.
 
 Whereas Mount Rushmore's location is remote, Stone Mountain is sited just a few miles outside Atlanta. The *[New York Age](https://www.newspapers.com/paper/the-new-york-age/893/)* reported that during World War II, cross burnings and Klan organizing efforts were largely suppressed due to the need for unity in winning the war. However, the Klan—well aware of its historical successes in postwar periods—hoped that postwar racial tensions would create favorable conditions for a resurgence.[^2]
