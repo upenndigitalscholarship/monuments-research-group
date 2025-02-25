@@ -6,7 +6,7 @@ topic: Flag Politics
 ---
 When a Black disc jockey in Chicago named Al Benson wanted to protest racism in his home state of Mississippi in early 1956, he came up with an unorthodox way of getting his message out. He arranged to have [3,000 copies of the U.S. Constitution](https://www.proquest.com/docview/491082198/2AE05BEED79149BFPQ/1?accountid=14707&sourcetype=Historical%20Newspapers) airdropped from planes flying over the state.[^1]
 
-Deeply alarmed at recent racist incidents in the state—especially the murder of Emmett Till—Benson wanted the tracts to remind the state's residents that "[they \[were] living under a democracy](https://www.proquest.com/docview/562566175/3CF524EC9E8640CDPQ/1?accountid=14707&sourcetype=Historical%20Newspapers)."[^2]
+Deeply alarmed at recent racist incidents in the state—especially the murder of Emmett Till—Benson wanted the tracts to remind the state's residents that "\[they [were] living under a democracy](https://www.proquest.com/docview/562566175/3CF524EC9E8640CDPQ/1?accountid=14707&sourcetype=Historical%20Newspapers)."[^2]
 
 Benson did not make the drop himself, as he never received a response from state officials to his requests to make the flight. Instead, he hired two white pilots to carry out his plan.[^3]
 
@@ -22,7 +22,7 @@ English's own statement to the INS undermined his claim that the Confederate Bat
 
 This contradicted English's earlier claim that "nobody...got mad at Benson."
 
-English's labeling of Benson's protest as "ridiculous" reveals that Americans were often unwilling to confront the severe racism of the Civil Rights era time. Black journalists were keenly interested in unearthing the deeper story of how some white Southerners were reacting to challenges to segregation with violence and hostility. The ANP provided its member papers with twice-weekly news packets featuring reportage on people, institutions, and events related to the lives of Black Americans—even as non-Black news outlets were letting these stories slip through the cracks.[^7]
+English's labeling of Benson's protest as "ridiculous" reveals that Americans were often unwilling to confront the severe racism of the post-war era. Black journalists during the early years of the Civil Rights movement were keenly interested in unearthing the deeper story of how some white Southerners were reacting to challenges to segregation with violence and hostility. The ANP provided its member papers with twice-weekly news packets featuring reportage on people, institutions, and events related to the lives of Black Americans—even as non-Black news outlets were letting these stories slip through the cracks.[^7]
 
 *Olivia Haynie*
 
