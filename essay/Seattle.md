@@ -13,7 +13,7 @@ Between 1903 and 1920, the *Seattle Republican* published a total of four articl
 
 The "mammy" figure may not have been an explicit Confederate reference like Lee or Davis in bronze, but the authors of this piece had no question as to what was really being celebrated.
 
-The *Seattle Republican* was equally acerbic toward the [statue of CSA General Robert E. Lee proposed for Statuary Hall in the Capitol Building](https://falseimage.pennds.org/essay/Statuary-Hall---Lee). In 1903, as the idea picked up steam in Virginia, the *Seattle Republican* argued that if the statue was erected, then "no objection should be made by it to the friends of Benedict Arnold placing a statue of him likewise in the National Capitol."[^2] Their conviction was that to commemorate a traitor to the country would be to dishonor the nation: "no more shameful nor disgraceful scene could be enacted than the placing of Lee's monument in the National capital."[^3]
+The *Seattle Republican* was equally acerbic in their assessment of the [statue of CSA General Robert E. Lee proposed for Statuary Hall in the Capitol Building](https://falseimage.pennds.org/essay/Statuary-Hall---Lee). In 1903, as the idea picked up steam in Virginia, the *Seattle Republican* argued that if the statue was erected, then "no objection should be made by it to the friends of Benedict Arnold placing a statue of him likewise in the National Capitol."[^2] Their conviction was that to commemorate a traitor to the country would be to dishonor the nation: "no more shameful nor disgraceful scene could be enacted than the placing of Lee's monument in the National capital."[^3]
 
 Virginia's campaign succeeded, however, and in 1909, the year the statue was placed in Statuary Hall, the *Seattle Republican* wrote:
 
@@ -21,13 +21,15 @@ Virginia's campaign succeeded, however, and in 1909, the year the statue was pla
 
 The comparison between Lee and Benedict Arnold sought to activate American ideals of patriotism and loyalty—and contempt for treason. And a sharp, intensely frustrated accusation was lobbied at northern politicians whom these journalists saw as trying to curry favor with Southern states—a common criticism levied by northern Black newspapers. In a short article, the *Seattle Republican* also covered a dispute between two veterans—one Confederate, one Union—over the placing of the statue of Lee in Statuary Hall. According to the article, the Confederate had callously assaulted the Union veteran.[^6]
 
-Somewhat later, the *Enterprise* published two articles on Confederate commemoration in a three-month span. The first was a scathing commentary on the Democratic National Convention of 1928. The commentary focused primarily on political differences between the North and South, surveying everything from immigration to taxation to labor to racial tensions. The article concluded by bringing the point of racial exclusion in the Democratic party and its discriminatory policies to the forefront. The Northern Democrats in New York and elsewhere, according to the article, yielded "to the southern race point of view in the denial of the civil and human rights of colored citizens."[^7](_Enterprise_, "Smith and the Democratic Party.") The articles urged readers to explore "the troth of northern and southern democracy... at the unveiling of the monument to the Confederate General Stonewall Jackson and Robert E. Lee, at Stone mountain," which was supported by various Democratic politicians.[^8](_Enterprise_, "Smith and the Democratic Party.")
+Somewhat later, the *Enterprise* published two articles on Confederate commemoration in a one-year span. One was a scathing commentary on the Democratic National Convention of 1928. The commentary focused primarily on political differences between the North and South, surveying everything from immigration to taxation to labor to racial tensions. The article concluded by bringing the point of racial exclusion in the Democratic party and its discriminatory policies to the forefront. The Northern Democrats in New York and elsewhere, according to the article, yielded "to the southern race point of view in the denial of the civil and human rights of colored citizens."[^7](_Enterprise_, "Smith and the Democratic Party.") The articles urged readers to explore "the troth of northern and southern democracy... at the unveiling of the monument to the Confederate General Stonewall Jackson and Robert E. Lee, at Stone mountain," which was supported by various Democratic politicians.[^8](_Enterprise_, "Smith and the Democratic Party.")
 
 The *Enterprise* also commented in 1928 on the placement of [a statue of Alexander H. Stephens in Statuary Hall](https://falseimage.pennds.org/essay/Civil-Rights-Activists-Speak-Out-Against-Stephens%E2%80%99-Statue). The article began by quoting Stephens' 1878 declaration (made during his time in Congress) that he "wish\[ed] to see the old relation restored."[^9](_Enterprise_, "Carpentier's Famous Picture.") That "old relation" was enslavement. The *Enterprise* responded by warning their audience of the importance of forging alliances with antiracist whites:
 
 > First, you have Confederate flags returned; then you see the vice president of the Confederacy honored in the Capitol he wanted to tear down. Our white people are getting together. If you are wise, you will join them, make merry with them and shake hands.[^10](_Enterprise_, "Carpentier's Famous Picture.")
 
 The *Enterprise* ended on a hopeful note, foretelling that acclaimed Black Union veteran Henry Lincoln Johnson would someday be honored in Georgia's Capitol as well.
+
+
 
 *Justin Seward*
 
@@ -61,7 +63,7 @@ Seward, Justin. "'The Memory of the Damnable Days of the Past': Black Journalist
 
 *Enterprise*. "Smith and the Democratic Party." November 1, 1928, 4.
 
-*Enterprise*. "Carpentier's Famous Picture." January 13, 1928,1.
+*Enterprise*. "Carpentier's Famous Picture." January 13, 1928, 1.
 
 [^1]: *Seattle Republican*, "Erecting a Million Dollar Monument to the Black Mammies of the South."
 
@@ -74,3 +76,11 @@ Seward, Justin. "'The Memory of the Damnable Days of the Past': Black Journalist
 [^5]: *Seattle Republican*, "Robert E. Lee's Memory."
 
 [^6]: *Seattle Republican*, "In a Dispute Over the placing of the Statue of Robt. E. Lee."
+
+[^7]: *Enterprise*, "Smith and the Democratic Party."
+
+[^8]: *Enterprise*, "Smith and the Democratic Party."
+
+[^9]: *Enterprise*, "Carpentier's Famous Picture."
+
+[^10]: *Enterprise*, "Carpentier's Famous Picture."
