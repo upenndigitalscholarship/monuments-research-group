@@ -7,7 +7,7 @@ topic: Newspapers, Cities, and Individual Authors
 ---
 Minnesota's Twin Cities—Minneapolis and St. Paul—share a strong tradition of Black commentary on Confederate commemoration stemming back to the late nineteenth century. The Twin Cities played host to four (or five, depending on how you count) Black-led newspapers: the *Appeal*, the *Twin City Star*, the *Western Appeal*, the *Minneapolis Spokesman*, and the *St. Paul Recorder*. (The latter two were the same newspaper, but titled differently depending on which side of the metro area they were distributed.[^1]) Black journalists at these publications lent their powerful voices to the work of naming the injustices perpetuated by Confederate commemoration in the country.
 
-The *Appeal* published a number of articles between 1887 and 1923 on Confederate commemoration. The two earliest were from 1887, both covering the [emerging anchor of the future Monument Avenue](https://falseimage.pennds.org/essay/Lee-in-Richmond-Forging-Heavier-Chains)—the sculpture of Robert E. Lee in Richmond, Virginia. These pieces discussed the Parisian sculptor Antonin Mercié, the plans for the monument, and the laying of the cornerstone.[^2] In 1889, the *Appeal* published a fiery op-ed on the Lee memorial, observing that "if anybody believes the ex-Confederates are conquered because they are whipped, \[they are] sadly mistaken."[^3](*Appeal*, "If Anybody Believes the Ex-Confederates are Conquered,")
+The *Appeal* published a number of articles between 1887 and 1923 on Confederate commemoration. The two earliest were from 1887, both covering the [emerging anchor of the future Monument Avenue](https://falseimage.pennds.org/essay/Lee-in-Richmond-Forging-Heavier-Chains)—the sculpture of Robert E. Lee in Richmond, Virginia. These pieces discussed the Parisian sculptor Antonin Mercié, the plans for the monument, and the laying of the cornerstone.[^2] In 1889, the *Appeal* published a fiery op-ed on the Lee memorial, observing that "if anybody believes the ex-Confederates are conquered because they are whipped, \[they are] sadly mistaken."[^3][](*Appeal*, "If Anybody Believes the Ex-Confederates are Conquered,")
 
 The *Appeal* continued to monitor and comment on commemoration and the legacy of the Confederacy in the decades that followed. In 1902, for instance, the *Appeal* cited a recent meeting of the United Daughters of the Confederacy, at which "an immense confederate flag occupied the most conspicuous place over the stage, high above the stars and stripes," noting that "The Southern people are still rebels."[^4]
 
@@ -105,8 +105,9 @@ Bibb, Joseph D. "[Flying of Rebel Flag Condemned by Courier Writer](https://www.
 
 [^1]: Minnesota Historical Society, "About St. Paul Recorder 1934-2000."
 
-[^2]: *Appeal*, "[The Paris Sculptor](https://www.newspapers.com/paper/the-appeal/1348/)," 2; *Appeal*, "[The Laying of the
-    Cornerstone](https://www.newspapers.com/paper/the-appeal/1348/)," 2.
+[^2]: *Appeal*, "[The Paris Sculptor](https://www.newspapers.com/paper/the-appeal/1348/)," 2; *Appeal*, "[The Laying of the Cornerstone](https://www.newspapers.com/paper/the-appeal/1348/)," 2.
+
+[^3]: *Appeal*. "[If Anybody Believes the Ex-Confederates are Conquered](<>)."
 
 [^4]: *Appeal*, "[The Northern and Southern People](https://www.newspapers.com/paper/the-appeal/1348/)," 2.
 
@@ -114,32 +115,17 @@ Bibb, Joseph D. "[Flying of Rebel Flag Condemned by Courier Writer](https://www.
 
 [^6]: *Appeal*, "[The New North](https://www.newspapers.com/paper/the-appeal/1348/)," 2.
 
-[^7]: *Appeal*, "[Two Flags Displayed](https://www.newspapers.com/paper/the-appeal/1348/)," 6; *Appeal*, "[Minnesota Will Give
-    Back All Captured Confederate Battle Flags](https://www.newspapers.com/paper/the-appeal/1348/)," 2; *Appeal*, "[Rebs to
-    Honor K.K.K.](https://www.newspapers.com/paper/the-appeal/1348/)," 2; *Appeal*, "[Jeff Davis in the Capitol](https://www.newspapers.com/paper/the-appeal/1348/)," 2;
-    *Appeal*, "[In Good Old Georgia](https://www.newspapers.com/paper/the-appeal/1348/)," 2; *Afro-American*, "[By Weekly for
-    Mammy Statue](https://www.newspapers.com/paper/the-afro-american/37900/)," 1.
+[^7]: *Appeal*, "[Two Flags Displayed](https://www.newspapers.com/paper/the-appeal/1348/)," 6; *Appeal*, "[Minnesota Will Give Back All Captured Confederate Battle Flags](https://www.newspapers.com/paper/the-appeal/1348/)," 2; *Appeal*, "[Rebs to Honor K.K.K.](https://www.newspapers.com/paper/the-appeal/1348/)," 2; *Appeal*, "[Jeff Davis in the Capitol](https://www.newspapers.com/paper/the-appeal/1348/)," 2; *Appeal*, "[In Good Old Georgia](https://www.newspapers.com/paper/the-appeal/1348/)," 2; *Afro-American*, "[By Weekly for Mammy Statue](https://www.newspapers.com/paper/the-afro-american/37900/)," 1.
 
-[^8]: *Twin City Star*, "[Returning the Battleflags](https://www.newspapers.com/paper/the-twin-city-star/32317/)," 4; Fallows, "[The
-    Return of the Colors](https://www.newspapers.com/paper/the-twin-city-star/32317/)," 4; *Twin City Star*, "[Stars and Stripes and
-    Stars and Bars](https://www.newspapers.com/paper/the-twin-city-star/32317/)," 1.
+[^8]: *Twin City Star*, "[Returning the Battleflags](https://www.newspapers.com/paper/the-twin-city-star/32317/)," 4; Fallows, "[The Return of the Colors](https://www.newspapers.com/paper/the-twin-city-star/32317/)," 4; *Twin City Star*, "[Stars and Stripes and Stars and Bars](https://www.newspapers.com/paper/the-twin-city-star/32317/)," 1.
 
 [^9]: *Twin City Star*, "[Returning the Battleflags](https://www.newspapers.com/paper/the-twin-city-star/32317/)," 4.
 
-[^10]: *Western Appeal*, "[The Rebels Wince](https://www.newspapers.com/paper/the-appeal/1348/)"; *Western Appeal*, "[Notes of
-    the Times](https://www.newspapers.com/paper/the-appeal/1348/)"; *Western Appeal*, "[Take Notice](https://www.newspapers.com/paper/the-appeal/1348/)."
+[^10]: *Western Appeal*, "[The Rebels Wince](https://www.newspapers.com/paper/the-appeal/1348/)"; *Western Appeal*, "[Notes of the Times](https://www.newspapers.com/paper/the-appeal/1348/)"; *Western Appeal*, "[Take Notice](https://www.newspapers.com/paper/the-appeal/1348/)."
 
 [^11]: *Western Appeal*, "[Take Notice](https://www.newspapers.com/paper/the-appeal/1348/)."
 
-[^12]: *Minneapolis Spokesman*, "[Confused Texas Asks: 'Which Flag?'](https://www.loc.gov/item/sn83025247/1959-01-23/ed-1/)" 3;
-    *Minneapolis Spokesman*, "[Rebel Myths on Confederacy Blocks Dixie
-    Integration](https://www.loc.gov/item/sn83025247/1961-03-10/ed-1/)"; Newman, "[Background of Student Sit-Downs at Dixie
-    Store Lunch Counters](https://www.loc.gov/item/sn83025247/1960-02-19/ed-1/)," 1, 4; Hancock, "[The Presidential Candidates
-    and the Southern Tradition](https://www.loc.gov/item/sn83025247/1952-10-31/ed-1/)," 10; Bibb, "[Flying of Rebel Flag
-    Condemned by Courier Writer](https://www.loc.gov/item/sn83025247/1951-11-23/ed-1/)"; *Minneapolis Spokesman*, "[Adlai Waves
-    Rebel Flag](https://www.loc.gov/item/sn83025247/1952-10-31/ed-1/)," 12; *Minneapolis Spokesman*, "[NAACP Official Gives
-    National Picture; Urges End to Segregation](https://www.loc.gov/item/sn83025247/1952-02-15/ed-1/)," 2; *Minneapolis Spokesman*, "[Power
-    of a Myth](https://www.loc.gov/item/sn83025247/1956-02-03/ed-1/)," 2; *Minneapolis Spokesman*, "[Out West](https://www.loc.gov/item/sn83025247/1951-11-09/ed-1/)," 1.
+[^12]: *Minneapolis Spokesman*, "[Confused Texas Asks: 'Which Flag?'](https://www.loc.gov/item/sn83025247/1959-01-23/ed-1/)" 3; *Minneapolis Spokesman*, "[Rebel Myths on Confederacy Blocks Dixie Integration](https://www.loc.gov/item/sn83025247/1961-03-10/ed-1/)"; Newman, "[Background of Student Sit-Downs at Dixie Store Lunch Counters](https://www.loc.gov/item/sn83025247/1960-02-19/ed-1/)," 1, 4; Hancock, "[The Presidential Candidates and the Southern Tradition](https://www.loc.gov/item/sn83025247/1952-10-31/ed-1/)," 10; Bibb, "[Flying of Rebel Flag Condemned by Courier Writer](https://www.loc.gov/item/sn83025247/1951-11-23/ed-1/)"; *Minneapolis Spokesman*, "[Adlai Waves Rebel Flag](https://www.loc.gov/item/sn83025247/1952-10-31/ed-1/)," 12; *Minneapolis Spokesman*, "[NAACP Official Gives National Picture; Urges End to Segregation](https://www.loc.gov/item/sn83025247/1952-02-15/ed-1/)," 2; *Minneapolis Spokesman*, "[Power of a Myth](https://www.loc.gov/item/sn83025247/1956-02-03/ed-1/)," 2; *Minneapolis Spokesman*, "[Out West](https://www.loc.gov/item/sn83025247/1951-11-09/ed-1/)," 1.
 
 [^13]: *Equal Justice Initiative*. "Massive Resistance."
 
@@ -147,5 +133,4 @@ Bibb, Joseph D. "[Flying of Rebel Flag Condemned by Courier Writer](https://www.
 
 [^15]: *Minneapolis Spokesman*, "[Power of a Myth](https://www.loc.gov/item/sn83025247/1956-02-03/ed-1/)," 2.
 
-[^16]: *Minneapolis Spokesman*, "[Rebel Myths on Confederacy Blocks Dixie
-    Integration](https://www.loc.gov/item/sn83025247/1961-03-10/ed-1/)."
+[^16]: *Minneapolis Spokesman*, "[Rebel Myths on Confederacy Blocks Dixie Integration](https://www.loc.gov/item/sn83025247/1961-03-10/ed-1/)."
