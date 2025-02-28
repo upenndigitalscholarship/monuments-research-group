@@ -5,7 +5,7 @@ lat: 38.1795454
 long: -78.8415372
 topic: Flag Politics
 ---
-For their 1961 license plates, Spotsylvania County in Virginia issued a design bearing the Confederate battle flag. As reported by the *[Carolina Times](https://www.digitalnc.org/newspapers/carolina-times-durham-nc/)*, African-American citizens of the county quickly objected to the plates' logo. The Virginia NAACP sent a petition to the Spotsylvania County Board of Supervisors, requesting an immediate suspension of the plates. The petition, part of which was reprinted in the *Times* article, declared,
+For their 1961 license plates, Spotsylvania County in Virginia issued a design bearing the Confederate battle flag. As reported by the *[Carolina Times](https://www.digitalnc.org/newspapers/carolina-times-durham-nc/)*, African-American citizens of the county quickly objected to the emblem. The Virginia NAACP sent a petition to the Spotsylvania County Board of Supervisors, requesting an immediate suspension of the plates. The petition, part of which was reprinted in the *Times* article, declared,
 
 > To us the Civil War stands for the supreme effort of our country to insure freedom \[sic]...and we feel personally degraded in being compelled to imply that we thank the Confederacy for doing its best to keep us in physical bondage.[^1]
 
