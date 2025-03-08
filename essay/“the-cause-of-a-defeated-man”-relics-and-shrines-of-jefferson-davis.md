@@ -2,7 +2,7 @@
 title: "“The Cause of a Defeated Man”: Relics and Shrines of Jefferson Davis "
 lat: 37.5356
 long: -77.4572
-topic: Newspapers, Cities, and Individual Authors
+topic: Monuments and Locations
 ---
 *Black journalists have unflinchingly documented the white supremacist violence, both physical and psychological, inflicted on Black people. Wherever possible, we have used the language and descriptions presented in these materials to faithfully convey the pain and sense of urgency of their moment. Readers can expect to find offensive language in this article.*
 
