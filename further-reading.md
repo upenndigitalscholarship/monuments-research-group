@@ -6,7 +6,7 @@ layout: base.njk
 
 ## Further Reading
 
-Alexander, Ann Field. **\*[Race Man: The Rise and Fall of the "Fighting Editor," John Mitchell, Jr](https://www.upress.virginia.edu/title/3219/)**.* University of Virginia Press, 2002. 
+Alexander, Ann Field. **[Race Man: The Rise and Fall of the "Fighting Editor," John Mitchell, Jr](https://www.upress.virginia.edu/title/3219/)**. University of Virginia Press, 2002. 
 
 Cox, Karen L. ***[Dixie's Daughters: The United Daughters of the Confederacy and the Preservation of Confederate Culture](https://upf.com/book.asp?id=9780813064130)***. University Press of Florida, 2019.
 
@@ -30,7 +30,7 @@ Mills, Cynthia, and Pamela H. Simpson, eds. ***[Monuments to the Lost Cause: Wom
 
 Neiman, Susan. ***[Learning from the Germans: Race and the Memory of Evil](https://us.macmillan.com/books/9780374715526/learningfromthegermans/)***. Picador, 2020.
 
-Savage, Kirk. **\*[Standing Soldiers, Kneeling Slaves: Race, War, and Monument in Nineteenth-Century America](https://press.princeton.edu/books/paperback/9780691183152/standing-soldiers-kneeling-slaves?srsltid=AfmBOorgMlaAHt5cEmPOkYlpKLcMQe3evwhf8LwlCC8KOwZpgW2xj8Qp)**.* Princeton University Press, 1997.
+Savage, Kirk. **[Standing Soldiers, Kneeling Slaves: Race, War, and Monument in Nineteenth-Century America](https://press.princeton.edu/books/paperback/9780691183152/standing-soldiers-kneeling-slaves?srsltid=AfmBOorgMlaAHt5cEmPOkYlpKLcMQe3evwhf8LwlCC8KOwZpgW2xj8Qp)**. Princeton University Press, 1997.
 
 Smith, Clint. ***[How the Word Is Passed: A Reckoning With the History of Slavery Across America](https://www.clintsmithiii.com/how-the-word-is-passed)***. Back Bay Books/Little, Brown, and Co., 2021.
 
