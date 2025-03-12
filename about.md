@@ -14,7 +14,7 @@ Generous funding and support were provided by a number of sources, including the
 
 Follow us on our social media feeds!
 
-**Facebook[](https://www.facebook.com/falseimageofhistory/)**
+**[Facebook](https://www.facebook.com/falseimageofhistory)**[](https://www.facebook.com/falseimageofhistory/)
 
 **[Instagram](https://www.instagram.com/falseimageofhistory/)**[](https://www.instagram.com/falseimageofhistory/)
 
