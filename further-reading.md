@@ -8,6 +8,8 @@ layout: base.njk
 
 Alexander, Ann Field. **[Race Man: The Rise and Fall of the "Fighting Editor," John Mitchell, Jr](https://www.upress.virginia.edu/title/3219/)**. University of Virginia Press, 2002. 
 
+Brundage, W. Fitzhugh. ***[The Southern Past: A Clash of Race and Memory](https://www.hup.harvard.edu/books/9780674027213)***. Harvard University Press, 2008.
+
 Cox, Karen L. ***[Dixie's Daughters: The United Daughters of the Confederacy and the Preservation of Confederate Culture](https://upf.com/book.asp?id=9780813064130)***. University Press of Florida, 2019.
 
 Cox, Karen L. ***[No Common Ground: Confederate Monuments and the Ongoing Fight for Racial Justice](https://uncpress.org/book/9781469662671/no-common-ground/)***. Ferris and Ferris Books, 2021. 
