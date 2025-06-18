@@ -16,6 +16,8 @@ Cox, Karen L. ***[Dixie's Daughters: The United Daughters of the Confederacy and
 
 Cox, Karen L. ***[No Common Ground: Confederate Monuments and the Ongoing Fight for Racial Justice](https://uncpress.org/book/9781469662671/no-common-ground/)***. Ferris and Ferris Books, 2021. 
 
+Domby, Adam. ***[The False Cause: Fraud, Fabrication, and White Supremacy](https://www.upress.virginia.edu/title/5354/)***. University of Virginia Press, 2020.
+
 Du Bois, W.E.B. ***[Black Reconstruction in America: An Essay Toward a History of the Part Which Black Folk Played in the Attempt to Reconstruct Democracy in America, 1860-1880](https://archive.org/details/blackreconstruc00dubo/page/n5/mode/2up)***. Harcourt, Brace, and Company, 1935. 
 
 Fagan, Benjamin. ***[The Black Newspaper and the Chosen Nation](https://ugapress.org/book/9780820354699/the-black-newspaper-and-the-chosen-nation/)***. University of Georgia Press, 2016. 
