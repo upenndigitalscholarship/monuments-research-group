@@ -20,6 +20,8 @@ Domby, Adam. ***[The False Cause: Fraud, Fabrication, and White Supremacy](https
 
 Du Bois, W.E.B. ***[Black Reconstruction in America: An Essay Toward a History of the Part Which Black Folk Played in the Attempt to Reconstruct Democracy in America, 1860-1880](https://archive.org/details/blackreconstruc00dubo/page/n5/mode/2up)***. Harcourt, Brace, and Company, 1935. 
 
+Edmonds, Arianne. ***[We Now Belong to Ourselves: J.L. Edmonds, the Black Press, and Black Citizenship in America](https://global.oup.com/academic/product/we-now-belong-to-ourselves-9780197579084?cc=us&lang=en&)***. Oxford University Press, 2025. 
+
 Fagan, Benjamin. ***[The Black Newspaper and the Chosen Nation](https://ugapress.org/book/9780820354699/the-black-newspaper-and-the-chosen-nation/)***. University of Georgia Press, 2016. 
 
 Green, Hilary N. ***[Unforgettable Sacrifice: How Black Communities Remembered the Civil War](https://www.fordhampress.com/9781531508524/unforgettable-sacrifice/)***. Fordham University Press, 2025.
