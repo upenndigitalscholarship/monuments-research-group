@@ -1,13 +1,13 @@
 ---
-title: "\"We Are Pushing Forward to a Larger Freedom\": The Harper's Ferry
-  Monument to \"Loyal Negroes\""
+title: '"We Are Pushing Forward to a Larger Freedom": The Harpers Ferry Monument
+  to "Loyal Negroes"'
 lat: 39.3213322
 long: -77.7402773
 topic: Monuments to "Mammies" and "Faithful Slaves"
 ---
-In 1931, eight years after the failed attempt to erect a [national "mammy" monument](https://falseimage.pennds.org/essay/Monuments-to-%E2%80%9CMammies%E2%80%9D-and-%E2%80%9CUncle-Toms%E2%80%9D-BACKUP), the *Afro-American* published a series of articles covering the successful installation of a "loyal Negro" monument at Harper's Ferry, West Virginia. The United Daughters of the Confederacy proposed the monument as a way to memorialize Black enslaved people who did not join John Brown's rebellion at Harper's Ferry.[^1] It was specifically dedicated to the memory of Heyward Shepherd, a Black freeman who worked at the railway where the rebellion took place. He was killed in the conflict and the inscription on the monument, written by the United Daughters of the Confederacy, described him as "the first victim of this attempted insurrection."
+In 1931, eight years after the failed attempt to erect a [national "mammy" monument](https://falseimage.pennds.org/essay/Monuments-to-%E2%80%9CMammies%E2%80%9D-and-%E2%80%9CUncle-Toms%E2%80%9D-BACKUP), the *Afro-American* published a series of articles covering the successful installation of a "loyal Negro" monument at Harpers Ferry, West Virginia. The United Daughters of the Confederacy proposed the monument as a way to memorialize Black enslaved people who did not join John Brown's rebellion at Harpers Ferry.[^1] It was specifically dedicated to the memory of Heyward Shepherd, a Black freeman who worked at the railway where the rebellion took place. He was killed in the conflict and the inscription on the monument, written by the United Daughters of the Confederacy, described him as "the first victim of this attempted insurrection."
 
-Storer College, a historically Black institution located in Harper's Ferry, already had a memorial to Brown in position near the raid site. The "loyal Negro" monument was erected within sight of this memorial.[^2]
+Storer College, a historically Black institution located in Harpers Ferry, already had a memorial to Brown in position near the raid site. The "loyal Negro" monument was erected within sight of this memorial.[^2]
 
 The *[Afro-American](https://proxy.library.upenn.edu/login?url=https://www.proquest.com/publication/45589?accountid=14707&decadeSelected=2010+-+2019&yearSelected=2010&monthSelected=12&issueNameSelected=02010Y12Y25$23Dec+25,+2010)* reported that Rev. George Freeman Bragg, Jr., a Black minister well known for his activism against racial discrimination, provided the benediction at the UDC's dedication ceremony. The paper reported on the surprise some felt in reaction to Rev. Bragg's involvement in "such a service."[^3] One prominent citizen, Mrs. S. H. Hill, commented "\[Rev. Bragg] has done so much to bring the best that colored people have done to light. Most of the better thinking people of Harpers Ferry look upon the \[monument dedication] with disgust."[^4] The paper stated that the surprise grew when it was announced that Henry T. McDonald, the white president of Storer College, would also participate.
 
@@ -17,7 +17,7 @@ At the ceremony, Pearl Tatten, a Black woman and the choir director at Storer Co
 
 While it was not reported if anyone confronted Tatten after her impromptu speech, the *Afro-American* reprinted a note sent to her at the end of the ceremony by a member of the UDC: "I wonder at your temerity. Your untimely remarks were out of place, in poor spirit, and most discourteous. Such ignorance is colossal."[^5] Storer students shared Tatten's sentiment and many refused to attend the dedication.[^6]
 
-As of 2024, both the John Brown monument and the Heyward Shepherd monument remain standing. The Shepherd monument was removed from public display in 1976, but then re-erected in the same location in 1980. After the 1980 rebuilding, it remained covered with plywood for a decade and a half while the city wrestled with how best to navigate the controversy surrounding it.[^7][](*Wikipedia*, "Heyward Shepherd Monument.") However, the UDC and the Sons of Confederate Veterans successfully lobbied for it to be uncovered. It has remained visible since 1995.[^8]
+As of 2024, both the John Brown monument and the Heyward Shepherd monument remain standing. The Shepherd monument was removed from public display in 1976, but then re-erected in the same location in 1980. After the 1980 rebuilding, it remained covered with plywood for a decade and a half while the city wrestled with how best to navigate the controversy surrounding it.[^7](*Wikipedia*, "Heyward Shepherd Monument.") However, the UDC and the Sons of Confederate Veterans successfully lobbied for it to be uncovered. It has remained visible since 1995.[^8]
 
 *Olivia Haynie*
 
@@ -31,7 +31,7 @@ As of 2024, both the John Brown monument and the Heyward Shepherd monument remai
 
 <br>
 
-Haynie, Olivia. "'We Are Pushing Forward to a Larger Freedom': Harper's Ferry Monument to 'Loyal Negroes'." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/harper's-ferry-monument-to-loyal-negroes/.
+Haynie, Olivia. "'We Are Pushing Forward to a Larger Freedom': Harpers Ferry Monument to 'Loyal Negroes'." *False Image of History: Perspectives on Confederate Commemoration from the Black Press* (online). Fall 2024 Edition. Schaefer, Donovan O., ed. URL = https://falseimage.pennds.org/essay/harpers-ferry-monument-to-loyal-negroes/.
 
 <br>
 
