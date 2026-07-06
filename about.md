@@ -48,7 +48,7 @@ Olivia Haynie is a member of the Class of 2024 in the College of Arts and Scienc
 
 *Many of the articles presented Confederate monument controversy as only affecting Blacks and as a symbolic issue alone. However, the erection of these Confederate monuments was spurred by institutional racism, which affects everyone in the United States regardless of race. Additionally, the problem is not just the monuments’ existence but that people wanted them up in the first place and why. Further investigation into how language places people within this issue—or removes them from it—could shed light on why the Confederate monument controvery has been drawn out for over a century.* - Olivia Haynie
 
-Here's Olivia Haynie [discussing some of her main takeaways](https://www.instagram.com/p/DGLtyNgJNXQ/) from this project.
+Here's Olivia [discussing some of her main takeaways](https://www.instagram.com/p/DGLtyNgJNXQ/) from this project.
 
 <br style="clear:both" />
 
@@ -60,7 +60,9 @@ Justin J. Seward is a graduate student at Harvard Divinity School and a graduate
 
 *Confederate monuments are not just symbols of hatred and white supremacy, they are perpetuators of it. Lynchings, cross burnings, and KKK rituals are rudimentary parts of the existence of Confederate monuments, where they were not passive symbols but active sites promoting white supremacy. Beyond individual instances of racism, their collective existence is a monument to the spirit of white supremacy and the systemic racism that continues to grip this country and its history. As white Americans debated whether the monuments reflected history or treason, Black Americans called out their true nature.* - Justin Seward
 
-Here's Justin Seward [discussing some of his main takeaways](https://www.instagram.com/p/DGQ6UIYMc51/) from this project.
+Here's Justin [discussing some of his main takeaways](https://www.instagram.com/p/DGQ6UIYMc51/) from this project.
+
+Here's Justin [speaking at a United Methodist Church seminar](https://www.youtube.com/watch?v=bN60YZAKaPU) about the implications of the project. 
 
 <br style="clear:both" />
 
