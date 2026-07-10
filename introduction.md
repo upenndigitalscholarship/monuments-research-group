@@ -8,6 +8,8 @@ layout: base.njk
 
 *Donovan Schaefer*
 
+**Coming in spring 2027 from Fordham University Press: *A False Image of History: Perspectives on Confederate Commemoration from the Black Press*! More details soon!**
+
 Reviewing the history of the Civil War and its aftermath in his 1935 book *[Black Reconstruction in America](https://archive.org/details/blackreconstruc00dubo/page/n5/mode/2up)*, W. E. B. Du Bois wrote:
 
 > Then came this battle called Civil War, beginning in Kansas in 1854, and ending in the presidential election of 1876—twenty awful years. The slave went free; stood a brief moment in the sun; then moved back again toward slavery. The whole weight of America was thrown to color caste. The colored world went down before England, France, Germany, Russia, Italy, and America. A new slavery arose. The upward moving of white labor was betrayed into wars for profit based on color caste. Democracy died save in the hearts of black folk. (24)
@@ -58,12 +60,9 @@ This website contains some of the stories that emerged across the items in our d
 
 We invite you to explore these voices and perspectives and to gain new insight into the long history of critical commentary on Confederate commemoration.
 
-
 *A note about links: Some hyperlinks on this site direct to private digital repositories that are not publicly accessible. Public online resources are also changing constantly and may become unavailable over time. We apologize in advance for any links that don’t work as intended.*
 
 *A note about racist language: Black journalists in the post-Reconstruction era unflinchingly documented the white supremacist violence, both physical and psychological, inflicted on Black people during this period. Wherever possible, we have used the language and descriptions presented in these materials to faithfully convey the pain and sense of urgency of their moment. Readers can expect to find offensive language and references to violent episodes in these articles.*
-
-
 
 [^1]: The term "Confederate commemoration" is a broad category that
     includes monuments, cemetery development, the display of Confederate
