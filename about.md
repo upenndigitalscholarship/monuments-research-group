@@ -6,7 +6,7 @@ layout: base.njk
 
 ## About
 
-**Coming in spring 2027 from Fordham University Press: *A False Image of History: Perspectives on Confederate Commemoration from the Black Press*! More details soon!**
+**Coming in summer 2027 from Fordham University Press: *A False Image of History: Perspectives on Confederate Commemoration from the Black Press*! Pre-order [here](https://bookshop.org/p/books/a-false-image-of-history-perspectives-on-confederate-commemoration-from-the-black-press-donovan-o-schaefer/bc2e82674475c39f)!**
 
 Begun at the University of Pennsylvania in 2022, this project set out to build a database of responses to Confederate commemoration from the Black press. The database eventually grew to include over 2000 articles from over 150 Black newspapers dating as far back as 1869. Our student researchers wrote over 30 articles offering windows into the stories told by this collection. The [Price Lab for Digital Humanities](https://pricelab.sas.upenn.edu/) and the [Center for Research Data and Digital Scholarship](https://www.library.upenn.edu/rdds) built this website.
 
